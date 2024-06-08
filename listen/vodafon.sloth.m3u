@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="76674" tvg-name="Das Erste HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:4C2B:A506:EC:0:0:0:1" epg-source="glacn5x51kf", Das Erste HD
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5100,5101,1170,1176,2171,2172,5102,5103,5104,5105,5107
+#EXTINF:-1 tvg-id="76674" tvg-name="Das Erste" group-title="10.TV.Vodafone" dvb-reference="1:0:1:3B19:B652:EC:0:0:0:1" epg-source="glacn5x51kf", Das Erste
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171
+#EXTINF:-1 tvg-id="76627" tvg-name="ZDF HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:BA34:B0A3:EC:0:0:0:1" epg-source="glacn5x51kf", ZDF HD
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6123,6130,6131,6170
+#EXTINF:-1 tvg-id="76627" tvg-name="ZDF" group-title="10.TV.Vodafone" dvb-reference="1:0:1:3C0:F275:EC:0:0:0:1" epg-source="glacn5x51kf", ZDF
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
+#EXTINF:-1 tvg-id="76740" tvg-name="RTL" group-title="10.TV.Vodafone" dvb-reference="1:0:1:1E6F:70C6:EC:0:0:0:1" epg-source="glacn5x51kf", RTL
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7600,7601,7602,7603,7604,7605,7606,7607,7608
+#EXTINF:-1 tvg-id="76738" tvg-name="SAT.1" group-title="10.TV.Vodafone" dvb-reference="1:0:1:3333:4DD6:EC:0:0:0:1" epg-source="glacn5x51kf", SAT.1
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7630,7631,7632,7633,7637,7638
+#EXTINF:-1 tvg-id="76704" tvg-name="VOX" group-title="10.TV.Vodafone" dvb-reference="1:0:1:EDE1:91A7:EC:0:0:0:1" epg-source="glacn5x51kf", VOX
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,111,1701,1700,1702,1704,1706,1707,1708
+#EXTINF:-1 tvg-id="76762" tvg-name="ProSieben" group-title="10.TV.Vodafone" dvb-reference="1:0:1:4D1A:3F55:EC:0:0:0:1" epg-source="glacn5x51kf", ProSieben
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,101,2201,2202,2203,2204,2206
+#EXTINF:-1 tvg-id="76614" tvg-name="sixx" group-title="10.TV.Vodafone" dvb-reference="1:0:1:E0E2:36A9:EC:0:0:0:1" epg-source="glacn5x51kf", sixx
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,102,1181,1182,1184,1186
+#EXTINF:-1 tvg-id="76792" tvg-name="kabel eins" group-title="10.TV.Vodafone" dvb-reference="1:0:1:47CD:2868:EC:0:0:0:1" epg-source="glacn5x51kf", kabel eins
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,103,2301,2302,2304,2306
+#EXTINF:-1 tvg-id="76702" tvg-name="ProSieben MAXX" group-title="10.TV.Vodafone" dvb-reference="1:0:1:72FE:BD4E:EC:0:0:0:1" epg-source="glacn5x51kf", ProSieben MAXX
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,108,6431,6432,6433,6434,6436
+#EXTINF:-1 tvg-id="76755" tvg-name="RTLZWEI" group-title="10.TV.Vodafone" dvb-reference="1:0:1:6084:4F47:EC:0:0:0:1" epg-source="glacn5x51kf", RTLZWEI
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,110,1601,1600,1602,1604,1606,1607,1608
+#EXTINF:-1 tvg-id="76787" tvg-name="NITRO" group-title="10.TV.Vodafone" dvb-reference="1:0:1:D3B7:5492:EC:0:0:0:1" epg-source="glacn5x51kf", NITRO
+rtsp://192.168.178.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,981,980,982,984,986,987,988
+#EXTINF:-1 tvg-id="76692" tvg-name="DMAX" group-title="10.TV.Vodafone" dvb-reference="1:0:1:4AE:7F08:EC:0:0:0:1" epg-source="glacn5x51kf", DMAX
+rtsp://192.168.178.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,2291,2292,2294,2296
+#EXTINF:-1 tvg-id="76742" tvg-name="Comedy Central" group-title="10.TV.Vodafone" dvb-reference="1:0:1:D872:3E26:EC:0:0:0:1" epg-source="glacn5x51kf", Comedy Central
+rtsp://192.168.178.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,106,2941,2942,2943,2946
+#EXTINF:-1 tvg-id="76722" tvg-name="RTLup" group-title="10.TV.Vodafone" dvb-reference="1:0:1:531D:942D:EC:0:0:0:1" epg-source="glacn5x51kf", RTLup
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,108,2411,2412,2414,2416,2417,2418
+#EXTINF:-1 tvg-id="76716" tvg-name="SAT.1 Gold" group-title="10.TV.Vodafone" dvb-reference="1:0:1:60F1:9FF1:EC:0:0:0:1" epg-source="glacn5x51kf", SAT.1 Gold
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,2431,2432,2434,2436
+#EXTINF:-1 tvg-id="76626" tvg-name="ServusTV HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:8B8E:50F6:EC:0:0:0:1" epg-source="glacn5x51kf", ServusTV HD
+rtsp://192.168.178.1:554/?avm=1&freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,102,6771,6772,6774,6776
+#EXTINF:-1 tvg-id="76626" tvg-name="ServusTV" group-title="10.TV.Vodafone" dvb-reference="1:0:1:8769:DEA8:EC:0:0:0:1" epg-source="glacn5x51kf", ServusTV
+rtsp://192.168.178.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,107,2371,2372,2374,2376
+#EXTINF:-1 tvg-id="76796" tvg-name="VOXup" group-title="10.TV.Vodafone" dvb-reference="1:0:1:A876:BD87:EC:0:0:0:1" epg-source="glacn5x51kf", VOXup
+rtsp://192.168.178.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,107,811,812,814,816,817,818
+#EXTINF:-1 tvg-id="76708" tvg-name="TELE 5" group-title="10.TV.Vodafone" dvb-reference="1:0:1:330A:3B02:EC:0:0:0:1" epg-source="glacn5x51kf", TELE 5
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,106,411,412,414
+#EXTINF:-1 tvg-id="76786" tvg-name="Disney Channel" group-title="10.TV.Vodafone" dvb-reference="1:0:1:BBAF:5C14:EC:0:0:0:1" epg-source="glacn5x51kf", Disney Channel
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,103,1011,1012,1013,1014
+#EXTINF:-1 tvg-id="76739" tvg-name="zdf_neo HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:81B3:1A6F:EC:0:0:0:1" epg-source="glacn5x51kf", zdf_neo HD
+rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,104,541,540,542,543,544,546,547
+#EXTINF:-1 tvg-id="76739" tvg-name="zdf_neo" group-title="10.TV.Vodafone" dvb-reference="1:0:1:A59:2AAF:EC:0:0:0:1" epg-source="glacn5x51kf", zdf_neo
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
+#EXTINF:-1 tvg-id="76682" tvg-name="3sat HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:3F1D:2458:EC:0:0:0:1" epg-source="glacn5x51kf", 3sat HD
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,103,6691,6690,6692,6693,6694,6696,6697
+#EXTINF:-1 tvg-id="76682" tvg-name="3sat" group-title="10.TV.Vodafone" dvb-reference="1:0:1:7E92:1F39:EC:0:0:0:1" epg-source="glacn5x51kf", 3sat
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
+#EXTINF:-1 tvg-id="76738" tvg-name="ONE HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:626A:120D:EC:0:0:0:1" epg-source="glacn5x51kf", ONE HD
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,103,1721,1720,1722,1723,1724,1726,1727,1728,2171
+#EXTINF:-1 tvg-id="76641" tvg-name="arte HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:8CF1:1B29:EC:0:0:0:1" epg-source="glacn5x51kf", arte HD
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,6661,6660,6662,6663,6664,6665,6666,6667,6668,6669
+#EXTINF:-1 tvg-id="76684" tvg-name="WDR HD Köln" group-title="10.TV.Vodafone" dvb-reference="1:0:1:1EC2:C6C2:EC:0:0:0:1" epg-source="glacn5x51kf", WDR HD Köln
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5500,5501,2171,2370,2376,5502,5503,5504,5505,5507
+#EXTINF:-1 tvg-id="76684" tvg-name="WDR Dortmund" group-title="10.TV.Vodafone" dvb-reference="1:0:1:131:C6EA:EC:0:0:0:1" epg-source="glacn5x51kf", WDR Dortmund
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7660,7661,203,301,7663,7664,7665,7666,7667,7668,7669
+#EXTINF:-1 tvg-id="76710" tvg-name="SR Fernsehen HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:CB2E:5D6:EC:0:0:0:1" epg-source="glacn5x51kf", SR Fernsehen HD
+rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,104,1271,1270,1272,1273,1274,1276,1277,1278,2171
+#EXTINF:-1 tvg-id="76710" tvg-name="SR Fernsehen" group-title="10.TV.Vodafone" dvb-reference="1:0:1:EAFE:C511:EC:0:0:0:1" epg-source="glacn5x51kf", SR Fernsehen
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970,2976
+#EXTINF:-1 tvg-id="76693" tvg-name="SWR RP HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:53F:B31F:EC:0:0:0:1" epg-source="glacn5x51kf", SWR RP HD
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5130,5131,1370,2171,2476,5132,5133,5134,5135,5137
+#EXTINF:-1 tvg-id="76710" tvg-name="SWR Fernsehen RP" group-title="10.TV.Vodafone" dvb-reference="1:0:1:FFE:2AF4:EC:0:0:0:1" epg-source="glacn5x51kf", SWR Fernsehen RP
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3100,3101,2171,2470,2476,3102,3103,3104,3106
+#EXTINF:-1 tvg-id="76712" tvg-name="BR Süd HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:E6C:4F4A:EC:0:0:0:1" epg-source="glacn5x51kf", BR Süd HD
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5200,5201,1076,1570,2171,5202,5203,5204,5205,5207,5209
+#EXTINF:-1 tvg-id="76712" tvg-name="BR Süd" group-title="10.TV.Vodafone" dvb-reference="1:0:1:658:C74D:EC:0:0:0:1" epg-source="glacn5x51kf", BR Süd
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178
+#EXTINF:-1 tvg-id="76710" tvg-name="hr-fernsehen" group-title="10.TV.Vodafone" dvb-reference="1:0:1:51F3:E5CD:EC:0:0:0:1" epg-source="glacn5x51kf", hr-fernsehen
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
+#EXTINF:-1 tvg-id="76710" tvg-name="hr-fernsehen HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:C188:6167:EC:0:0:0:1" epg-source="glacn5x51kf", hr-fernsehen HD
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,106,6551,2171,6550,6552,6553,6554,6556,6557,6558
+#EXTINF:-1 tvg-id="76730" tvg-name="MDR Sachsen HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:E1E5:B118:EC:0:0:0:1" epg-source="glacn5x51kf", MDR Sachsen HD
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5320,5321,2171,2870,2876,5322,5323,5324,5325,5327
+#EXTINF:-1 tvg-id="76730" tvg-name="MDR THÜRINGEN" group-title="10.TV.Vodafone" dvb-reference="1:0:1:6453:3DCF:EC:0:0:0:1" epg-source="glacn5x51kf", MDR THÜRINGEN
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,103,2901,2171,2870,2876,2902,2903,2904,2905
+#EXTINF:-1 tvg-id="76748" tvg-name="NDR FS NDS HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:885D:8337:EC:0:0:0:1" epg-source="glacn5x51kf", NDR FS NDS HD
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5220,5221,1770,2171,2676,5222,5223,5224,5225,5227
+#EXTINF:-1 tvg-id="76748" tvg-name="NDR FS HH" group-title="10.TV.Vodafone" dvb-reference="1:0:1:1AC4:DFBF:EC:0:0:0:1" epg-source="glacn5x51kf", NDR FS HH
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,2601,2171,2602,2603,2604,2670,2676
+#EXTINF:-1 tvg-id="76748" tvg-name="Radio Bremen TV HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:7702:1ECE:EC:0:0:0:1" epg-source="glacn5x51kf", Radio Bremen TV HD
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,113,5441,2171,2576,2770,5442,5443,5444,5445,5447
+#EXTINF:-1 tvg-id="358321" tvg-name="rbb Berlin HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:C857:96C4:EC:0:0:0:1" epg-source="glacn5x51kf", rbb Berlin HD
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5310,5311,677,2171,2176,5312,5313,5314,5315,5317
+#EXTINF:-1 tvg-id="358321" tvg-name="rbb Berlin" group-title="10.TV.Vodafone" dvb-reference="1:0:1:25F1:CE5C:EC:0:0:0:1" epg-source="glacn5x51kf", rbb Berlin
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,109,601,602,603,604,670,2171,2176
+#EXTINF:-1 tvg-id="76640" tvg-name="ntv" group-title="10.TV.Vodafone" dvb-reference="1:0:1:33B9:26E5:EC:0:0:0:1" epg-source="glacn5x51kf", ntv
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,112,1901,1902,1903,1904,1906,1907,1908
+#EXTINF:-1 tvg-id="76699" tvg-name="TLC" group-title="10.TV.Vodafone" dvb-reference="1:0:1:CB83:34C9:EC:0:0:0:1" epg-source="glacn5x51kf", TLC
+rtsp://192.168.178.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,104,881,882,884,886
+#EXTINF:-1 tvg-id="76715" tvg-name="kabel eins Doku" group-title="10.TV.Vodafone" dvb-reference="1:0:1:6B9:F84B:EC:0:0:0:1" epg-source="glacn5x51kf", kabel eins Doku
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,112,1511,1512,1514,1516
+#EXTINF:-1 tvg-id="76649" tvg-name="PHOENIX HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:714:CBB:EC:0:0:0:1" epg-source="glacn5x51kf", PHOENIX HD
+rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,106,581,582,583,584,586,588,2171
+#EXTINF:-1 tvg-id="76795" tvg-name="WELT" group-title="10.TV.Vodafone" dvb-reference="1:0:1:2D09:FDF8:EC:0:0:0:1" epg-source="glacn5x51kf", WELT
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,105,2801,2802
+#EXTINF:-1 tvg-name="NRWision HD" group-title="10.TV.Vodafone" dvb-reference="1:0:1:5D63:16DF:EC:0:0:0:1", NRWision HD
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7200,7201,7202,7208
+#EXTINF:-1 tvg-id="76780" tvg-name="MTV" group-title="10.TV.Vodafone" dvb-reference="1:0:1:627D:C1C2:EC:0:0:0:1" epg-source="glacn5x51kf", MTV
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,102,421,422,426
+#EXTINF:-1 tvg-id="76809" tvg-name="DELUXE MUSIC" group-title="10.TV.Vodafone" dvb-reference="1:0:1:CF21:3E5A:EC:0:0:0:1" epg-source="glacn5x51kf", DELUXE MUSIC
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,111,2351,2352,2356
+#EXTINF:-1 tvg-id="76659" tvg-name="SPORT1" group-title="10.TV.Vodafone" dvb-reference="1:0:1:1B98:A15C:EC:0:0:0:1" epg-source="glacn5x51kf", SPORT1
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,113,2501,2502,2504,2506
+#EXTINF:-1 tvg-id="76619" tvg-name="Eurosport 1" group-title="10.TV.Vodafone" dvb-reference="1:0:1:FA68:2E2F:EC:0:0:0:1" epg-source="glacn5x51kf", Eurosport 1
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,104,2921,2922,2924,2926
+#EXTINF:-1 tvg-name="sunshine live" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:6A3E:EC:0:0:0:0", sunshine live
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,311,6382
+#EXTINF:-1 tvg-name="Beats Radio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:621D:EC:0:0:0:0", Beats Radio
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,317,3382
+#EXTINF:-1 tvg-name="1LIVE" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:4811:C7BD:EC:0:0:0:0", 1LIVE
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3810,3811,2075,2166,2177
+#EXTINF:-1 tvg-name="1LIVE diGGi" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:DE57:13A4:EC:0:0:0:0", 1LIVE diGGi
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3870,3871,2083,2166,2177
+#EXTINF:-1 tvg-name="WDR 2" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2D1A:561A:EC:0:0:0:0", WDR 2
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3820,3821,2076,2166,2177
+#EXTINF:-1 tvg-name="WDR 2  Ostwestfalen/Lippe" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6A6B:7AB5:EC:0:0:0:0", WDR 2  Ostwestfalen/Lippe
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,206,3332
+#EXTINF:-1 tvg-name="WDR 2 Rhein und Ruhr" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:1521:C68F:EC:0:0:0:0", WDR 2 Rhein und Ruhr
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7650,7652
+#EXTINF:-1 tvg-name="WDR 3" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:65CE:2CFB:EC:0:0:0:0", WDR 3
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3830,3831,2077,2166,2177
+#EXTINF:-1 tvg-name="WDR 4" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:EB9:EA88:EC:0:0:0:0", WDR 4
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3840,3841,2078,2166,2177
+#EXTINF:-1 tvg-name="WDR 5" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:476D:C169:EC:0:0:0:0", WDR 5
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3850,3851,2079,2166,2177
+#EXTINF:-1 tvg-name="WDR Event" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:35FC:4415:EC:0:0:0:0", WDR Event
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3890,3891,2082,2166,2177
+#EXTINF:-1 tvg-name="UNSERDING" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6A6B:97FB:EC:0:0:0:0", UNSERDING
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,203,3302
+#EXTINF:-1 tvg-name="YOU FM" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6B0B:70F4:EC:0:0:0:0", YOU FM
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3990,3991,2074,2179
+#EXTINF:-1 tvg-name="80s80s" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:5E49:EC:0:0:0:0", 80s80s
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,316,6302
+#EXTINF:-1 tvg-name="90s90s" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:872D:7083:EC:0:0:0:0", 90s90s
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,324,2772
+#EXTINF:-1 tvg-name="COSMO" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:AE3:717B:EC:0:0:0:0", COSMO
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3860,3861,2080,2166,2177
+#EXTINF:-1 tvg-name="Dlf" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:55F4:27F6:EC:0:0:0:0", Dlf
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,810,850
+#EXTINF:-1 tvg-name="Dlf Kultur" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:79A9:2F64:EC:0:0:0:0", Dlf Kultur
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,710,711,750
+#EXTINF:-1 tvg-name="JAM FM" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:6E46:EC:0:0:0:0", JAM FM
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,312,6332
+#EXTINF:-1 tvg-name="MDR JUMP" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:94F7:89A6:EC:0:0:0:0", MDR JUMP
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4080,4081,2074,2179
+#EXTINF:-1 tvg-name="Radio Emscher Lippe" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:9FBD:8877:EC:0:0:0:0", Radio Emscher Lippe
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7610,7612
+#EXTINF:-1 tvg-name="radio ffn" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2D24:B523:EC:0:0:0:0", radio ffn
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7680,7682
+#EXTINF:-1 tvg-name="Fritz" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:3311:A277:EC:0:0:0:0", Fritz
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4190,4191,2179,4196
+#EXTINF:-1 tvg-name="hr1" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:F72B:E00C:EC:0:0:0:0", hr1
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3950,3951,2074,2179
+#EXTINF:-1 tvg-name="hr2" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:F703:FC46:EC:0:0:0:0", hr2
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3960,3961,2074,2179
+#EXTINF:-1 tvg-name="hr3" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:80B:DFC:EC:0:0:0:0", hr3
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3970,3971,2074,2179
+#EXTINF:-1 tvg-name="hr4" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:E151:713A:EC:0:0:0:0", hr4
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3980,3981,2074,2179
+#EXTINF:-1 tvg-name="MDR SPUTNIK" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:FA8:7B26:EC:0:0:0:0", MDR SPUTNIK
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4090,4091,2074,2179
+#EXTINF:-1 tvg-name="N-JOY" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:AF31:B2F2:EC:0:0:0:0", N-JOY
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3450,3451,2074,2166,2177
+#EXTINF:-1 tvg-name="NRW1" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:BF96:162C:EC:0:0:0:0", NRW1
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7190,7192
+#EXTINF:-1 tvg-name="rbb 88.8" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:284:F9B9:EC:0:0:0:0", rbb 88.8
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4170,4171,2179,4176
+#EXTINF:-1 tvg-name="Rock Antenne" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:FCED:A359:EC:0:0:0:0", Rock Antenne
+rtsp://192.168.178.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,324,3372
+#EXTINF:-1 tvg-name="RTL Radio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:5A4B:EC:0:0:0:0", RTL Radio
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,315,6312
+#EXTINF:-1 tvg-name="SWR1 RP" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:A71:2847:EC:0:0:0:0", SWR1 RP
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3710,3711,2179,3716
+#EXTINF:-1 tvg-name="SWR2" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:C998:A511:EC:0:0:0:0", SWR2
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3720,3721,2179,3726
+#EXTINF:-1 tvg-name="SWR3" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:C4C6:8032:EC:0:0:0:0", SWR3
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3730,3731,2179,3736
+#EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:777C:CAB6:EC:0:0:0:0", ANTENNE BAYERN
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7100,7102
+#EXTINF:-1 tvg-name="Antenne Brandenburg" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6E24:6F1A:EC:0:0:0:0", Antenne Brandenburg
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4160,4161,2179,4166
+#EXTINF:-1 tvg-name="Antenne NRW" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:D4D5:D9FC:EC:0:0:0:0", Antenne NRW
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7110,7112
+#EXTINF:-1 tvg-name="AntenneSaar" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6A6B:8EF7:EC:0:0:0:0", AntenneSaar
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,205,3322
+#EXTINF:-1 tvg-name="Bayern 1" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:5259:4DD2:EC:0:0:0:0", Bayern 1
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3100,3101,2074,2166,2177
+#EXTINF:-1 tvg-name="Bayern 2" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8017:F76C:EC:0:0:0:0", Bayern 2
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3110,3111,2074,2166,2177
+#EXTINF:-1 tvg-name="BAYERN 3" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:D0AD:C806:EC:0:0:0:0", BAYERN 3
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3120,3121,2074,2166,2177
+#EXTINF:-1 tvg-name="BR Heimat" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:1C7D:1CA2:EC:0:0:0:0", BR Heimat
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3180,3181,2074,2166,2177
+#EXTINF:-1 tvg-name="BR Schlager" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:7D39:19E:EC:0:0:0:0", BR Schlager
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3160,3161,2074,2166,2177
+#EXTINF:-1 tvg-name="BR24" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:FEE4:876A:EC:0:0:0:0", BR24
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3140,3141,2074,2166,2177
+#EXTINF:-1 tvg-name="BR24live" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2CA3:3104:EC:0:0:0:0", BR24live
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3150,3151,2074,2166,2177
+#EXTINF:-1 tvg-name="Bremen Eins" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:D090:3086:EC:0:0:0:0", Bremen Eins
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3560,3561,2074,2166,2177
+#EXTINF:-1 tvg-name="Bremen NEXT" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:84C9:8854:EC:0:0:0:0", Bremen NEXT
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3590,3591,2074,2166,2177
+#EXTINF:-1 tvg-name="Bremen Vier" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:570A:DEBA:EC:0:0:0:0", Bremen Vier
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3580,3581,2074,2166,2177
+#EXTINF:-1 tvg-name="Bremen Zwei" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:FE4:EDA2:EC:0:0:0:0", Bremen Zwei
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3570,3571,2074,2166,2177
+#EXTINF:-1 tvg-name="BR-KLASSIK" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:90A4:963F:EC:0:0:0:0", BR-KLASSIK
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3130,3131,2074,2166,2177,3132
+#EXTINF:-1 tvg-name="DASDING" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:D633:1D95:EC:0:0:0:0", DASDING
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3760,3761,2179,3766
+#EXTINF:-1 tvg-name="Die Maus" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:944:6E58:EC:0:0:0:0", Die Maus
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3880,3881,2081,2166,2177
+#EXTINF:-1 tvg-name="Dlf Nova" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:43B4:1614:EC:0:0:0:0", Dlf Nova
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,411,410,450
+#EXTINF:-1 tvg-name="DRadio DokDeb" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:9214:EC35:EC:0:0:0:0", DRadio DokDeb
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,201,6462
+#EXTINF:-1 tvg-name="ERF Plus" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:BF8A:FD0E:EC:0:0:0:0", ERF Plus
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,301,6372
+#EXTINF:-1 tvg-name="hr-iNFO" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2026:3D76:EC:0:0:0:0", hr-iNFO
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4000,4001,2074,2179
+#EXTINF:-1 tvg-name="Klassik Radio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:4EC:4694:EC:0:0:0:0", Klassik Radio
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7170,7172
+#EXTINF:-1 tvg-name="Kulthit Radio NRW" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:623D:6E6:EC:0:0:0:0", Kulthit Radio NRW
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7180,7182
+#EXTINF:-1 tvg-name="MDR AKTUELL" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:34C:570D:EC:0:0:0:0", MDR AKTUELL
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4100,4101,2074,2179
+#EXTINF:-1 tvg-name="MDR KLASSIK" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:3B7E:5896:EC:0:0:0:0", MDR KLASSIK
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4110,4111,2074,2179
+#EXTINF:-1 tvg-name="MDR KULTUR" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:7405:6754:EC:0:0:0:0", MDR KULTUR
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4070,4071,2074,2179
+#EXTINF:-1 tvg-name="MDR SACHSEN DD" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:9807:5A8E:EC:0:0:0:0", MDR SACHSEN DD
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4040,4041,2074,2179
+#EXTINF:-1 tvg-name="MDR S-ANHALT MD" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:FD97:8348:EC:0:0:0:0", MDR S-ANHALT MD
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4050,4051,2074,2179
+#EXTINF:-1 tvg-name="MDR THÜR Mitte-W" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:E75:3E9A:EC:0:0:0:0", MDR THÜR Mitte-W
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4060,4061,2074,2179
+#EXTINF:-1 tvg-name="NDR 1 Nieders. HAN" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:B400:DB5A:EC:0:0:0:0", NDR 1 Nieders. HAN
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3490,3491,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR 1 Radio MV SN" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2DE6:A1F4:EC:0:0:0:0", NDR 1 Radio MV SN
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3480,3481,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR 1 Welle Nord KI" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2D86:2D26:EC:0:0:0:0", NDR 1 Welle Nord KI
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3470,3471,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR 2 NDS" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:E217:4D58:EC:0:0:0:0", NDR 2 NDS
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3420,3421,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR 90,3" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:A76:BF3C:EC:0:0:0:0", NDR 90,3
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3460,3461,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR Blue" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:BAA5:B984:EC:0:0:0:0", NDR Blue
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3510,3511,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR Info NDS" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:2917:798C:EC:0:0:0:0", NDR Info NDS
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3440,3441,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR Info Spezial" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8CE7:FEA:EC:0:0:0:0", NDR Info Spezial
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3500,3501,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR Kultur" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6831:86BE:EC:0:0:0:0", NDR Kultur
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3430,3431,2074,2166,2177
+#EXTINF:-1 tvg-name="NDR Schlager" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:B3B:8A1E:EC:0:0:0:0", NDR Schlager
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3520,3521,2074,2166,2177
+#EXTINF:-1 tvg-name="PULS" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:AAF7:AB38:EC:0:0:0:0", PULS
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3170,3171,2074,2166,2177
+#EXTINF:-1 tvg-name="Radio 21" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:AAE9:6034:EC:0:0:0:0", Radio 21
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7240,7242
+#EXTINF:-1 tvg-name="RADIO BOB!" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:7AD5:249C:EC:0:0:0:0", RADIO BOB!
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7220,7222
+#EXTINF:-1 tvg-name="Radio Horeb" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:6649:EC:0:0:0:0", Radio Horeb
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,310,6362
+#EXTINF:-1 tvg-name="Radio Paloma" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:8D9A:5649:EC:0:0:0:0", Radio Paloma
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,314,6322
+#EXTINF:-1 tvg-name="Radio Vest" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:FD14:777B:EC:0:0:0:0", Radio Vest
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7620,7622
+#EXTINF:-1 tvg-name="radioeins" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:9EB1:17D8:EC:0:0:0:0", radioeins
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4180,4181,2179,4186
+#EXTINF:-1 tvg-name="rbb24 Inforadio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:621:EF5C:EC:0:0:0:0", rbb24 Inforadio
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4140,4141,2179,4146
+#EXTINF:-1 tvg-name="rbbKultur" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:9A82:79FB:EC:0:0:0:0", rbbKultur
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,4150,4151,2179,4156
+#EXTINF:-1 tvg-name="Schlager Radio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:92E1:5A66:EC:0:0:0:0", Schlager Radio
+rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7270,7272
+#EXTINF:-1 tvg-name="Schwarzwaldradio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:6A6B:8BBB:EC:0:0:0:0", Schwarzwaldradio
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,202,3312
+#EXTINF:-1 tvg-name="SR 1 Europawelle" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:4F0C:CA64:EC:0:0:0:0", SR 1 Europawelle
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3620,3621,2074,2166,2177
+#EXTINF:-1 tvg-name="SR 2 KulturRadio" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:D527:3CA:EC:0:0:0:0", SR 2 KulturRadio
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3630,3631,2074,2166,2177
+#EXTINF:-1 tvg-name="SR 3 Saarlandwelle" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:4F3:4DA:EC:0:0:0:0", SR 3 Saarlandwelle
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3640,3641,2074,2166,2177
+#EXTINF:-1 tvg-name="SWR Aktuell" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:D160:F8B6:EC:0:0:0:0", SWR Aktuell
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3770,3771,2179,3776
+#EXTINF:-1 tvg-name="SWR1 BW" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:ABE4:A94F:EC:0:0:0:0", SWR1 BW
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3700,3701,2179,3706
+#EXTINF:-1 tvg-name="SWR4 - Rheinland" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:B7C8:B70B:EC:0:0:0:0", SWR4 - Rheinland
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,7640,7642
+#EXTINF:-1 tvg-name="SWR4 BW" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:B87F:21D3:EC:0:0:0:0", SWR4 BW
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3740,3741,2179,3746
+#EXTINF:-1 tvg-name="SWR4 RP" group-title="11.Radio.Vodafone" dvb-reference="4097:0:1:B3AC:FCF4:EC:0:0:0:0", SWR4 RP
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3750,3751,2179,3756
