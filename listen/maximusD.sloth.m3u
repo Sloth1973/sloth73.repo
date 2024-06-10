@@ -1,0 +1,1105 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="76627" tvg-name="DE: ZDF" group-title="90.TV" dvb-reference="4097:0:1:AD8A:7B02:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ZDF
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/409
+#EXTINF:-1 tvg-id="76739" tvg-name="DE: ZDF Neo" group-title="90.TV" dvb-reference="4097:0:1:9A90:C5A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ZDF Neo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2070
+#EXTINF:-1 tvg-id="76740" tvg-name="DE: RTL" group-title="90.TV" dvb-reference="4097:0:1:D3FF:8174:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/890
+#EXTINF:-1 tvg-id="76755" tvg-name="DE: RTL Zwei" group-title="90.TV" dvb-reference="4097:0:1:BEC3:DC9B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Zwei
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/888
+#EXTINF:-1 tvg-id="76767" tvg-name="DE: Super RTL" group-title="90.TV" dvb-reference="4097:0:1:A3EC:3D16:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Super RTL
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/896
+#EXTINF:-1 tvg-id="76787" tvg-name="DE: Nitro" group-title="90.TV" dvb-reference="4097:0:1:B299:AEEE:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Nitro
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2104
+#EXTINF:-1 tvg-id="76664" tvg-name="DE: Sat 1" group-title="90.TV" dvb-reference="4097:0:1:B299:AEEF:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sat 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2107
+#EXTINF:-1 tvg-id="76614" tvg-name="DE: Sixx" group-title="90.TV" dvb-reference="4097:0:1:9A90:C5C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sixx
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2072
+#EXTINF:-1 tvg-id="76762" tvg-name="DE: ProSieben" group-title="90.TV" dvb-reference="4097:0:1:469:3B1B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ProSieben
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/887
+#EXTINF:-1 tvg-id="76702" tvg-name="DE: ProSieben Maxx" group-title="90.TV" dvb-reference="4097:0:1:9A90:C61:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ProSieben Maxx
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2077
+#EXTINF:-1 tvg-id="76749" tvg-name="DE: ProSieben Fun" group-title="90.TV" dvb-reference="4097:0:1:9A90:C53:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ProSieben Fun
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2079
+#EXTINF:-1 tvg-id="76692" tvg-name="DE: DMAX" group-title="90.TV" dvb-reference="4097:0:1:144:C87B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: DMAX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/895
+#EXTINF:-1 tvg-id="76792" tvg-name="DE: Kabel Eins" group-title="90.TV" dvb-reference="4097:0:1:76A6:F60F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Kabel Eins
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/891
+#EXTINF:-1 tvg-id="76725" tvg-name="DE: Kabel Eins Classics" group-title="90.TV" dvb-reference="4097:0:1:555F:1742:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Kabel Eins Classics
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10026
+#EXTINF:-1 tvg-id="76715" tvg-name="DE: Kabel Eins Doku" group-title="90.TV" dvb-reference="4097:0:1:B27A:8E92:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Kabel Eins Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290259
+#EXTINF:-1 tvg-id="76662" tvg-name="DE: Universal TV" group-title="90.TV" dvb-reference="4097:0:1:F91C:DE61:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Universal TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1654
+#EXTINF:-1 tvg-id="76679" tvg-name="DE: Warner TV Comedy" group-title="90.TV" dvb-reference="4097:0:1:183D:5D6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Warner TV Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281763
+#EXTINF:-1 tvg-id="76645" tvg-name="DE: Warner TV Film" group-title="90.TV" dvb-reference="4097:0:1:C7D5:5368:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Warner TV Film
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2087
+#EXTINF:-1 tvg-id="76806" tvg-name="DE: Warner TV serie" group-title="90.TV" dvb-reference="4097:0:1:F91C:DE62:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Warner TV serie
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1655
+#EXTINF:-1 tvg-id="76766" tvg-name="DE: 13th Street" group-title="90.TV" dvb-reference="4097:0:1:72E6:C07D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: 13th Street
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3498
+#EXTINF:-1 tvg-id="76745" tvg-name="DE: ANIXE Serie" group-title="90.TV" dvb-reference="4097:0:1:D1B9:E27C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ANIXE Serie
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296372
+#EXTINF:-1 tvg-id="76745" tvg-name="DE: ANIXE+" group-title="90.TV" dvb-reference="4097:0:1:4BA:43F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ANIXE+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5987
+#EXTINF:-1 tvg-id="76753" tvg-name="DE: AXN Black" group-title="90.TV" dvb-reference="4097:0:1:2DE6:2041:EC:0:0:0:0" epg-source="glacn5x51kf", DE: AXN Black
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301567
+#EXTINF:-1 tvg-id="76753" tvg-name="DE: Sony AXN (AXN Black)" group-title="90.TV" dvb-reference="4097:0:1:14A8:3894:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sony AXN (AXN Black)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300642
+#EXTINF:-1 tvg-name="DE: AXN White" group-title="90.TV" dvb-reference="4097:0:1:2DE6:203C:EC:0:0:0:0", DE: AXN White
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301568
+#EXTINF:-1 tvg-id="76631" tvg-name="DE: SilverLine" group-title="90.TV" dvb-reference="4097:0:1:41F9:632B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SilverLine
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/148067
+#EXTINF:-1 tvg-id="76626" tvg-name="DE: Servus TV" group-title="90.TV" dvb-reference="4097:0:1:9A90:C5D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Servus TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2073
+#EXTINF:-1 tvg-id="76708" tvg-name="DE: Tele 5" group-title="90.TV" dvb-reference="4097:0:1:FF2:3A6B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Tele 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2439
+#EXTINF:-1 tvg-id="76742" tvg-name="DE: Comedy Central" group-title="90.TV" dvb-reference="4097:0:1:3E6B:C79B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Comedy Central
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1670
+#EXTINF:-1 tvg-id="76716" tvg-name="DE: Sat 1 Gold" group-title="90.TV" dvb-reference="4097:0:1:5541:23AA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sat 1 Gold
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2412
+#EXTINF:-1 tvg-id="76738" tvg-name="DE: ORF1" group-title="90.TV" dvb-reference="4097:0:1:8F9E:68B6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ORF1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299704
+#EXTINF:-1 tvg-id="76700" tvg-name="DE: RTL Crime" group-title="90.TV" dvb-reference="4097:0:1:B299:AEEB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Crime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2103
+#EXTINF:-1 tvg-id="76673" tvg-name="DE: RTL Living" group-title="90.TV" dvb-reference="4097:0:1:A2FA:4E2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Living
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3477
+#EXTINF:-1 tvg-id="76804" tvg-name="DE: RTL Passion" group-title="90.TV" dvb-reference="4097:0:1:5541:23A9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Passion
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2411
+#EXTINF:-1 tvg-id="76722" tvg-name="DE: RTL Up" group-title="90.TV" dvb-reference="4097:0:1:A1C5:BF05:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Up
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4402
+#EXTINF:-1 tvg-id="76740" tvg-name="DE: RTL West" group-title="90.TV" dvb-reference="4097:0:1:D8EF:95CA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL West
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294840
+#EXTINF:-1 tvg-id="76769" tvg-name="DE: Sat 1 Emotions" group-title="90.TV" dvb-reference="4097:0:1:6D4A:C5B3:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sat 1 Emotions
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2121
+#EXTINF:-1 tvg-id="76796" tvg-name="DE: Vox Up" group-title="90.TV" dvb-reference="4097:0:1:2924:E94F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Vox Up
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/151889
+#EXTINF:-1 tvg-id="76682" tvg-name="DE: 3sat" group-title="91.TV.regional" dvb-reference="4097:0:1:194E:6AAA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: 3sat
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/892
+#EXTINF:-1 tvg-id="76641" tvg-name="DE: Arte" group-title="91.TV.regional" dvb-reference="4097:0:1:BBF5:DF45:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Arte
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/893
+#EXTINF:-1 tvg-id="76738" tvg-name="DE: One" group-title="91.TV.regional" dvb-reference="4097:0:1:4BA:44F6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: One
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5185
+#EXTINF:-1 tvg-id="76684" tvg-name="DE: WDR" group-title="91.TV.regional" dvb-reference="4097:0:1:F91C:DE64:EC:0:0:0:0" epg-source="glacn5x51kf", DE: WDR
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1653
+#EXTINF:-1 tvg-id="76751" tvg-name="DE: RBB Berlin" group-title="91.TV.regional" dvb-reference="4097:0:1:91BB:1D3F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RBB Berlin
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41991
+#EXTINF:-1 tvg-id="76693" tvg-name="DE: SWR Fernsehen" group-title="91.TV.regional" dvb-reference="4097:0:1:3C03:3BFB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SWR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/7513
+#EXTINF:-1 tvg-id="76693" tvg-name="DE: SR Fernsehen" group-title="91.TV.regional" dvb-reference="4097:0:1:37B9:795D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18524
+#EXTINF:-1 tvg-id="76648" tvg-name="DE: HR Fernsehen" group-title="91.TV.regional" dvb-reference="4097:0:1:6AE2:39F9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: HR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8187
+#EXTINF:-1 tvg-id="76712" tvg-name="DE: Bayerisches Fernsehen Sud" group-title="91.TV.regional" dvb-reference="4097:0:1:315:514B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bayerisches Fernsehen Sud
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163105
+#EXTINF:-1 tvg-id="76712" tvg-name="DE: Bayerisches Fernsehen Nord" group-title="91.TV.regional" dvb-reference="4097:0:1:D92C:A81B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bayerisches Fernsehen Nord
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18454
+#EXTINF:-1 tvg-id="76748" tvg-name="DE: NDR Fernsehen" group-title="91.TV.regional" dvb-reference="4097:0:1:5541:2386:EC:0:0:0:0" epg-source="glacn5x51kf", DE: NDR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2113
+#EXTINF:-1 tvg-id="76730" tvg-name="DE: MDR Fernsehen Sachsen Anhalt" group-title="91.TV.regional" dvb-reference="4097:0:1:158E:3523:EC:0:0:0:0" epg-source="glacn5x51kf", DE: MDR Fernsehen Sachsen Anhalt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3483
+#EXTINF:-1 tvg-id="212837" tvg-name="DE: Sky 1" group-title="92.Cinema" dvb-reference="4097:0:1:5541:2388:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2115
+#EXTINF:-1 tvg-id="76774" tvg-name="DE: Sky Atlantic" group-title="92.Cinema" dvb-reference="4097:0:1:E113:3C37:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Atlantic
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1661
+#EXTINF:-1 tvg-id="76669" tvg-name="DE: Sky Cinema Action" group-title="92.Cinema" dvb-reference="4097:0:1:F91C:DE5E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Action
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1659
+#EXTINF:-1 tvg-id="10650" tvg-name="DE: Sky Cinema Family" group-title="92.Cinema" dvb-reference="4097:0:1:5541:237D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Family
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2118
+#EXTINF:-1 tvg-id="10817" tvg-name="DE: Sky Cinema Premiere" group-title="92.Cinema" dvb-reference="4097:0:1:5541:238A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Premiere
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2117
+#EXTINF:-1 tvg-id="10817" tvg-name="DE: Sky Cinema Premieren" group-title="92.Cinema" dvb-reference="4097:0:1:2CA9:E262:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Premieren
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298585
+#EXTINF:-1 tvg-id="10908" tvg-name="DE: Sky Crime" group-title="92.Cinema" dvb-reference="4097:0:1:759:59D2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Crime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291078
+#EXTINF:-1 tvg-id="76663" tvg-name="DE: Sky Krimi" group-title="92.Cinema" dvb-reference="4097:0:1:6D4A:C5B6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Krimi
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2122
+#EXTINF:-1 tvg-id="10635" tvg-name="DE: Sky Replay" group-title="92.Cinema" dvb-reference="4097:0:1:52FF:ECF4:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Replay
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/407
+#EXTINF:-1 tvg-id="10918" tvg-name="DE: Sky Showcase" group-title="92.Cinema" dvb-reference="4097:0:1:F836:E179:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Showcase
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302711
+#EXTINF:-1 tvg-id="76764" tvg-name="DE: SYFY" group-title="92.Cinema" dvb-reference="4097:0:1:AE3:667:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SYFY
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/408
+#EXTINF:-1 tvg-id="10917" tvg-name="DE: Sky Cinema Classics" group-title="92.Cinema" dvb-reference="4097:0:1:6A4:23C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Classics
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/91126
+#EXTINF:-1 tvg-id="76667" tvg-name="DE: Crime+ Investigation" group-title="92.Cinema" dvb-reference="4097:0:1:4BA:44F2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Crime+ Investigation
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5181
+#EXTINF:-1 tvg-id="76624" tvg-name="DE: Romance TV" group-title="92.Cinema" dvb-reference="4097:0:1:E113:3C34:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Romance TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1662
+#EXTINF:-1 tvg-id="10620" tvg-name="DE: Sky Documentaries" group-title="92.Cinema" dvb-reference="4097:0:1:E829:CD55:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Documentaries
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291080
+#EXTINF:-1 tvg-id="10640" tvg-name="DE: Sky Nature" group-title="92.Cinema" dvb-reference="4097:0:1:7595:9D1F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Nature
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291079
+#EXTINF:-1 tvg-name="DE: Sky Cinema" group-title="92.Cinema" dvb-reference="4097:0:1:E829:CD57:EC:0:0:0:0", DE: Sky Cinema
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291082
+#EXTINF:-1 tvg-name="DE: Sky Cinema +1" group-title="92.Cinema" dvb-reference="4097:0:1:E113:3C36:EC:0:0:0:0", DE: Sky Cinema +1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1660
+#EXTINF:-1 tvg-name="DE: Sky Cinema 24" group-title="92.Cinema" dvb-reference="4097:0:1:E829:C1D4:EC:0:0:0:0", DE: Sky Cinema 24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281888
+#EXTINF:-1 tvg-name="DE: Sky Cinema Comedy" group-title="92.Cinema" dvb-reference="4097:0:1:6D4A:C5B4:EC:0:0:0:0", DE: Sky Cinema Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2120
+#EXTINF:-1 tvg-name="DE: Sky Cinema Premieren +24" group-title="92.Cinema" dvb-reference="4097:0:1:5541:23A4:EC:0:0:0:0", DE: Sky Cinema Premieren +24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2414
+#EXTINF:-1 tvg-name="DE: Sky Cinema Special" group-title="92.Cinema" dvb-reference="4097:0:1:554B:6117:EC:0:0:0:0", DE: Sky Cinema Special
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/29070
+#EXTINF:-1 tvg-name="DE: Sky Cinema Thriller" group-title="92.Cinema" dvb-reference="4097:0:1:6A4:23BD:EC:0:0:0:0", DE: Sky Cinema Thriller
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/91116
+#EXTINF:-1 tvg-name="DE: Sky Serien & Shows" group-title="92.Cinema" dvb-reference="4097:0:1:E2A1:A52D:EC:0:0:0:0", DE: Sky Serien & Shows
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/120872
+#EXTINF:-1 tvg-name="DE: Sky Cinema Best Of" group-title="92.Cinema" dvb-reference="4097:0:1:5541:237C:EC:0:0:0:0", DE: Sky Cinema Best Of
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2119
+#EXTINF:-1 tvg-name="DE: Sky Cinema Emotion" group-title="92.Cinema" dvb-reference="4097:0:1:FF2:3A47:EC:0:0:0:0", DE: Sky Cinema Emotion
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2138
+#EXTINF:-1 tvg-name="DE: Sky Cinema Nostalgie" group-title="92.Cinema" dvb-reference="4097:0:1:5541:238B:EC:0:0:0:0", DE: Sky Cinema Nostalgie
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2116
+#EXTINF:-1 tvg-name="DE: Sky Select 1" group-title="92.Cinema" dvb-reference="4097:0:1:4582:4CFE:EC:0:0:0:0", DE: Sky Select 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281693
+#EXTINF:-1 tvg-name="DE: Sky Select 2" group-title="92.Cinema" dvb-reference="4097:0:1:FF2:3A46:EC:0:0:0:0", DE: Sky Select 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2139
+#EXTINF:-1 tvg-name="DE: Sky Select 3" group-title="92.Cinema" dvb-reference="4097:0:1:5541:23A1:EC:0:0:0:0", DE: Sky Select 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2419
+#EXTINF:-1 tvg-name="DE: Sky Select 4" group-title="92.Cinema" dvb-reference="4097:0:1:BEC3:DCA8:EC:0:0:0:0", DE: Sky Select 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/858
+#EXTINF:-1 tvg-name="DE: Sky Select 5" group-title="92.Cinema" dvb-reference="4097:0:1:A7A8:4503:EC:0:0:0:0", DE: Sky Select 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/279837
+#EXTINF:-1 tvg-name="DE: Sky Select 7" group-title="92.Cinema" dvb-reference="4097:0:1:5656:76A4:EC:0:0:0:0", DE: Sky Select 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/263996
+#EXTINF:-1 tvg-name="DE: Sky Select 8" group-title="92.Cinema" dvb-reference="4097:0:1:5D8B:EEEF:EC:0:0:0:0", DE: Sky Select 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281443
+#EXTINF:-1 tvg-name="DE: Sky Select 10" group-title="92.Cinema" dvb-reference="4097:0:1:20A6:FD3F:EC:0:0:0:0", DE: Sky Select 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/282048
+#EXTINF:-1 tvg-name="DE: Stern Filme 1" group-title="92.Cinema" dvb-reference="4097:0:1:E48C:FC76:EC:0:0:0:0", DE: Stern Filme 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298615
+#EXTINF:-1 tvg-name="DE: Stern Filme 2" group-title="92.Cinema" dvb-reference="4097:0:1:E48C:FC75:EC:0:0:0:0", DE: Stern Filme 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298616
+#EXTINF:-1 tvg-name="DE: Stern Filme 3" group-title="92.Cinema" dvb-reference="4097:0:1:E48C:FC74:EC:0:0:0:0", DE: Stern Filme 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298617
+#EXTINF:-1 tvg-name="DE: Stern Filme 4" group-title="92.Cinema" dvb-reference="4097:0:1:E48C:FC83:EC:0:0:0:0", DE: Stern Filme 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298618
+#EXTINF:-1 tvg-name="DE: Stern Filme 6" group-title="92.Cinema" dvb-reference="4097:0:1:FC96:9EAA:EC:0:0:0:0", DE: Stern Filme 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298620
+#EXTINF:-1 tvg-name="DE: Stern Filme 8" group-title="92.Cinema" dvb-reference="4097:0:1:FC96:9EA8:EC:0:0:0:0", DE: Stern Filme 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298622
+#EXTINF:-1 tvg-name="DE: Stern Filme 9" group-title="92.Cinema" dvb-reference="4097:0:1:FC96:9EA7:EC:0:0:0:0", DE: Stern Filme 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298623
+#EXTINF:-1 tvg-name="DE: Stern Filme 10" group-title="92.Cinema" dvb-reference="4097:0:1:FC96:9EA6:EC:0:0:0:0", DE: Stern Filme 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298624
+#EXTINF:-1 tvg-name="DE: Amazon Prime Video 1" group-title="92.Cinema" dvb-reference="4097:0:1:A214:7D8:EC:0:0:0:0", DE: Amazon Prime Video 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300237
+#EXTINF:-1 tvg-name="DE: Amazon Prime Video 2" group-title="92.Cinema" dvb-reference="4097:0:1:A214:7CD:EC:0:0:0:0", DE: Amazon Prime Video 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300238
+#EXTINF:-1 tvg-name="DE: NETFLİX 2" group-title="92.Cinema" dvb-reference="4097:0:1:7CCB:435C:EC:0:0:0:0", DE: NETFLİX 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287767
+#EXTINF:-1 tvg-name="DE: NETFLİX 3" group-title="92.Cinema" dvb-reference="4097:0:1:7CCB:436B:EC:0:0:0:0", DE: NETFLİX 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287768
+#EXTINF:-1 tvg-name="DE: NETFLİX 4" group-title="92.Cinema" dvb-reference="4097:0:1:7CCB:436A:EC:0:0:0:0", DE: NETFLİX 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287769
+#EXTINF:-1 tvg-name="DE: NETFLİX 9" group-title="92.Cinema" dvb-reference="4097:0:1:DA23:CEC6:EC:0:0:0:0", DE: NETFLİX 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287772
+#EXTINF:-1 tvg-name="DE: NETFLİX 10" group-title="92.Cinema" dvb-reference="4097:0:1:DA23:CEC5:EC:0:0:0:0", DE: NETFLİX 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287773
+#EXTINF:-1 tvg-name="DE: Rakuten Comedy Movies" group-title="92.Cinema" dvb-reference="4097:0:1:9F3E:138D:EC:0:0:0:0", DE: Rakuten Comedy Movies
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298836
+#EXTINF:-1 tvg-name="DE: Rakuten Comedy Movies 2" group-title="92.Cinema" dvb-reference="4097:0:1:9F3E:138C:EC:0:0:0:0", DE: Rakuten Comedy Movies 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298837
+#EXTINF:-1 tvg-name="DE: Rakuten TV Shows" group-title="92.Cinema" dvb-reference="4097:0:1:9F3E:137F:EC:0:0:0:0", DE: Rakuten TV Shows
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298838
+#EXTINF:-1 tvg-name="DE: Rakuten TV Shows 2" group-title="92.Cinema" dvb-reference="4097:0:1:CC83:5A8E:EC:0:0:0:0", DE: Rakuten TV Shows 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298840
+#EXTINF:-1 tvg-name="DE: Movies CH" group-title="92.Cinema" dvb-reference="4097:0:1:2F12:61E7:EC:0:0:0:0", DE: Movies CH
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286563
+#EXTINF:-1 tvg-name="DE: Max Select 1" group-title="92.Cinema" dvb-reference="4097:0:1:4D94:A764:EC:0:0:0:0", DE: Max Select 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67435
+#EXTINF:-1 tvg-name="DE: Max Select 4" group-title="92.Cinema" dvb-reference="4097:0:1:41E5:C1D9:EC:0:0:0:0", DE: Max Select 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278609
+#EXTINF:-1 tvg-name="DE: Cine Max Jurassic Park" group-title="92.Cinema" dvb-reference="4097:0:1:5C57:E38A:EC:0:0:0:0", DE: Cine Max Jurassic Park
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/266438
+#EXTINF:-1 tvg-name="DE: MR Bean" group-title="92.Cinema" dvb-reference="4097:0:1:8414:B70F:EC:0:0:0:0", DE: MR Bean
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197513
+#EXTINF:-1 tvg-name="DE: Nick Emma einfach magisch" group-title="92.Cinema" dvb-reference="4097:0:1:2F12:61E1:EC:0:0:0:0", DE: Nick Emma einfach magisch
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286565
+#EXTINF:-1 tvg-id="76659" tvg-name="DE: Sport 1" group-title="93.Sport" dvb-reference="4097:0:1:6D2B:A537:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290571
+#EXTINF:-1 tvg-id="76754" tvg-name="DE: Sport 1+" group-title="93.Sport" dvb-reference="4097:0:1:B299:AEEA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sport 1+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2100
+#EXTINF:-1 tvg-id="76619" tvg-name="DE: Eurosport 1" group-title="93.Sport" dvb-reference="4097:0:1:3AF6:4AC6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Eurosport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/412
+#EXTINF:-1 tvg-id="76744" tvg-name="DE: Eurosport 2" group-title="93.Sport" dvb-reference="4097:0:1:C7D5:5363:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Eurosport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2082
+#EXTINF:-1 tvg-id="76659" tvg-name="DE: Edge Sport" group-title="93.Sport" dvb-reference="4097:0:1:3046:A827:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Edge Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281610
+#EXTINF:-1 tvg-id="76705" tvg-name="DE: Sportdigital Fussball" group-title="93.Sport" dvb-reference="4097:0:1:52:90A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sportdigital Fussball
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3509
+#EXTINF:-1 tvg-id="76719" tvg-name="DE: Auto Motor Sport" group-title="93.Sport" dvb-reference="4097:0:1:C7D5:5407:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Auto Motor Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2385
+#EXTINF:-1 tvg-name="DE: Servus MotorSport" group-title="93.Sport" dvb-reference="4097:0:1:E48C:FC1A:EC:0:0:0:0", DE: Servus MotorSport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298710
+#EXTINF:-1 tvg-name="DE: Red Bull TV" group-title="93.Sport" dvb-reference="4097:0:1:41E5:8787:EC:0:0:0:0", DE: Red Bull TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298708
+#EXTINF:-1 tvg-name="DE: Amazon Prime Sport [nur Live Stteaming]" group-title="93.Sport" dvb-reference="4097:0:1:7335:95A:EC:0:0:0:0", DE: Amazon Prime Sport [nur Live Stteaming]
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301247
+#EXTINF:-1 tvg-name="DE: RAN 1" group-title="93.Sport" dvb-reference="4097:0:1:BDC6:73D8:EC:0:0:0:0", DE: RAN 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173527
+#EXTINF:-1 tvg-id="212828" tvg-name="DE: DAZN 1" group-title="93.Sport" dvb-reference="4097:0:1:3999:1996:EC:0:0:0:0" epg-source="glacn5x51kf", DE: DAZN 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/48355
+#EXTINF:-1 tvg-id="212840" tvg-name="DE: DAZN 2" group-title="93.Sport" dvb-reference="4097:0:1:C7D5:5405:EC:0:0:0:0" epg-source="glacn5x51kf", DE: DAZN 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2387
+#EXTINF:-1 tvg-name="DE: DAZN Fast+" group-title="93.Sport" dvb-reference="4097:0:1:3B1D:3E6F:EC:0:0:0:0", DE: DAZN Fast+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304355
+#EXTINF:-1 tvg-id="10781" tvg-name="DE: Sky Sport F1" group-title="93.Sport" dvb-reference="4097:0:1:4E65:B285:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport F1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/174563
+#EXTINF:-1 tvg-id="10785" tvg-name="DE: Sky Sport Mix" group-title="93.Sport" dvb-reference="4097:0:1:2CA9:E223:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Mix
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298380
+#EXTINF:-1 tvg-id="76733" tvg-name="DE: Sky Sport News" group-title="93.Sport" dvb-reference="4097:0:1:F91C:DE5D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport News
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1658
+#EXTINF:-1 tvg-id="10817" tvg-name="DE: Sky Sport Premiere League" group-title="93.Sport" dvb-reference="4097:0:1:2CA9:E224:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Premiere League
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298381
+#EXTINF:-1 tvg-id="10634" tvg-name="DE: Sky Sport Tennis" group-title="93.Sport" dvb-reference="4097:0:1:94D4:F191:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Tennis
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297552
+#EXTINF:-1 tvg-id="10675" tvg-name="DE: Sky Sport Top Event" group-title="93.Sport" dvb-reference="4097:0:1:94D:4F19:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Top Event
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297551
+#EXTINF:-1 tvg-id="212821" tvg-name="DE: Sky Sport Bundesliga" group-title="93.Sport" dvb-reference="4097:0:1:FF2:3A73:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2431
+#EXTINF:-1 tvg-id="212813" tvg-name="DE: Sky Sport Bundesliga 1" group-title="93.Sport" dvb-reference="4097:0:1:CF51:5702:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298592
+#EXTINF:-1 tvg-id="212816" tvg-name="DE: Sky Sport Bundesliga 2" group-title="93.Sport" dvb-reference="4097:0:1:59A8:D879:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4493
+#EXTINF:-1 tvg-id="212845" tvg-name="DE: Sky Sport Bundesliga 3" group-title="93.Sport" dvb-reference="4097:0:1:FF2:3A52:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2135
+#EXTINF:-1 tvg-id="212841" tvg-name="DE: Sky Sport Bundesliga 4" group-title="93.Sport" dvb-reference="4097:0:1:5DAB:1C0F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3513
+#EXTINF:-1 tvg-id="212835" tvg-name="DE: Sky Sport Bundesliga 5" group-title="93.Sport" dvb-reference="4097:0:1:FF2:3A55:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2136
+#EXTINF:-1 tvg-id="212833" tvg-name="DE: Sky Sport Bundesliga 6" group-title="93.Sport" dvb-reference="4097:0:1:6832:3099:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/12638
+#EXTINF:-1 tvg-id="212825" tvg-name="DE: Sky Sport Bundesliga 7" group-title="93.Sport" dvb-reference="4097:0:1:FF2:3A75:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2433
+#EXTINF:-1 tvg-id="212814" tvg-name="DE: Sky Sport Bundesliga 9" group-title="93.Sport" dvb-reference="4097:0:1:E2CA:E708:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10051
+#EXTINF:-1 tvg-id="212812" tvg-name="DE: Sky Sport 1" group-title="93.Sport" dvb-reference="4097:0:1:9609:4CB4:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/202100
+#EXTINF:-1 tvg-id="212809" tvg-name="DE: Sky Sport 2" group-title="93.Sport" dvb-reference="4097:0:1:22C5:534D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8215
+#EXTINF:-1 tvg-id="212836" tvg-name="DE: Sky Sport 3" group-title="93.Sport" dvb-reference="4097:0:1:298C:1CE3:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/72238
+#EXTINF:-1 tvg-id="212838" tvg-name="DE: Sky Sport 4" group-title="93.Sport" dvb-reference="4097:0:1:BD14:F0A9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/32708
+#EXTINF:-1 tvg-id="212824" tvg-name="DE: Sky Sport 5" group-title="93.Sport" dvb-reference="4097:0:1:7BD4:1E53:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/13497
+#EXTINF:-1 tvg-id="212815" tvg-name="DE: Sky Sport 6" group-title="93.Sport" dvb-reference="4097:0:1:B33:439E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/31445
+#EXTINF:-1 tvg-id="212820" tvg-name="DE: Sky Sport 7" group-title="93.Sport" dvb-reference="4097:0:1:FF2:3A5:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2133
+#EXTINF:-1 tvg-id="212818" tvg-name="DE: Sky Sport 8" group-title="93.Sport" dvb-reference="4097:0:1:B701:63D4:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4489
+#EXTINF:-1 tvg-id="212810" tvg-name="DE: Sky Sport 9" group-title="93.Sport" dvb-reference="4097:0:1:56CF:968F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147341
+#EXTINF:-1 tvg-id="212831" tvg-name="DE: Sky Sport 10" group-title="93.Sport" dvb-reference="4097:0:1:56CF:968E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147342
+#EXTINF:-1 tvg-name="DE: Magenta Sport 1" group-title="93.Sport" dvb-reference="4097:0:1:9A70:ECDA:EC:0:0:0:0", DE: Magenta Sport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290686
+#EXTINF:-1 tvg-name="DE: Magenta Sport 2" group-title="93.Sport" dvb-reference="4097:0:1:9A70:ECD9:EC:0:0:0:0", DE: Magenta Sport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290687
+#EXTINF:-1 tvg-name="DE: Magenta Sport 3" group-title="93.Sport" dvb-reference="4097:0:1:5D8B:EF17:EC:0:0:0:0", DE: Magenta Sport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281748
+#EXTINF:-1 tvg-name="DE: Magenta Sport 4" group-title="93.Sport" dvb-reference="4097:0:1:9A70:ECE8:EC:0:0:0:0", DE: Magenta Sport 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290688
+#EXTINF:-1 tvg-name="DE: Magenta Sport 5" group-title="93.Sport" dvb-reference="4097:0:1:9A70:ECE7:EC:0:0:0:0", DE: Magenta Sport 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290689
+#EXTINF:-1 tvg-name="DE: Magenta Sport 6" group-title="93.Sport" dvb-reference="4097:0:1:3D18:617B:EC:0:0:0:0", DE: Magenta Sport 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290690
+#EXTINF:-1 tvg-name="DE: Magenta Sport 7" group-title="93.Sport" dvb-reference="4097:0:1:5D8B:EF16:EC:0:0:0:0", DE: Magenta Sport 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281749
+#EXTINF:-1 tvg-name="DE: Magenta Sport 9" group-title="93.Sport" dvb-reference="4097:0:1:3D18:6179:EC:0:0:0:0", DE: Magenta Sport 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290692
+#EXTINF:-1 tvg-name="DE: Magenta Sport 10" group-title="93.Sport" dvb-reference="4097:0:1:E159:8CE8:EC:0:0:0:0", DE: Magenta Sport 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295566
+#EXTINF:-1 tvg-name="DE: Magenta Sport 12" group-title="93.Sport" dvb-reference="4097:0:1:E159:8CF2:EC:0:0:0:0", DE: Magenta Sport 12
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295568
+#EXTINF:-1 tvg-name="DE: Magenta Sport 13" group-title="93.Sport" dvb-reference="4097:0:1:E159:8CF3:EC:0:0:0:0", DE: Magenta Sport 13
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295569
+#EXTINF:-1 tvg-name="DE: Magenta Sport 15" group-title="93.Sport" dvb-reference="4097:0:1:3EB:2185:EC:0:0:0:0", DE: Magenta Sport 15
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295571
+#EXTINF:-1 tvg-name="DE: Magenta Sport 17" group-title="93.Sport" dvb-reference="4097:0:1:3EB2:1852:EC:0:0:0:0", DE: Magenta Sport 17
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295573
+#EXTINF:-1 tvg-name="DE: Magenta Sport 18" group-title="93.Sport" dvb-reference="4097:0:1:64C1:ACF2:EC:0:0:0:0", DE: Magenta Sport 18
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297337
+#EXTINF:-1 tvg-id="76617" tvg-name="DE: ARD Alpha" group-title="94.Mix" dvb-reference="4097:0:1:5FBC:657F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ARD Alpha
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/34799
+#EXTINF:-1 tvg-id="76680" tvg-name="DE: KIKA" group-title="94.Mix" dvb-reference="4097:0:1:B299:AEE9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: KIKA
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2101
+#EXTINF:-1 tvg-id="76778" tvg-name="DE: nickelodeon" group-title="94.Mix" dvb-reference="4097:0:1:9A7:DFA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: nickelodeon
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280087
+#EXTINF:-1 tvg-id="76736" tvg-name="DE: Nicktoons" group-title="94.Mix" dvb-reference="4097:0:1:2924:B7EE:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Nicktoons
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/191983
+#EXTINF:-1 tvg-id="76763" tvg-name="DE: Cartoon Network" group-title="94.Mix" dvb-reference="4097:0:1:C7D5:535A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Cartoon Network
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2089
+#EXTINF:-1 tvg-id="197540" tvg-name="DE: Cartoonito" group-title="94.Mix" dvb-reference="4097:0:1:41E5:877D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Cartoonito
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298702
+#EXTINF:-1 tvg-id="76786" tvg-name="DE: Disney Channel" group-title="94.Mix" dvb-reference="4097:0:1:C7D5:5366:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Disney Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2085
+#EXTINF:-1 tvg-name="DE: Disney Junior" group-title="94.Mix" dvb-reference="4097:0:1:6A7C:C7F5:EC:0:0:0:0", DE: Disney Junior
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2099
+#EXTINF:-1 tvg-id="76789" tvg-name="DE: Toggo Plus" group-title="94.Mix" dvb-reference="4097:0:1:3D37:8159:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Toggo Plus
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2145
+#EXTINF:-1 tvg-id="76683" tvg-name="DE: Fix & Foxi" group-title="94.Mix" dvb-reference="4097:0:1:A5BC:D1AB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Fix & Foxi
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173515
+#EXTINF:-1 tvg-id="76759" tvg-name="DE: ANIMAL PLANET" group-title="94.Mix" dvb-reference="4097:0:1:D32B:3D5C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ANIMAL PLANET
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/14370
+#EXTINF:-1 tvg-id="76783" tvg-name="DE: NAT GEO Wild" group-title="94.Mix" dvb-reference="4097:0:1:E11:33C3:EC:0:0:0:0" epg-source="glacn5x51kf", DE: NAT GEO Wild
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1666
+#EXTINF:-1 tvg-id="76628" tvg-name="DE: NAT GEO" group-title="94.Mix" dvb-reference="4097:0:1:6A7C:C801:EC:0:0:0:0" epg-source="glacn5x51kf", DE: NAT GEO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2095
+#EXTINF:-1 tvg-id="76686" tvg-name="DE: Discovery World" group-title="94.Mix" dvb-reference="4097:0:1:F5A:7619:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Discovery World
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/410
+#EXTINF:-1 tvg-name="DE: Naturkanal1" group-title="94.Mix" dvb-reference="4097:0:1:2DE6:1FB8:EC:0:0:0:0", DE: Naturkanal1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301168
+#EXTINF:-1 tvg-name="DE: Geo TV" group-title="94.Mix" dvb-reference="4097:0:1:2F12:9BE5:EC:0:0:0:0", DE: Geo TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/266963
+#EXTINF:-1 tvg-id="76634" tvg-name="DE: History" group-title="94.Mix" dvb-reference="4097:0:1:DD9D:BF61:EC:0:0:0:0" epg-source="glacn5x51kf", DE: History
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/413
+#EXTINF:-1 tvg-name="DE: XITE" group-title="94.Mix" dvb-reference="4097:0:1:183D:5D2:EC:0:0:0:0", DE: XITE
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281767
+#EXTINF:-1 tvg-id="76809" tvg-name="DE: Deluxe Music" group-title="94.Mix" dvb-reference="4097:0:1:5541:2384:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Deluxe Music
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2111
+#EXTINF:-1 tvg-id="76615" tvg-name="DE: Jukebox" group-title="94.Mix" dvb-reference="4097:0:1:6B00:2DF2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Jukebox
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/12613
+#EXTINF:-1 tvg-id="76780" tvg-name="DE: MTV" group-title="94.Mix" dvb-reference="4097:0:1:158E:351E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: MTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3486
+#EXTINF:-1 tvg-name="DE: Schlager Deluxe" group-title="94.Mix" dvb-reference="4097:0:1:FC9:6D8D:EC:0:0:0:0", DE: Schlager Deluxe
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278321
+#EXTINF:-1 tvg-id="76723" tvg-name="DE: Stingray Classica" group-title="94.Mix" dvb-reference="4097:0:1:E48C:FC1B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Stingray Classica
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298711
+#EXTINF:-1 tvg-name="DE: Ballermann TV" group-title="94.Mix" dvb-reference="4097:0:1:41E:5878:EC:0:0:0:0", DE: Ballermann TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298701
+#EXTINF:-1 tvg-name="DE: CroTV" group-title="94.Mix" dvb-reference="4097:0:1:8C6A:ED0C:EC:0:0:0:0", DE: CroTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286355
+#EXTINF:-1 tvg-id="76636" tvg-name="DE: N24 Doku" group-title="94.Mix" dvb-reference="4097:0:1:AE95:D7B8:EC:0:0:0:0" epg-source="glacn5x51kf", DE: N24 Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/47558
+#EXTINF:-1 tvg-id="76640" tvg-name="DE: n-tv" group-title="94.Mix" dvb-reference="4097:0:1:C7D5:5361:EC:0:0:0:0" epg-source="glacn5x51kf", DE: n-tv
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2080
+#EXTINF:-1 tvg-id="76625" tvg-name="DE: Welt der Wunder TV" group-title="94.Mix" dvb-reference="4097:0:1:6A87:5EA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Welt der Wunder TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/29008
+#EXTINF:-1 tvg-id="76718" tvg-name="DE: ZDF Info" group-title="94.Mix" dvb-reference="4097:0:1:F7E8:97B8:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ZDF Info
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2069
+#EXTINF:-1 tvg-id="76773" tvg-name="DE: 123 TV" group-title="94.Mix" dvb-reference="4097:0:1:1E7:B915:EC:0:0:0:0" epg-source="glacn5x51kf", DE: 123 TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18446
+#EXTINF:-1 tvg-name="DE: Augsburg TV" group-title="94.Mix" dvb-reference="4097:0:1:FFDB:C4FE:EC:0:0:0:0", DE: Augsburg TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/60393
+#EXTINF:-1 tvg-name="DE: Baby TV" group-title="94.Mix" dvb-reference="4097:0:1:8164:456F:EC:0:0:0:0", DE: Baby TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/31389
+#EXTINF:-1 tvg-name="DE: Baden TV" group-title="94.Mix" dvb-reference="4097:0:1:D65E:AAC3:EC:0:0:0:0", DE: Baden TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18449
+#EXTINF:-1 tvg-id="76688" tvg-name="DE: bergblick" group-title="94.Mix" dvb-reference="4097:0:1:BAE:47A7:EC:0:0:0:0" epg-source="glacn5x51kf", DE: bergblick
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281754
+#EXTINF:-1 tvg-id="76794" tvg-name="DE: Bibel TV" group-title="94.Mix" dvb-reference="4097:0:1:77C:D79:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bibel TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/195787
+#EXTINF:-1 tvg-name="DE: Bild TV" group-title="94.Mix" dvb-reference="4097:0:1:CA84:30E6:EC:0:0:0:0", DE: Bild TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290769
+#EXTINF:-1 tvg-name="DE: BLK Regional TV" group-title="94.Mix" dvb-reference="4097:0:1:A7A8:B09:EC:0:0:0:0", DE: BLK Regional TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299433
+#EXTINF:-1 tvg-id="76746" tvg-name="DE: Bon Gusto" group-title="94.Mix" dvb-reference="4097:0:1:412E:5A21:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bon Gusto
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/191957
+#EXTINF:-1 tvg-name="DE: Boomerang" group-title="94.Mix" dvb-reference="4097:0:1:984E:D62B:EC:0:0:0:0", DE: Boomerang
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/411
+#EXTINF:-1 tvg-id="266500" tvg-name="DE: Channel 21" group-title="94.Mix" dvb-reference="4097:0:1:34C4:11FF:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Channel 21
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/70117
+#EXTINF:-1 tvg-id="76710" tvg-name="DE: Chemnitz Fernsehen" group-title="94.Mix" dvb-reference="4097:0:1:E9C3:78AB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Chemnitz Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286545
+#EXTINF:-1 tvg-name="DE: Craction" group-title="94.Mix" dvb-reference="4097:0:1:41E5:877E:EC:0:0:0:0", DE: Craction
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298703
+#EXTINF:-1 tvg-name="DE: Der Aktionär TV" group-title="94.Mix" dvb-reference="4097:0:1:93B4:60FC:EC:0:0:0:0", DE: Der Aktionär TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/194308
+#EXTINF:-1 tvg-name="DE: Die Neue Zeit TV" group-title="94.Mix" dvb-reference="4097:0:1:BDC6:73D7:EC:0:0:0:0", DE: Die Neue Zeit TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173526
+#EXTINF:-1 tvg-name="DE: Dresden" group-title="94.Mix" dvb-reference="4097:0:1:606D:E871:EC:0:0:0:0", DE: Dresden
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173531
+#EXTINF:-1 tvg-name="DE: DW Deutsch" group-title="94.Mix" dvb-reference="4097:0:1:4356:E15A:EC:0:0:0:0", DE: DW Deutsch
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10941
+#EXTINF:-1 tvg-name="DE: DW English" group-title="94.Mix" dvb-reference="4097:0:1:B9ED:5428:EC:0:0:0:0", DE: DW English
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/19276
+#EXTINF:-1 tvg-name="DE: DW Español" group-title="94.Mix" dvb-reference="4097:0:1:5874:926A:EC:0:0:0:0", DE: DW Español
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9149
+#EXTINF:-1 tvg-name="DE: Echt Jetzt" group-title="94.Mix" dvb-reference="4097:0:1:45EF:C248:EC:0:0:0:0", DE: Echt Jetzt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301238
+#EXTINF:-1 tvg-name="DE: Erz TV Stollberg" group-title="94.Mix" dvb-reference="4097:0:1:E9C3:78B7:EC:0:0:0:0", DE: Erz TV Stollberg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286549
+#EXTINF:-1 tvg-id="76768" tvg-name="DE: euronews" group-title="94.Mix" dvb-reference="4097:0:1:E714:A83A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: euronews
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4421
+#EXTINF:-1 tvg-name="DE: Fox" group-title="94.Mix" dvb-reference="4097:0:1:29DB:E4CB:EC:0:0:0:0", DE: Fox
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298373
+#EXTINF:-1 tvg-name="DE: Franken Plus" group-title="94.Mix" dvb-reference="4097:0:1:29D:BE4D:EC:0:0:0:0", DE: Franken Plus
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298374
+#EXTINF:-1 tvg-id="76738" tvg-name="DE: FS1" group-title="94.Mix" dvb-reference="4097:0:1:9A70:DF9E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: FS1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280085
+#EXTINF:-1 tvg-name="DE: Genius Plus TV" group-title="94.Mix" dvb-reference="4097:0:1:B55C:5F8E:EC:0:0:0:0", DE: Genius Plus TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/120507
+#EXTINF:-1 tvg-id="76687" tvg-name="DE: Go2 Travel" group-title="94.Mix" dvb-reference="4097:0:1:9ADE:5594:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Go2 Travel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302305
+#EXTINF:-1 tvg-id="76675" tvg-name="DE: Heimat kanal" group-title="94.Mix" dvb-reference="4097:0:1:E113:3C2E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Heimat kanal
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1668
+#EXTINF:-1 tvg-name="DE: HGTV" group-title="94.Mix" dvb-reference="4097:0:1:A48:88C:EC:0:0:0:0", DE: HGTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/172308
+#EXTINF:-1 tvg-id="76661" tvg-name="DE: HSE" group-title="94.Mix" dvb-reference="4097:0:1:559B:58C6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: HSE
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166259
+#EXTINF:-1 tvg-name="DE: HSE Trend" group-title="94.Mix" dvb-reference="4097:0:1:6BF7:9954:EC:0:0:0:0", DE: HSE Trend
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/275924
+#EXTINF:-1 tvg-name="DE: INPLUS" group-title="94.Mix" dvb-reference="4097:0:1:41E5:877C:EC:0:0:0:0", DE: INPLUS
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298705
+#EXTINF:-1 tvg-name="DE: Juwelo" group-title="94.Mix" dvb-reference="4097:0:1:E11D:7A68:EC:0:0:0:0", DE: Juwelo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/21327
+#EXTINF:-1 tvg-name="DE: Kiel TV" group-title="94.Mix" dvb-reference="4097:0:1:77D:5BE:EC:0:0:0:0", DE: Kiel TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165485
+#EXTINF:-1 tvg-name="DE: K-TV" group-title="94.Mix" dvb-reference="4097:0:1:7BD4:1CB8:EC:0:0:0:0", DE: K-TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18477
+#EXTINF:-1 tvg-name="DE: Luxe TV (Luxembourg)" group-title="94.Mix" dvb-reference="4097:0:1:8535:47C3:EC:0:0:0:0", DE: Luxe TV (Luxembourg)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290407
+#EXTINF:-1 tvg-id="76666" tvg-name="DE: München TV" group-title="94.Mix" dvb-reference="4097:0:1:3399:4209:EC:0:0:0:0" epg-source="glacn5x51kf", DE: München TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6811
+#EXTINF:-1 tvg-name="DE: MyTVplus" group-title="94.Mix" dvb-reference="4097:0:1:C0E5:F39A:EC:0:0:0:0", DE: MyTVplus
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294831
+#EXTINF:-1 tvg-name="DE: Niederbayern TV Satellit" group-title="94.Mix" dvb-reference="4097:0:1:D92C:A81D:EC:0:0:0:0", DE: Niederbayern TV Satellit
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18474
+#EXTINF:-1 tvg-name="DE: Noa 4" group-title="94.Mix" dvb-reference="4097:0:1:E48D:365C:EC:0:0:0:0", DE: Noa 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278512
+#EXTINF:-1 tvg-id="76701" tvg-name="DE: Noa 4 Hamburg" group-title="94.Mix" dvb-reference="4097:0:1:D8EF:9569:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Noa 4 Hamburg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294940
+#EXTINF:-1 tvg-name="DE: Nrwision" group-title="94.Mix" dvb-reference="4097:0:1:3D91:87BC:EC:0:0:0:0", DE: Nrwision
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/196328
+#EXTINF:-1 tvg-name="DE: Oberpfalz TV" group-title="94.Mix" dvb-reference="4097:0:1:BAE4:7A72:EC:0:0:0:0", DE: Oberpfalz TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281752
+#EXTINF:-1 tvg-name="DE: OF TV Offenbach" group-title="94.Mix" dvb-reference="4097:0:1:8C6A:ED49:EC:0:0:0:0", DE: OF TV Offenbach
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286556
+#EXTINF:-1 tvg-name="DE: Offener Kanal Magdeburg" group-title="94.Mix" dvb-reference="4097:0:1:7906:1F63:EC:0:0:0:0", DE: Offener Kanal Magdeburg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18498
+#EXTINF:-1 tvg-name="DE: OK Konzert" group-title="94.Mix" dvb-reference="4097:0:1:606:DE87:EC:0:0:0:0", DE: OK Konzert
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173530
+#EXTINF:-1 tvg-name="DE: OK Ludwigshafen" group-title="94.Mix" dvb-reference="4097:0:1:7CCB:4362:EC:0:0:0:0", DE: OK Ludwigshafen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287761
+#EXTINF:-1 tvg-name="DE: OK Merseburg" group-title="94.Mix" dvb-reference="4097:0:1:A488:4561:EC:0:0:0:0", DE: OK Merseburg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/182603
+#EXTINF:-1 tvg-name="DE: OKD" group-title="94.Mix" dvb-reference="4097:0:1:2CAA:1D4B:EC:0:0:0:0", DE: OKD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278481
+#EXTINF:-1 tvg-name="DE: OTVA" group-title="94.Mix" dvb-reference="4097:0:1:A7A8:B07:EC:0:0:0:0", DE: OTVA
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299431
+#EXTINF:-1 tvg-name="DE: Parlaments Fernsehen 2" group-title="94.Mix" dvb-reference="4097:0:1:9AEA:1319:EC:0:0:0:0", DE: Parlaments Fernsehen 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/196330
+#EXTINF:-1 tvg-name="DE: Parlamentsfernsehen 1" group-title="94.Mix" dvb-reference="4097:0:1:5B37:257E:EC:0:0:0:0", DE: Parlamentsfernsehen 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/199648
+#EXTINF:-1 tvg-name="DE: Pearl TV" group-title="94.Mix" dvb-reference="4097:0:1:7A3A:653A:EC:0:0:0:0", DE: Pearl TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18509
+#EXTINF:-1 tvg-id="76636" tvg-name="DE: Pluto TV N24 Doku" group-title="94.Mix" dvb-reference="4097:0:1:C0E5:F3A1:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Pluto TV N24 Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294836
+#EXTINF:-1 tvg-name="DE: QVC Style" group-title="94.Mix" dvb-reference="4097:0:1:B428:2DEF:EC:0:0:0:0", DE: QVC Style
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157175
+#EXTINF:-1 tvg-name="DE: Regio TV Bodensee" group-title="94.Mix" dvb-reference="4097:0:1:315:5149:EC:0:0:0:0", DE: Regio TV Bodensee
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163107
+#EXTINF:-1 tvg-name="DE: Regio TV Schwaben" group-title="94.Mix" dvb-reference="4097:0:1:315:5148:EC:0:0:0:0", DE: Regio TV Schwaben
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163108
+#EXTINF:-1 tvg-name="DE: Regio TV Stuttgart" group-title="94.Mix" dvb-reference="4097:0:1:315:5147:EC:0:0:0:0", DE: Regio TV Stuttgart
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163109
+#EXTINF:-1 tvg-name="DE: Regionalfernsehen Harz (RFH)" group-title="94.Mix" dvb-reference="4097:0:1:8C7E:AFAE:EC:0:0:0:0", DE: Regionalfernsehen Harz (RFH)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192656
+#EXTINF:-1 tvg-name="DE: RFO" group-title="94.Mix" dvb-reference="4097:0:1:1FAF:D72D:EC:0:0:0:0", DE: RFO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18517
+#EXTINF:-1 tvg-name="DE: RFO Rosenheim" group-title="94.Mix" dvb-reference="4097:0:1:E161:8526:EC:0:0:0:0", DE: RFO Rosenheim
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303735
+#EXTINF:-1 tvg-id="76677" tvg-name="DE: Rhein Neckar Fernsehen (Rnf)" group-title="94.Mix" dvb-reference="4097:0:1:4CD7:2B1F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Rhein Neckar Fernsehen (Rnf)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5010
+#EXTINF:-1 tvg-name="DE: Rheinische Fachhochschule Köln (RFH)" group-title="94.Mix" dvb-reference="4097:0:1:A7A8:B04:EC:0:0:0:0", DE: Rheinische Fachhochschule Köln (RFH)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299434
+#EXTINF:-1 tvg-name="DE: RTV" group-title="94.Mix" dvb-reference="4097:0:1:26B0:6C96:EC:0:0:0:0", DE: RTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303955
+#EXTINF:-1 tvg-name="DE: Saarland Fernsehen 1" group-title="94.Mix" dvb-reference="4097:0:1:899C:F02F:EC:0:0:0:0", DE: Saarland Fernsehen 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286787
+#EXTINF:-1 tvg-name="DE: Saarland Fernsehen 2" group-title="94.Mix" dvb-reference="4097:0:1:899C:F03E:EC:0:0:0:0", DE: Saarland Fernsehen 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286788
+#EXTINF:-1 tvg-name="DE: Sachsen Eins" group-title="94.Mix" dvb-reference="4097:0:1:9F3E:138B:EC:0:0:0:0", DE: Sachsen Eins
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298834
+#EXTINF:-1 tvg-id="76710" tvg-name="DE: Sachsen fernsehen" group-title="94.Mix" dvb-reference="4097:0:1:79B1:7B11:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sachsen fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41982
+#EXTINF:-1 tvg-name="DE: Sonus FM Alemania" group-title="94.Mix" dvb-reference="4097:0:1:D8EF:95CE:EC:0:0:0:0", DE: Sonus FM Alemania
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294844
+#EXTINF:-1 tvg-id="76714" tvg-name="DE: Spiegel Geschichte" group-title="94.Mix" dvb-reference="4097:0:1:F91:CDE6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Spiegel Geschichte
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1657
+#EXTINF:-1 tvg-name="DE: Spiegel TV Wissen" group-title="94.Mix" dvb-reference="4097:0:1:529:A7:EC:0:0:0:0", DE: Spiegel TV Wissen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3506
+#EXTINF:-1 tvg-id="76696" tvg-name="DE: Tagesschau 24" group-title="94.Mix" dvb-reference="4097:0:1:F91C:DE5F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Tagesschau 24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1656
+#EXTINF:-1 tvg-name="DE: Tastemade" group-title="94.Mix" dvb-reference="4097:0:1:1B70:7485:EC:0:0:0:0", DE: Tastemade
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/284590
+#EXTINF:-1 tvg-id="76699" tvg-name="DE: TLC" group-title="94.Mix" dvb-reference="4097:0:1:B299:AEE2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: TLC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2108
+#EXTINF:-1 tvg-name="DE: TV Bayern" group-title="94.Mix" dvb-reference="4097:0:1:7D08:6399:EC:0:0:0:0", DE: TV Bayern
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10506
+#EXTINF:-1 tvg-name="DE: TV Ingolstadt" group-title="94.Mix" dvb-reference="4097:0:1:981C:44A5:EC:0:0:0:0", DE: TV Ingolstadt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166289
+#EXTINF:-1 tvg-name="DE: TV Mainfranken" group-title="94.Mix" dvb-reference="4097:0:1:6946:EE7E:EC:0:0:0:0", DE: TV Mainfranken
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/47596
+#EXTINF:-1 tvg-name="DE: TV Oberfranken" group-title="94.Mix" dvb-reference="4097:0:1:671:EF26:EC:0:0:0:0", DE: TV Oberfranken
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18493
+#EXTINF:-1 tvg-name="DE: TV Rus +" group-title="94.Mix" dvb-reference="4097:0:1:3245:DD39:EC:0:0:0:0", DE: TV Rus +
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299279
+#EXTINF:-1 tvg-name="DE: TVA Ostbayern" group-title="94.Mix" dvb-reference="4097:0:1:22C5:534B:EC:0:0:0:0", DE: TVA Ostbayern
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8217
+#EXTINF:-1 tvg-name="DE: Victorious" group-title="94.Mix" dvb-reference="4097:0:1:23DA:6C86:EC:0:0:0:0", DE: Victorious
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/285594
+#EXTINF:-1 tvg-name="DE: Waidwerk" group-title="94.Mix" dvb-reference="4097:0:1:305A:69D7:EC:0:0:0:0", DE: Waidwerk
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/193759
+#EXTINF:-1 tvg-id="76795" tvg-name="DE: Welt" group-title="94.Mix" dvb-reference="4097:0:1:6A7C:C7FF:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Welt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2093
+#EXTINF:-1 tvg-name="DE: Wettin TV" group-title="94.Mix" dvb-reference="4097:0:1:C21A:3898:EC:0:0:0:0", DE: Wettin TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297502
+#EXTINF:-1 tvg-id="76773" tvg-name="DE: 123 TV" group-title="original" dvb-reference="4097:0:1:1E7:B915:EC:0:0:0:0" epg-source="glacn5x51kf", DE: 123 TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18446
+#EXTINF:-1 tvg-id="76766" tvg-name="DE: 13th Street" group-title="original" dvb-reference="4097:0:1:72E6:C07D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: 13th Street
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3498
+#EXTINF:-1 tvg-id="76682" tvg-name="DE: 3sat" group-title="original" dvb-reference="4097:0:1:194E:6AAA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: 3sat
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/892
+#EXTINF:-1 tvg-name="DE: Amazon Prime Sport [nur Live Stteaming]" group-title="original" dvb-reference="4097:0:1:7335:95A:EC:0:0:0:0", DE: Amazon Prime Sport [nur Live Stteaming]
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301247
+#EXTINF:-1 tvg-name="DE: Amazon Prime Video 1" group-title="original" dvb-reference="4097:0:1:A214:7D8:EC:0:0:0:0", DE: Amazon Prime Video 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300237
+#EXTINF:-1 tvg-name="DE: Amazon Prime Video 2" group-title="original" dvb-reference="4097:0:1:A214:7CD:EC:0:0:0:0", DE: Amazon Prime Video 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300238
+#EXTINF:-1 tvg-id="76759" tvg-name="DE: ANIMAL PLANET" group-title="original" dvb-reference="4097:0:1:D32B:3D5C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ANIMAL PLANET
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/14370
+#EXTINF:-1 tvg-id="76745" tvg-name="DE: ANIXE Serie" group-title="original" dvb-reference="4097:0:1:D1B9:E27C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ANIXE Serie
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296372
+#EXTINF:-1 tvg-id="76745" tvg-name="DE: ANIXE+" group-title="original" dvb-reference="4097:0:1:4BA:43F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ANIXE+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5987
+#EXTINF:-1 tvg-id="76617" tvg-name="DE: ARD Alpha" group-title="original" dvb-reference="4097:0:1:5FBC:657F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ARD Alpha
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/34799
+#EXTINF:-1 tvg-id="76641" tvg-name="DE: Arte" group-title="original" dvb-reference="4097:0:1:BBF5:DF45:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Arte
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/893
+#EXTINF:-1 tvg-name="DE: Augsburg TV" group-title="original" dvb-reference="4097:0:1:FFDB:C4FE:EC:0:0:0:0", DE: Augsburg TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/60393
+#EXTINF:-1 tvg-id="76719" tvg-name="DE: Auto Motor Sport" group-title="original" dvb-reference="4097:0:1:C7D5:5407:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Auto Motor Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2385
+#EXTINF:-1 tvg-id="76753" tvg-name="DE: AXN Black" group-title="original" dvb-reference="4097:0:1:2DE6:2041:EC:0:0:0:0" epg-source="glacn5x51kf", DE: AXN Black
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301567
+#EXTINF:-1 tvg-name="DE: AXN White" group-title="original" dvb-reference="4097:0:1:2DE6:203C:EC:0:0:0:0", DE: AXN White
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301568
+#EXTINF:-1 tvg-name="DE: Baby TV" group-title="original" dvb-reference="4097:0:1:8164:456F:EC:0:0:0:0", DE: Baby TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/31389
+#EXTINF:-1 tvg-name="DE: Baden TV" group-title="original" dvb-reference="4097:0:1:D65E:AAC3:EC:0:0:0:0", DE: Baden TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18449
+#EXTINF:-1 tvg-name="DE: Ballermann TV" group-title="original" dvb-reference="4097:0:1:41E:5878:EC:0:0:0:0", DE: Ballermann TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298701
+#EXTINF:-1 tvg-id="76712" tvg-name="DE: Bayerisches Fernsehen Nord" group-title="original" dvb-reference="4097:0:1:D92C:A81B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bayerisches Fernsehen Nord
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18454
+#EXTINF:-1 tvg-id="76712" tvg-name="DE: Bayerisches Fernsehen Sud" group-title="original" dvb-reference="4097:0:1:315:514B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bayerisches Fernsehen Sud
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163105
+#EXTINF:-1 tvg-id="76688" tvg-name="DE: bergblick" group-title="original" dvb-reference="4097:0:1:BAE:47A7:EC:0:0:0:0" epg-source="glacn5x51kf", DE: bergblick
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281754
+#EXTINF:-1 tvg-id="76794" tvg-name="DE: Bibel TV" group-title="original" dvb-reference="4097:0:1:77C:D79:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bibel TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/195787
+#EXTINF:-1 tvg-name="DE: Bild TV" group-title="original" dvb-reference="4097:0:1:CA84:30E6:EC:0:0:0:0", DE: Bild TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290769
+#EXTINF:-1 tvg-name="DE: BLK Regional TV" group-title="original" dvb-reference="4097:0:1:A7A8:B09:EC:0:0:0:0", DE: BLK Regional TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299433
+#EXTINF:-1 tvg-id="76746" tvg-name="DE: Bon Gusto" group-title="original" dvb-reference="4097:0:1:412E:5A21:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Bon Gusto
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/191957
+#EXTINF:-1 tvg-name="DE: Boomerang" group-title="original" dvb-reference="4097:0:1:984E:D62B:EC:0:0:0:0", DE: Boomerang
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/411
+#EXTINF:-1 tvg-id="76763" tvg-name="DE: Cartoon Network" group-title="original" dvb-reference="4097:0:1:C7D5:535A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Cartoon Network
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2089
+#EXTINF:-1 tvg-id="197540" tvg-name="DE: Cartoonito" group-title="original" dvb-reference="4097:0:1:41E5:877D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Cartoonito
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298702
+#EXTINF:-1 tvg-id="266500" tvg-name="DE: Channel 21" group-title="original" dvb-reference="4097:0:1:34C4:11FF:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Channel 21
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/70117
+#EXTINF:-1 tvg-id="76710" tvg-name="DE: Chemnitz Fernsehen" group-title="original" dvb-reference="4097:0:1:E9C3:78AB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Chemnitz Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286545
+#EXTINF:-1 tvg-name="DE: Cine Max Jurassic Park" group-title="original" dvb-reference="4097:0:1:5C57:E38A:EC:0:0:0:0", DE: Cine Max Jurassic Park
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/266438
+#EXTINF:-1 tvg-id="76742" tvg-name="DE: Comedy Central" group-title="original" dvb-reference="4097:0:1:3E6B:C79B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Comedy Central
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1670
+#EXTINF:-1 tvg-name="DE: Craction" group-title="original" dvb-reference="4097:0:1:41E5:877E:EC:0:0:0:0", DE: Craction
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298703
+#EXTINF:-1 tvg-id="76667" tvg-name="DE: Crime+ Investigation" group-title="original" dvb-reference="4097:0:1:4BA:44F2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Crime+ Investigation
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5181
+#EXTINF:-1 tvg-name="DE: CroTV" group-title="original" dvb-reference="4097:0:1:8C6A:ED0C:EC:0:0:0:0", DE: CroTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286355
+#EXTINF:-1 tvg-id="212828" tvg-name="DE: DAZN 1" group-title="original" dvb-reference="4097:0:1:3999:1996:EC:0:0:0:0" epg-source="glacn5x51kf", DE: DAZN 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/48355
+#EXTINF:-1 tvg-id="212840" tvg-name="DE: DAZN 2" group-title="original" dvb-reference="4097:0:1:C7D5:5405:EC:0:0:0:0" epg-source="glacn5x51kf", DE: DAZN 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2387
+#EXTINF:-1 tvg-name="DE: DAZN Fast+" group-title="original" dvb-reference="4097:0:1:3B1D:3E6F:EC:0:0:0:0", DE: DAZN Fast+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304355
+#EXTINF:-1 tvg-id="76809" tvg-name="DE: Deluxe Music" group-title="original" dvb-reference="4097:0:1:5541:2384:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Deluxe Music
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2111
+#EXTINF:-1 tvg-name="DE: Der Aktionär TV" group-title="original" dvb-reference="4097:0:1:93B4:60FC:EC:0:0:0:0", DE: Der Aktionär TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/194308
+#EXTINF:-1 tvg-name="DE: Die Neue Zeit TV" group-title="original" dvb-reference="4097:0:1:BDC6:73D7:EC:0:0:0:0", DE: Die Neue Zeit TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173526
+#EXTINF:-1 tvg-id="76686" tvg-name="DE: Discovery World" group-title="original" dvb-reference="4097:0:1:F5A:7619:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Discovery World
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/410
+#EXTINF:-1 tvg-id="76786" tvg-name="DE: Disney Channel" group-title="original" dvb-reference="4097:0:1:C7D5:5366:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Disney Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2085
+#EXTINF:-1 tvg-name="DE: Disney Junior" group-title="original" dvb-reference="4097:0:1:6A7C:C7F5:EC:0:0:0:0", DE: Disney Junior
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2099
+#EXTINF:-1 tvg-id="76692" tvg-name="DE: DMAX" group-title="original" dvb-reference="4097:0:1:144:C87B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: DMAX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/895
+#EXTINF:-1 tvg-name="DE: Dresden" group-title="original" dvb-reference="4097:0:1:606D:E871:EC:0:0:0:0", DE: Dresden
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173531
+#EXTINF:-1 tvg-name="DE: DW Deutsch" group-title="original" dvb-reference="4097:0:1:4356:E15A:EC:0:0:0:0", DE: DW Deutsch
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10941
+#EXTINF:-1 tvg-name="DE: DW English" group-title="original" dvb-reference="4097:0:1:B9ED:5428:EC:0:0:0:0", DE: DW English
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/19276
+#EXTINF:-1 tvg-name="DE: DW Español" group-title="original" dvb-reference="4097:0:1:5874:926A:EC:0:0:0:0", DE: DW Español
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/9149
+#EXTINF:-1 tvg-name="DE: Echt Jetzt" group-title="original" dvb-reference="4097:0:1:45EF:C248:EC:0:0:0:0", DE: Echt Jetzt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301238
+#EXTINF:-1 tvg-id="76659" tvg-name="DE: Edge Sport" group-title="original" dvb-reference="4097:0:1:3046:A827:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Edge Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281610
+#EXTINF:-1 tvg-name="DE: Erz TV Stollberg" group-title="original" dvb-reference="4097:0:1:E9C3:78B7:EC:0:0:0:0", DE: Erz TV Stollberg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286549
+#EXTINF:-1 tvg-id="76768" tvg-name="DE: euronews" group-title="original" dvb-reference="4097:0:1:E714:A83A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: euronews
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4421
+#EXTINF:-1 tvg-id="76619" tvg-name="DE: Eurosport 1" group-title="original" dvb-reference="4097:0:1:3AF6:4AC6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Eurosport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/412
+#EXTINF:-1 tvg-id="76744" tvg-name="DE: Eurosport 2" group-title="original" dvb-reference="4097:0:1:C7D5:5363:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Eurosport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2082
+#EXTINF:-1 tvg-id="76683" tvg-name="DE: Fix & Foxi" group-title="original" dvb-reference="4097:0:1:A5BC:D1AB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Fix & Foxi
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173515
+#EXTINF:-1 tvg-name="DE: Fox" group-title="original" dvb-reference="4097:0:1:29DB:E4CB:EC:0:0:0:0", DE: Fox
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298373
+#EXTINF:-1 tvg-name="DE: Franken Plus" group-title="original" dvb-reference="4097:0:1:29D:BE4D:EC:0:0:0:0", DE: Franken Plus
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298374
+#EXTINF:-1 tvg-id="76738" tvg-name="DE: FS1" group-title="original" dvb-reference="4097:0:1:9A70:DF9E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: FS1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280085
+#EXTINF:-1 tvg-name="DE: Genius Plus TV" group-title="original" dvb-reference="4097:0:1:B55C:5F8E:EC:0:0:0:0", DE: Genius Plus TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/120507
+#EXTINF:-1 tvg-name="DE: Geo TV" group-title="original" dvb-reference="4097:0:1:2F12:9BE5:EC:0:0:0:0", DE: Geo TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/266963
+#EXTINF:-1 tvg-id="76687" tvg-name="DE: Go2 Travel" group-title="original" dvb-reference="4097:0:1:9ADE:5594:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Go2 Travel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302305
+#EXTINF:-1 tvg-id="76675" tvg-name="DE: Heimat kanal" group-title="original" dvb-reference="4097:0:1:E113:3C2E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Heimat kanal
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1668
+#EXTINF:-1 tvg-name="DE: HGTV" group-title="original" dvb-reference="4097:0:1:A48:88C:EC:0:0:0:0", DE: HGTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/172308
+#EXTINF:-1 tvg-id="76634" tvg-name="DE: History" group-title="original" dvb-reference="4097:0:1:DD9D:BF61:EC:0:0:0:0" epg-source="glacn5x51kf", DE: History
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/413
+#EXTINF:-1 tvg-id="76648" tvg-name="DE: HR Fernsehen" group-title="original" dvb-reference="4097:0:1:6AE2:39F9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: HR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8187
+#EXTINF:-1 tvg-id="76661" tvg-name="DE: HSE" group-title="original" dvb-reference="4097:0:1:559B:58C6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: HSE
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166259
+#EXTINF:-1 tvg-name="DE: HSE Trend" group-title="original" dvb-reference="4097:0:1:6BF7:9954:EC:0:0:0:0", DE: HSE Trend
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/275924
+#EXTINF:-1 tvg-name="DE: INPLUS" group-title="original" dvb-reference="4097:0:1:41E5:877C:EC:0:0:0:0", DE: INPLUS
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298705
+#EXTINF:-1 tvg-id="76615" tvg-name="DE: Jukebox" group-title="original" dvb-reference="4097:0:1:6B00:2DF2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Jukebox
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/12613
+#EXTINF:-1 tvg-name="DE: Juwelo" group-title="original" dvb-reference="4097:0:1:E11D:7A68:EC:0:0:0:0", DE: Juwelo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/21327
+#EXTINF:-1 tvg-name="DE: K-TV" group-title="original" dvb-reference="4097:0:1:7BD4:1CB8:EC:0:0:0:0", DE: K-TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18477
+#EXTINF:-1 tvg-id="76792" tvg-name="DE: Kabel Eins" group-title="original" dvb-reference="4097:0:1:76A6:F60F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Kabel Eins
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/891
+#EXTINF:-1 tvg-id="76725" tvg-name="DE: Kabel Eins Classics" group-title="original" dvb-reference="4097:0:1:555F:1742:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Kabel Eins Classics
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10026
+#EXTINF:-1 tvg-id="76715" tvg-name="DE: Kabel Eins Doku" group-title="original" dvb-reference="4097:0:1:B27A:8E92:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Kabel Eins Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290259
+#EXTINF:-1 tvg-name="DE: Kiel TV" group-title="original" dvb-reference="4097:0:1:77D:5BE:EC:0:0:0:0", DE: Kiel TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165485
+#EXTINF:-1 tvg-id="76680" tvg-name="DE: KIKA" group-title="original" dvb-reference="4097:0:1:B299:AEE9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: KIKA
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2101
+#EXTINF:-1 tvg-name="DE: Luxe TV (Luxembourg)" group-title="original" dvb-reference="4097:0:1:8535:47C3:EC:0:0:0:0", DE: Luxe TV (Luxembourg)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290407
+#EXTINF:-1 tvg-name="DE: Magenta Sport 1" group-title="original" dvb-reference="4097:0:1:9A70:ECDA:EC:0:0:0:0", DE: Magenta Sport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290686
+#EXTINF:-1 tvg-name="DE: Magenta Sport 2" group-title="original" dvb-reference="4097:0:1:9A70:ECD9:EC:0:0:0:0", DE: Magenta Sport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290687
+#EXTINF:-1 tvg-name="DE: Magenta Sport 3" group-title="original" dvb-reference="4097:0:1:5D8B:EF17:EC:0:0:0:0", DE: Magenta Sport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281748
+#EXTINF:-1 tvg-name="DE: Magenta Sport 4" group-title="original" dvb-reference="4097:0:1:9A70:ECE8:EC:0:0:0:0", DE: Magenta Sport 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290688
+#EXTINF:-1 tvg-name="DE: Magenta Sport 5" group-title="original" dvb-reference="4097:0:1:9A70:ECE7:EC:0:0:0:0", DE: Magenta Sport 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290689
+#EXTINF:-1 tvg-name="DE: Magenta Sport 6" group-title="original" dvb-reference="4097:0:1:3D18:617B:EC:0:0:0:0", DE: Magenta Sport 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290690
+#EXTINF:-1 tvg-name="DE: Magenta Sport 7" group-title="original" dvb-reference="4097:0:1:5D8B:EF16:EC:0:0:0:0", DE: Magenta Sport 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281749
+#EXTINF:-1 tvg-name="DE: Magenta Sport 9" group-title="original" dvb-reference="4097:0:1:3D18:6179:EC:0:0:0:0", DE: Magenta Sport 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290692
+#EXTINF:-1 tvg-name="DE: Magenta Sport 10" group-title="original" dvb-reference="4097:0:1:E159:8CE8:EC:0:0:0:0", DE: Magenta Sport 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295566
+#EXTINF:-1 tvg-name="DE: Magenta Sport 12" group-title="original" dvb-reference="4097:0:1:E159:8CF2:EC:0:0:0:0", DE: Magenta Sport 12
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295568
+#EXTINF:-1 tvg-name="DE: Magenta Sport 13" group-title="original" dvb-reference="4097:0:1:E159:8CF3:EC:0:0:0:0", DE: Magenta Sport 13
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295569
+#EXTINF:-1 tvg-name="DE: Magenta Sport 15" group-title="original" dvb-reference="4097:0:1:3EB:2185:EC:0:0:0:0", DE: Magenta Sport 15
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295571
+#EXTINF:-1 tvg-name="DE: Magenta Sport 17" group-title="original" dvb-reference="4097:0:1:3EB2:1852:EC:0:0:0:0", DE: Magenta Sport 17
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295573
+#EXTINF:-1 tvg-name="DE: Magenta Sport 18" group-title="original" dvb-reference="4097:0:1:64C1:ACF2:EC:0:0:0:0", DE: Magenta Sport 18
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297337
+#EXTINF:-1 tvg-name="DE: Max Select 1" group-title="original" dvb-reference="4097:0:1:4D94:A764:EC:0:0:0:0", DE: Max Select 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67435
+#EXTINF:-1 tvg-name="DE: Max Select 4" group-title="original" dvb-reference="4097:0:1:41E5:C1D9:EC:0:0:0:0", DE: Max Select 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278609
+#EXTINF:-1 tvg-id="76730" tvg-name="DE: MDR Fernsehen Sachsen Anhalt" group-title="original" dvb-reference="4097:0:1:158E:3523:EC:0:0:0:0" epg-source="glacn5x51kf", DE: MDR Fernsehen Sachsen Anhalt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3483
+#EXTINF:-1 tvg-name="DE: Movies CH" group-title="original" dvb-reference="4097:0:1:2F12:61E7:EC:0:0:0:0", DE: Movies CH
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286563
+#EXTINF:-1 tvg-name="DE: MR Bean" group-title="original" dvb-reference="4097:0:1:8414:B70F:EC:0:0:0:0", DE: MR Bean
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197513
+#EXTINF:-1 tvg-id="76780" tvg-name="DE: MTV" group-title="original" dvb-reference="4097:0:1:158E:351E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: MTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3486
+#EXTINF:-1 tvg-name="DE: MyTVplus" group-title="original" dvb-reference="4097:0:1:C0E5:F39A:EC:0:0:0:0", DE: MyTVplus
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294831
+#EXTINF:-1 tvg-id="76666" tvg-name="DE: München TV" group-title="original" dvb-reference="4097:0:1:3399:4209:EC:0:0:0:0" epg-source="glacn5x51kf", DE: München TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6811
+#EXTINF:-1 tvg-id="76640" tvg-name="DE: n-tv" group-title="original" dvb-reference="4097:0:1:C7D5:5361:EC:0:0:0:0" epg-source="glacn5x51kf", DE: n-tv
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2080
+#EXTINF:-1 tvg-id="76636" tvg-name="DE: N24 Doku" group-title="original" dvb-reference="4097:0:1:AE95:D7B8:EC:0:0:0:0" epg-source="glacn5x51kf", DE: N24 Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/47558
+#EXTINF:-1 tvg-id="76628" tvg-name="DE: NAT GEO" group-title="original" dvb-reference="4097:0:1:6A7C:C801:EC:0:0:0:0" epg-source="glacn5x51kf", DE: NAT GEO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2095
+#EXTINF:-1 tvg-id="76783" tvg-name="DE: NAT GEO Wild" group-title="original" dvb-reference="4097:0:1:E11:33C3:EC:0:0:0:0" epg-source="glacn5x51kf", DE: NAT GEO Wild
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1666
+#EXTINF:-1 tvg-name="DE: Naturkanal1" group-title="original" dvb-reference="4097:0:1:2DE6:1FB8:EC:0:0:0:0", DE: Naturkanal1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/301168
+#EXTINF:-1 tvg-id="76748" tvg-name="DE: NDR Fernsehen" group-title="original" dvb-reference="4097:0:1:5541:2386:EC:0:0:0:0" epg-source="glacn5x51kf", DE: NDR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2113
+#EXTINF:-1 tvg-name="DE: NETFLİX 2" group-title="original" dvb-reference="4097:0:1:7CCB:435C:EC:0:0:0:0", DE: NETFLİX 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287767
+#EXTINF:-1 tvg-name="DE: NETFLİX 3" group-title="original" dvb-reference="4097:0:1:7CCB:436B:EC:0:0:0:0", DE: NETFLİX 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287768
+#EXTINF:-1 tvg-name="DE: NETFLİX 4" group-title="original" dvb-reference="4097:0:1:7CCB:436A:EC:0:0:0:0", DE: NETFLİX 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287769
+#EXTINF:-1 tvg-name="DE: NETFLİX 9" group-title="original" dvb-reference="4097:0:1:DA23:CEC6:EC:0:0:0:0", DE: NETFLİX 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287772
+#EXTINF:-1 tvg-name="DE: NETFLİX 10" group-title="original" dvb-reference="4097:0:1:DA23:CEC5:EC:0:0:0:0", DE: NETFLİX 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287773
+#EXTINF:-1 tvg-name="DE: Nick Emma einfach magisch" group-title="original" dvb-reference="4097:0:1:2F12:61E1:EC:0:0:0:0", DE: Nick Emma einfach magisch
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286565
+#EXTINF:-1 tvg-id="76778" tvg-name="DE: nickelodeon" group-title="original" dvb-reference="4097:0:1:9A7:DFA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: nickelodeon
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280087
+#EXTINF:-1 tvg-id="76736" tvg-name="DE: Nicktoons" group-title="original" dvb-reference="4097:0:1:2924:B7EE:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Nicktoons
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/191983
+#EXTINF:-1 tvg-name="DE: Niederbayern TV Satellit" group-title="original" dvb-reference="4097:0:1:D92C:A81D:EC:0:0:0:0", DE: Niederbayern TV Satellit
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18474
+#EXTINF:-1 tvg-id="76787" tvg-name="DE: Nitro" group-title="original" dvb-reference="4097:0:1:B299:AEEE:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Nitro
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2104
+#EXTINF:-1 tvg-name="DE: Noa 4" group-title="original" dvb-reference="4097:0:1:E48D:365C:EC:0:0:0:0", DE: Noa 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278512
+#EXTINF:-1 tvg-id="76701" tvg-name="DE: Noa 4 Hamburg" group-title="original" dvb-reference="4097:0:1:D8EF:9569:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Noa 4 Hamburg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294940
+#EXTINF:-1 tvg-name="DE: Nrwision" group-title="original" dvb-reference="4097:0:1:3D91:87BC:EC:0:0:0:0", DE: Nrwision
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/196328
+#EXTINF:-1 tvg-name="DE: Oberpfalz TV" group-title="original" dvb-reference="4097:0:1:BAE4:7A72:EC:0:0:0:0", DE: Oberpfalz TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281752
+#EXTINF:-1 tvg-name="DE: OF TV Offenbach" group-title="original" dvb-reference="4097:0:1:8C6A:ED49:EC:0:0:0:0", DE: OF TV Offenbach
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286556
+#EXTINF:-1 tvg-name="DE: Offener Kanal Magdeburg" group-title="original" dvb-reference="4097:0:1:7906:1F63:EC:0:0:0:0", DE: Offener Kanal Magdeburg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18498
+#EXTINF:-1 tvg-name="DE: OK Konzert" group-title="original" dvb-reference="4097:0:1:606:DE87:EC:0:0:0:0", DE: OK Konzert
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173530
+#EXTINF:-1 tvg-name="DE: OK Ludwigshafen" group-title="original" dvb-reference="4097:0:1:7CCB:4362:EC:0:0:0:0", DE: OK Ludwigshafen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287761
+#EXTINF:-1 tvg-name="DE: OK Merseburg" group-title="original" dvb-reference="4097:0:1:A488:4561:EC:0:0:0:0", DE: OK Merseburg
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/182603
+#EXTINF:-1 tvg-name="DE: OKD" group-title="original" dvb-reference="4097:0:1:2CAA:1D4B:EC:0:0:0:0", DE: OKD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278481
+#EXTINF:-1 tvg-id="76738" tvg-name="DE: One" group-title="original" dvb-reference="4097:0:1:4BA:44F6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: One
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5185
+#EXTINF:-1 tvg-id="76738" tvg-name="DE: ORF1" group-title="original" dvb-reference="4097:0:1:8F9E:68B6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ORF1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299704
+#EXTINF:-1 tvg-name="DE: OTVA" group-title="original" dvb-reference="4097:0:1:A7A8:B07:EC:0:0:0:0", DE: OTVA
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299431
+#EXTINF:-1 tvg-name="DE: Parlaments Fernsehen 2" group-title="original" dvb-reference="4097:0:1:9AEA:1319:EC:0:0:0:0", DE: Parlaments Fernsehen 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/196330
+#EXTINF:-1 tvg-name="DE: Parlamentsfernsehen 1" group-title="original" dvb-reference="4097:0:1:5B37:257E:EC:0:0:0:0", DE: Parlamentsfernsehen 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/199648
+#EXTINF:-1 tvg-name="DE: Pearl TV" group-title="original" dvb-reference="4097:0:1:7A3A:653A:EC:0:0:0:0", DE: Pearl TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18509
+#EXTINF:-1 tvg-id="76636" tvg-name="DE: Pluto TV N24 Doku" group-title="original" dvb-reference="4097:0:1:C0E5:F3A1:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Pluto TV N24 Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294836
+#EXTINF:-1 tvg-id="76762" tvg-name="DE: ProSieben" group-title="original" dvb-reference="4097:0:1:469:3B1B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ProSieben
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/887
+#EXTINF:-1 tvg-id="76749" tvg-name="DE: ProSieben Fun" group-title="original" dvb-reference="4097:0:1:9A90:C53:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ProSieben Fun
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2079
+#EXTINF:-1 tvg-id="76702" tvg-name="DE: ProSieben Maxx" group-title="original" dvb-reference="4097:0:1:9A90:C61:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ProSieben Maxx
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2077
+#EXTINF:-1 tvg-name="DE: QVC Style" group-title="original" dvb-reference="4097:0:1:B428:2DEF:EC:0:0:0:0", DE: QVC Style
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157175
+#EXTINF:-1 tvg-name="DE: Rakuten Comedy Movies" group-title="original" dvb-reference="4097:0:1:9F3E:138D:EC:0:0:0:0", DE: Rakuten Comedy Movies
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298836
+#EXTINF:-1 tvg-name="DE: Rakuten Comedy Movies 2" group-title="original" dvb-reference="4097:0:1:9F3E:138C:EC:0:0:0:0", DE: Rakuten Comedy Movies 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298837
+#EXTINF:-1 tvg-name="DE: Rakuten TV Shows" group-title="original" dvb-reference="4097:0:1:9F3E:137F:EC:0:0:0:0", DE: Rakuten TV Shows
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298838
+#EXTINF:-1 tvg-name="DE: Rakuten TV Shows 2" group-title="original" dvb-reference="4097:0:1:CC83:5A8E:EC:0:0:0:0", DE: Rakuten TV Shows 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298840
+#EXTINF:-1 tvg-name="DE: RAN 1" group-title="original" dvb-reference="4097:0:1:BDC6:73D8:EC:0:0:0:0", DE: RAN 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/173527
+#EXTINF:-1 tvg-id="76751" tvg-name="DE: RBB Berlin" group-title="original" dvb-reference="4097:0:1:91BB:1D3F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RBB Berlin
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41991
+#EXTINF:-1 tvg-name="DE: Red Bull TV" group-title="original" dvb-reference="4097:0:1:41E5:8787:EC:0:0:0:0", DE: Red Bull TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298708
+#EXTINF:-1 tvg-name="DE: Regio TV Bodensee" group-title="original" dvb-reference="4097:0:1:315:5149:EC:0:0:0:0", DE: Regio TV Bodensee
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163107
+#EXTINF:-1 tvg-name="DE: Regio TV Schwaben" group-title="original" dvb-reference="4097:0:1:315:5148:EC:0:0:0:0", DE: Regio TV Schwaben
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163108
+#EXTINF:-1 tvg-name="DE: Regio TV Stuttgart" group-title="original" dvb-reference="4097:0:1:315:5147:EC:0:0:0:0", DE: Regio TV Stuttgart
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/163109
+#EXTINF:-1 tvg-name="DE: Regionalfernsehen Harz (RFH)" group-title="original" dvb-reference="4097:0:1:8C7E:AFAE:EC:0:0:0:0", DE: Regionalfernsehen Harz (RFH)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192656
+#EXTINF:-1 tvg-name="DE: RFO" group-title="original" dvb-reference="4097:0:1:1FAF:D72D:EC:0:0:0:0", DE: RFO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18517
+#EXTINF:-1 tvg-name="DE: RFO Rosenheim" group-title="original" dvb-reference="4097:0:1:E161:8526:EC:0:0:0:0", DE: RFO Rosenheim
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303735
+#EXTINF:-1 tvg-id="76677" tvg-name="DE: Rhein Neckar Fernsehen (Rnf)" group-title="original" dvb-reference="4097:0:1:4CD7:2B1F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Rhein Neckar Fernsehen (Rnf)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5010
+#EXTINF:-1 tvg-name="DE: Rheinische Fachhochschule Köln (RFH)" group-title="original" dvb-reference="4097:0:1:A7A8:B04:EC:0:0:0:0", DE: Rheinische Fachhochschule Köln (RFH)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299434
+#EXTINF:-1 tvg-id="76624" tvg-name="DE: Romance TV" group-title="original" dvb-reference="4097:0:1:E113:3C34:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Romance TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1662
+#EXTINF:-1 tvg-id="76740" tvg-name="DE: RTL" group-title="original" dvb-reference="4097:0:1:D3FF:8174:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/890
+#EXTINF:-1 tvg-id="76700" tvg-name="DE: RTL Crime" group-title="original" dvb-reference="4097:0:1:B299:AEEB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Crime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2103
+#EXTINF:-1 tvg-id="76673" tvg-name="DE: RTL Living" group-title="original" dvb-reference="4097:0:1:A2FA:4E2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Living
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3477
+#EXTINF:-1 tvg-id="76804" tvg-name="DE: RTL Passion" group-title="original" dvb-reference="4097:0:1:5541:23A9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Passion
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2411
+#EXTINF:-1 tvg-id="76722" tvg-name="DE: RTL Up" group-title="original" dvb-reference="4097:0:1:A1C5:BF05:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Up
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4402
+#EXTINF:-1 tvg-id="76740" tvg-name="DE: RTL West" group-title="original" dvb-reference="4097:0:1:D8EF:95CA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL West
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294840
+#EXTINF:-1 tvg-id="76755" tvg-name="DE: RTL Zwei" group-title="original" dvb-reference="4097:0:1:BEC3:DC9B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: RTL Zwei
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/888
+#EXTINF:-1 tvg-name="DE: RTV" group-title="original" dvb-reference="4097:0:1:26B0:6C96:EC:0:0:0:0", DE: RTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303955
+#EXTINF:-1 tvg-name="DE: Saarland Fernsehen 1" group-title="original" dvb-reference="4097:0:1:899C:F02F:EC:0:0:0:0", DE: Saarland Fernsehen 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286787
+#EXTINF:-1 tvg-name="DE: Saarland Fernsehen 2" group-title="original" dvb-reference="4097:0:1:899C:F03E:EC:0:0:0:0", DE: Saarland Fernsehen 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286788
+#EXTINF:-1 tvg-name="DE: Sachsen Eins" group-title="original" dvb-reference="4097:0:1:9F3E:138B:EC:0:0:0:0", DE: Sachsen Eins
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298834
+#EXTINF:-1 tvg-id="76710" tvg-name="DE: Sachsen fernsehen" group-title="original" dvb-reference="4097:0:1:79B1:7B11:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sachsen fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41982
+#EXTINF:-1 tvg-id="76664" tvg-name="DE: Sat 1" group-title="original" dvb-reference="4097:0:1:B299:AEEF:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sat 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2107
+#EXTINF:-1 tvg-id="76769" tvg-name="DE: Sat 1 Emotions" group-title="original" dvb-reference="4097:0:1:6D4A:C5B3:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sat 1 Emotions
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2121
+#EXTINF:-1 tvg-id="76716" tvg-name="DE: Sat 1 Gold" group-title="original" dvb-reference="4097:0:1:5541:23AA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sat 1 Gold
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2412
+#EXTINF:-1 tvg-name="DE: Schlager Deluxe" group-title="original" dvb-reference="4097:0:1:FC9:6D8D:EC:0:0:0:0", DE: Schlager Deluxe
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278321
+#EXTINF:-1 tvg-name="DE: Servus MotorSport" group-title="original" dvb-reference="4097:0:1:E48C:FC1A:EC:0:0:0:0", DE: Servus MotorSport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298710
+#EXTINF:-1 tvg-id="76626" tvg-name="DE: Servus TV" group-title="original" dvb-reference="4097:0:1:9A90:C5D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Servus TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2073
+#EXTINF:-1 tvg-id="76631" tvg-name="DE: SilverLine" group-title="original" dvb-reference="4097:0:1:41F9:632B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SilverLine
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/148067
+#EXTINF:-1 tvg-id="76614" tvg-name="DE: Sixx" group-title="original" dvb-reference="4097:0:1:9A90:C5C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sixx
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2072
+#EXTINF:-1 tvg-id="212837" tvg-name="DE: Sky 1" group-title="original" dvb-reference="4097:0:1:5541:2388:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2115
+#EXTINF:-1 tvg-id="76774" tvg-name="DE: Sky Atlantic" group-title="original" dvb-reference="4097:0:1:E113:3C37:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Atlantic
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1661
+#EXTINF:-1 tvg-name="DE: Sky Cinema" group-title="original" dvb-reference="4097:0:1:E829:CD57:EC:0:0:0:0", DE: Sky Cinema
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291082
+#EXTINF:-1 tvg-name="DE: Sky Cinema +1" group-title="original" dvb-reference="4097:0:1:E113:3C36:EC:0:0:0:0", DE: Sky Cinema +1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1660
+#EXTINF:-1 tvg-name="DE: Sky Cinema 24" group-title="original" dvb-reference="4097:0:1:E829:C1D4:EC:0:0:0:0", DE: Sky Cinema 24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281888
+#EXTINF:-1 tvg-id="76669" tvg-name="DE: Sky Cinema Action" group-title="original" dvb-reference="4097:0:1:F91C:DE5E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Action
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1659
+#EXTINF:-1 tvg-name="DE: Sky Cinema Best Of" group-title="original" dvb-reference="4097:0:1:5541:237C:EC:0:0:0:0", DE: Sky Cinema Best Of
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2119
+#EXTINF:-1 tvg-id="10917" tvg-name="DE: Sky Cinema Classics" group-title="original" dvb-reference="4097:0:1:6A4:23C:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Classics
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/91126
+#EXTINF:-1 tvg-name="DE: Sky Cinema Comedy" group-title="original" dvb-reference="4097:0:1:6D4A:C5B4:EC:0:0:0:0", DE: Sky Cinema Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2120
+#EXTINF:-1 tvg-name="DE: Sky Cinema Emotion" group-title="original" dvb-reference="4097:0:1:FF2:3A47:EC:0:0:0:0", DE: Sky Cinema Emotion
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2138
+#EXTINF:-1 tvg-id="10650" tvg-name="DE: Sky Cinema Family" group-title="original" dvb-reference="4097:0:1:5541:237D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Family
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2118
+#EXTINF:-1 tvg-name="DE: Sky Cinema Nostalgie" group-title="original" dvb-reference="4097:0:1:5541:238B:EC:0:0:0:0", DE: Sky Cinema Nostalgie
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2116
+#EXTINF:-1 tvg-id="10817" tvg-name="DE: Sky Cinema Premiere" group-title="original" dvb-reference="4097:0:1:5541:238A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Premiere
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2117
+#EXTINF:-1 tvg-id="10817" tvg-name="DE: Sky Cinema Premieren" group-title="original" dvb-reference="4097:0:1:2CA9:E262:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Cinema Premieren
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298585
+#EXTINF:-1 tvg-name="DE: Sky Cinema Premieren +24" group-title="original" dvb-reference="4097:0:1:5541:23A4:EC:0:0:0:0", DE: Sky Cinema Premieren +24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2414
+#EXTINF:-1 tvg-name="DE: Sky Cinema Special" group-title="original" dvb-reference="4097:0:1:554B:6117:EC:0:0:0:0", DE: Sky Cinema Special
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/29070
+#EXTINF:-1 tvg-name="DE: Sky Cinema Thriller" group-title="original" dvb-reference="4097:0:1:6A4:23BD:EC:0:0:0:0", DE: Sky Cinema Thriller
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/91116
+#EXTINF:-1 tvg-id="10908" tvg-name="DE: Sky Crime" group-title="original" dvb-reference="4097:0:1:759:59D2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Crime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291078
+#EXTINF:-1 tvg-id="10620" tvg-name="DE: Sky Documentaries" group-title="original" dvb-reference="4097:0:1:E829:CD55:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Documentaries
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291080
+#EXTINF:-1 tvg-id="76663" tvg-name="DE: Sky Krimi" group-title="original" dvb-reference="4097:0:1:6D4A:C5B6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Krimi
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2122
+#EXTINF:-1 tvg-id="10640" tvg-name="DE: Sky Nature" group-title="original" dvb-reference="4097:0:1:7595:9D1F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Nature
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/291079
+#EXTINF:-1 tvg-id="10635" tvg-name="DE: Sky Replay" group-title="original" dvb-reference="4097:0:1:52FF:ECF4:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Replay
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/407
+#EXTINF:-1 tvg-name="DE: Sky Select 1" group-title="original" dvb-reference="4097:0:1:4582:4CFE:EC:0:0:0:0", DE: Sky Select 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281693
+#EXTINF:-1 tvg-name="DE: Sky Select 2" group-title="original" dvb-reference="4097:0:1:FF2:3A46:EC:0:0:0:0", DE: Sky Select 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2139
+#EXTINF:-1 tvg-name="DE: Sky Select 3" group-title="original" dvb-reference="4097:0:1:5541:23A1:EC:0:0:0:0", DE: Sky Select 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2419
+#EXTINF:-1 tvg-name="DE: Sky Select 4" group-title="original" dvb-reference="4097:0:1:BEC3:DCA8:EC:0:0:0:0", DE: Sky Select 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/858
+#EXTINF:-1 tvg-name="DE: Sky Select 5" group-title="original" dvb-reference="4097:0:1:A7A8:4503:EC:0:0:0:0", DE: Sky Select 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/279837
+#EXTINF:-1 tvg-name="DE: Sky Select 7" group-title="original" dvb-reference="4097:0:1:5656:76A4:EC:0:0:0:0", DE: Sky Select 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/263996
+#EXTINF:-1 tvg-name="DE: Sky Select 8" group-title="original" dvb-reference="4097:0:1:5D8B:EEEF:EC:0:0:0:0", DE: Sky Select 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281443
+#EXTINF:-1 tvg-name="DE: Sky Select 10" group-title="original" dvb-reference="4097:0:1:20A6:FD3F:EC:0:0:0:0", DE: Sky Select 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/282048
+#EXTINF:-1 tvg-name="DE: Sky Serien & Shows" group-title="original" dvb-reference="4097:0:1:E2A1:A52D:EC:0:0:0:0", DE: Sky Serien & Shows
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/120872
+#EXTINF:-1 tvg-id="10918" tvg-name="DE: Sky Showcase" group-title="original" dvb-reference="4097:0:1:F836:E179:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Showcase
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302711
+#EXTINF:-1 tvg-id="212812" tvg-name="DE: Sky Sport 1" group-title="original" dvb-reference="4097:0:1:9609:4CB4:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/202100
+#EXTINF:-1 tvg-id="212809" tvg-name="DE: Sky Sport 2" group-title="original" dvb-reference="4097:0:1:22C5:534D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8215
+#EXTINF:-1 tvg-id="212836" tvg-name="DE: Sky Sport 3" group-title="original" dvb-reference="4097:0:1:298C:1CE3:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/72238
+#EXTINF:-1 tvg-id="212838" tvg-name="DE: Sky Sport 4" group-title="original" dvb-reference="4097:0:1:BD14:F0A9:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/32708
+#EXTINF:-1 tvg-id="212824" tvg-name="DE: Sky Sport 5" group-title="original" dvb-reference="4097:0:1:7BD4:1E53:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/13497
+#EXTINF:-1 tvg-id="212815" tvg-name="DE: Sky Sport 6" group-title="original" dvb-reference="4097:0:1:B33:439E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/31445
+#EXTINF:-1 tvg-id="212820" tvg-name="DE: Sky Sport 7" group-title="original" dvb-reference="4097:0:1:FF2:3A5:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2133
+#EXTINF:-1 tvg-id="212818" tvg-name="DE: Sky Sport 8" group-title="original" dvb-reference="4097:0:1:B701:63D4:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4489
+#EXTINF:-1 tvg-id="212810" tvg-name="DE: Sky Sport 9" group-title="original" dvb-reference="4097:0:1:56CF:968F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147341
+#EXTINF:-1 tvg-id="212831" tvg-name="DE: Sky Sport 10" group-title="original" dvb-reference="4097:0:1:56CF:968E:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147342
+#EXTINF:-1 tvg-id="212821" tvg-name="DE: Sky Sport Bundesliga" group-title="original" dvb-reference="4097:0:1:FF2:3A73:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2431
+#EXTINF:-1 tvg-id="212813" tvg-name="DE: Sky Sport Bundesliga 1" group-title="original" dvb-reference="4097:0:1:CF51:5702:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298592
+#EXTINF:-1 tvg-id="212816" tvg-name="DE: Sky Sport Bundesliga 2" group-title="original" dvb-reference="4097:0:1:59A8:D879:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4493
+#EXTINF:-1 tvg-id="212845" tvg-name="DE: Sky Sport Bundesliga 3" group-title="original" dvb-reference="4097:0:1:FF2:3A52:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2135
+#EXTINF:-1 tvg-id="212841" tvg-name="DE: Sky Sport Bundesliga 4" group-title="original" dvb-reference="4097:0:1:5DAB:1C0F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3513
+#EXTINF:-1 tvg-id="212835" tvg-name="DE: Sky Sport Bundesliga 5" group-title="original" dvb-reference="4097:0:1:FF2:3A55:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2136
+#EXTINF:-1 tvg-id="212833" tvg-name="DE: Sky Sport Bundesliga 6" group-title="original" dvb-reference="4097:0:1:6832:3099:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/12638
+#EXTINF:-1 tvg-id="212825" tvg-name="DE: Sky Sport Bundesliga 7" group-title="original" dvb-reference="4097:0:1:FF2:3A75:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2433
+#EXTINF:-1 tvg-id="212814" tvg-name="DE: Sky Sport Bundesliga 9" group-title="original" dvb-reference="4097:0:1:E2CA:E708:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Bundesliga 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10051
+#EXTINF:-1 tvg-id="10781" tvg-name="DE: Sky Sport F1" group-title="original" dvb-reference="4097:0:1:4E65:B285:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport F1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/174563
+#EXTINF:-1 tvg-id="10785" tvg-name="DE: Sky Sport Mix" group-title="original" dvb-reference="4097:0:1:2CA9:E223:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Mix
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298380
+#EXTINF:-1 tvg-id="76733" tvg-name="DE: Sky Sport News" group-title="original" dvb-reference="4097:0:1:F91C:DE5D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport News
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1658
+#EXTINF:-1 tvg-id="10817" tvg-name="DE: Sky Sport Premiere League" group-title="original" dvb-reference="4097:0:1:2CA9:E224:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Premiere League
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298381
+#EXTINF:-1 tvg-id="10634" tvg-name="DE: Sky Sport Tennis" group-title="original" dvb-reference="4097:0:1:94D4:F191:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Tennis
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297552
+#EXTINF:-1 tvg-id="10675" tvg-name="DE: Sky Sport Top Event" group-title="original" dvb-reference="4097:0:1:94D:4F19:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sky Sport Top Event
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297551
+#EXTINF:-1 tvg-name="DE: Sonus FM Alemania" group-title="original" dvb-reference="4097:0:1:D8EF:95CE:EC:0:0:0:0", DE: Sonus FM Alemania
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294844
+#EXTINF:-1 tvg-id="76753" tvg-name="DE: Sony AXN (AXN Black)" group-title="original" dvb-reference="4097:0:1:14A8:3894:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sony AXN (AXN Black)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300642
+#EXTINF:-1 tvg-id="76714" tvg-name="DE: Spiegel Geschichte" group-title="original" dvb-reference="4097:0:1:F91:CDE6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Spiegel Geschichte
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1657
+#EXTINF:-1 tvg-name="DE: Spiegel TV Wissen" group-title="original" dvb-reference="4097:0:1:529:A7:EC:0:0:0:0", DE: Spiegel TV Wissen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3506
+#EXTINF:-1 tvg-id="76659" tvg-name="DE: Sport 1" group-title="original" dvb-reference="4097:0:1:6D2B:A537:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290571
+#EXTINF:-1 tvg-id="76754" tvg-name="DE: Sport 1+" group-title="original" dvb-reference="4097:0:1:B299:AEEA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sport 1+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2100
+#EXTINF:-1 tvg-id="76705" tvg-name="DE: Sportdigital Fussball" group-title="original" dvb-reference="4097:0:1:52:90A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Sportdigital Fussball
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3509
+#EXTINF:-1 tvg-id="76693" tvg-name="DE: SR Fernsehen" group-title="original" dvb-reference="4097:0:1:37B9:795D:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18524
+#EXTINF:-1 tvg-name="DE: Stern Filme 1" group-title="original" dvb-reference="4097:0:1:E48C:FC76:EC:0:0:0:0", DE: Stern Filme 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298615
+#EXTINF:-1 tvg-name="DE: Stern Filme 2" group-title="original" dvb-reference="4097:0:1:E48C:FC75:EC:0:0:0:0", DE: Stern Filme 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298616
+#EXTINF:-1 tvg-name="DE: Stern Filme 3" group-title="original" dvb-reference="4097:0:1:E48C:FC74:EC:0:0:0:0", DE: Stern Filme 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298617
+#EXTINF:-1 tvg-name="DE: Stern Filme 4" group-title="original" dvb-reference="4097:0:1:E48C:FC83:EC:0:0:0:0", DE: Stern Filme 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298618
+#EXTINF:-1 tvg-name="DE: Stern Filme 6" group-title="original" dvb-reference="4097:0:1:FC96:9EAA:EC:0:0:0:0", DE: Stern Filme 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298620
+#EXTINF:-1 tvg-name="DE: Stern Filme 8" group-title="original" dvb-reference="4097:0:1:FC96:9EA8:EC:0:0:0:0", DE: Stern Filme 8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298622
+#EXTINF:-1 tvg-name="DE: Stern Filme 9" group-title="original" dvb-reference="4097:0:1:FC96:9EA7:EC:0:0:0:0", DE: Stern Filme 9
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298623
+#EXTINF:-1 tvg-name="DE: Stern Filme 10" group-title="original" dvb-reference="4097:0:1:FC96:9EA6:EC:0:0:0:0", DE: Stern Filme 10
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298624
+#EXTINF:-1 tvg-id="76723" tvg-name="DE: Stingray Classica" group-title="original" dvb-reference="4097:0:1:E48C:FC1B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Stingray Classica
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298711
+#EXTINF:-1 tvg-id="76767" tvg-name="DE: Super RTL" group-title="original" dvb-reference="4097:0:1:A3EC:3D16:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Super RTL
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/896
+#EXTINF:-1 tvg-id="76693" tvg-name="DE: SWR Fernsehen" group-title="original" dvb-reference="4097:0:1:3C03:3BFB:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SWR Fernsehen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/7513
+#EXTINF:-1 tvg-id="76764" tvg-name="DE: SYFY" group-title="original" dvb-reference="4097:0:1:AE3:667:EC:0:0:0:0" epg-source="glacn5x51kf", DE: SYFY
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/408
+#EXTINF:-1 tvg-id="76696" tvg-name="DE: Tagesschau 24" group-title="original" dvb-reference="4097:0:1:F91C:DE5F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Tagesschau 24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1656
+#EXTINF:-1 tvg-name="DE: Tastemade" group-title="original" dvb-reference="4097:0:1:1B70:7485:EC:0:0:0:0", DE: Tastemade
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/284590
+#EXTINF:-1 tvg-id="76708" tvg-name="DE: Tele 5" group-title="original" dvb-reference="4097:0:1:FF2:3A6B:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Tele 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2439
+#EXTINF:-1 tvg-id="76699" tvg-name="DE: TLC" group-title="original" dvb-reference="4097:0:1:B299:AEE2:EC:0:0:0:0" epg-source="glacn5x51kf", DE: TLC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2108
+#EXTINF:-1 tvg-id="76789" tvg-name="DE: Toggo Plus" group-title="original" dvb-reference="4097:0:1:3D37:8159:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Toggo Plus
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2145
+#EXTINF:-1 tvg-name="DE: TV Bayern" group-title="original" dvb-reference="4097:0:1:7D08:6399:EC:0:0:0:0", DE: TV Bayern
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10506
+#EXTINF:-1 tvg-name="DE: TV Ingolstadt" group-title="original" dvb-reference="4097:0:1:981C:44A5:EC:0:0:0:0", DE: TV Ingolstadt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166289
+#EXTINF:-1 tvg-name="DE: TV Mainfranken" group-title="original" dvb-reference="4097:0:1:6946:EE7E:EC:0:0:0:0", DE: TV Mainfranken
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/47596
+#EXTINF:-1 tvg-name="DE: TV Oberfranken" group-title="original" dvb-reference="4097:0:1:671:EF26:EC:0:0:0:0", DE: TV Oberfranken
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18493
+#EXTINF:-1 tvg-name="DE: TV Rus +" group-title="original" dvb-reference="4097:0:1:3245:DD39:EC:0:0:0:0", DE: TV Rus +
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299279
+#EXTINF:-1 tvg-name="DE: TVA Ostbayern" group-title="original" dvb-reference="4097:0:1:22C5:534B:EC:0:0:0:0", DE: TVA Ostbayern
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8217
+#EXTINF:-1 tvg-id="76662" tvg-name="DE: Universal TV" group-title="original" dvb-reference="4097:0:1:F91C:DE61:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Universal TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1654
+#EXTINF:-1 tvg-name="DE: Victorious" group-title="original" dvb-reference="4097:0:1:23DA:6C86:EC:0:0:0:0", DE: Victorious
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/285594
+#EXTINF:-1 tvg-id="76796" tvg-name="DE: Vox Up" group-title="original" dvb-reference="4097:0:1:2924:E94F:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Vox Up
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/151889
+#EXTINF:-1 tvg-name="DE: Waidwerk" group-title="original" dvb-reference="4097:0:1:305A:69D7:EC:0:0:0:0", DE: Waidwerk
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/193759
+#EXTINF:-1 tvg-id="76679" tvg-name="DE: Warner TV Comedy" group-title="original" dvb-reference="4097:0:1:183D:5D6:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Warner TV Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281763
+#EXTINF:-1 tvg-id="76645" tvg-name="DE: Warner TV Film" group-title="original" dvb-reference="4097:0:1:C7D5:5368:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Warner TV Film
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2087
+#EXTINF:-1 tvg-id="76806" tvg-name="DE: Warner TV serie" group-title="original" dvb-reference="4097:0:1:F91C:DE62:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Warner TV serie
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1655
+#EXTINF:-1 tvg-id="76684" tvg-name="DE: WDR" group-title="original" dvb-reference="4097:0:1:F91C:DE64:EC:0:0:0:0" epg-source="glacn5x51kf", DE: WDR
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1653
+#EXTINF:-1 tvg-id="76795" tvg-name="DE: Welt" group-title="original" dvb-reference="4097:0:1:6A7C:C7FF:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Welt
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2093
+#EXTINF:-1 tvg-id="76625" tvg-name="DE: Welt der Wunder TV" group-title="original" dvb-reference="4097:0:1:6A87:5EA:EC:0:0:0:0" epg-source="glacn5x51kf", DE: Welt der Wunder TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/29008
+#EXTINF:-1 tvg-name="DE: Wettin TV" group-title="original" dvb-reference="4097:0:1:C21A:3898:EC:0:0:0:0", DE: Wettin TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297502
+#EXTINF:-1 tvg-name="DE: XITE" group-title="original" dvb-reference="4097:0:1:183D:5D2:EC:0:0:0:0", DE: XITE
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281767
+#EXTINF:-1 tvg-id="76627" tvg-name="DE: ZDF" group-title="original" dvb-reference="4097:0:1:AD8A:7B02:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ZDF
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/409
+#EXTINF:-1 tvg-id="76718" tvg-name="DE: ZDF Info" group-title="original" dvb-reference="4097:0:1:F7E8:97B8:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ZDF Info
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2069
+#EXTINF:-1 tvg-id="76739" tvg-name="DE: ZDF Neo" group-title="original" dvb-reference="4097:0:1:9A90:C5A:EC:0:0:0:0" epg-source="glacn5x51kf", DE: ZDF Neo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2070
