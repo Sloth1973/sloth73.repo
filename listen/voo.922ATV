@@ -99,32 +99,32 @@ http://192.168.178.145:8080/hls/6954
 http://192.168.178.145:8080/hls/6955
 #EXTINF:-1 tvg-name="RTL NITRO (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3e55a412683a498ae7e19077ea81b564bb1b271b.png" tvg-id="RTLNitro.de",RTL Nitro
 http://192.168.178.145:8080/hls/1020
-#EXTINF:-1 tvg-name="WARNER COMEDY (BACKUP) (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
+#EXTINF:-1 tvg-name="Warner TV Comedy (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
+http://192.168.178.145:8080/hls/1141
+#EXTINF:-1 tvg-name="Warner TV Comedy (BACKUP) (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
 http://192.168.178.145:8080/hls/1142
 #EXTINF:-1 tvg-name="WARNER COMEDY RAW (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
 http://192.168.178.145:8080/hls/7211
-#EXTINF:-1 tvg-name="WARNER COMEDY (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
-http://192.168.178.145:8080/hls/1141
 #EXTINF:-1 tvg-name="WARNER TV COMEDY (6)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
 http://192.168.178.145:8080/hls/3715
 #EXTINF:-1 tvg-name="TNT COMEDY HD (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
 http://192.168.178.145:8080/hls/7173
 #EXTINF:-1 tvg-name="TNT COMEDY HD+ (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" tvg-id="WarnerTVComedy.de",Warner TV Comedy
 http://192.168.178.145:8080/hls/7174
-#EXTINF:-1 tvg-name="WARNER FILM RAW (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
-http://192.168.178.145:8080/hls/7212
-#EXTINF:-1 tvg-name="WARNER TV FILM (6)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
+#EXTINF:-1 tvg-name="Warner TV Film (6)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
 http://192.168.178.145:8080/hls/3716
+#EXTINF:-1 tvg-name="Warner TV FILM RAW (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
+http://192.168.178.145:8080/hls/7212
 #EXTINF:-1 tvg-name="WARNER TV FILM (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
 http://192.168.178.145:8080/hls/1143
 #EXTINF:-1 tvg-name="TNT FILM HD (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
 http://192.168.178.145:8080/hls/7175
 #EXTINF:-1 tvg-name="TNT FILM HD+ (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png" tvg-id="WarnerTVFilm.de",Warner TV Film
 http://192.168.178.145:8080/hls/7176
+#EXTINF:-1 tvg-name="Warner TV Serie (6)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" tvg-id="WarnerTVSerie.de",Warner TV Serie
+http://192.168.178.145:8080/hls/3717
 #EXTINF:-1 tvg-name="WARNER SERIE RAW (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" tvg-id="WarnerTVSerie.de",Warner TV Serie
 http://192.168.178.145:8080/hls/7213
-#EXTINF:-1 tvg-name="WARNER TV SERIE (6)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" tvg-id="WarnerTVSerie.de",Warner TV Serie
-http://192.168.178.145:8080/hls/3717
 #EXTINF:-1 tvg-name="WARNER TV SERIE (7)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" tvg-id="WarnerTVSerie.de",Warner TV Serie
 http://192.168.178.145:8080/hls/1144
 #EXTINF:-1 tvg-name="TNT SERIE HD (1)" group-title="voo.TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png" tvg-id="WarnerTVSerie.de",Warner TV Serie
@@ -341,8 +341,6 @@ http://192.168.178.145:8080/hls/7020
 http://192.168.178.145:8080/hls/3609
 #EXTINF:-1 tvg-name="SKY ATLANTIC (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9fd1abc76e3b402cf5ae4f65bf6798741cd214e.png" tvg-id="SkyAtlanticHD.de",Sky Atlantic
 http://192.168.178.145:8080/hls/1037
-#EXTINF:-1 tvg-name="SKY 24 (1)" group-title="voo.Sky",SKY 24
-http://192.168.178.145:8080/hls/7014
 #EXTINF:-1 tvg-name="SKY ACTION HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" tvg-id="SkyAction.de",Sky Action
 http://192.168.178.145:8080/hls/7016
 #EXTINF:-1 tvg-name="SKY ACTION HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" tvg-id="SkyAction.de",Sky Action
@@ -373,26 +371,6 @@ http://192.168.178.145:8080/hls/7075
 http://192.168.178.145:8080/hls/3629
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png" tvg-id="SkyCinemaFamily.de",Sky Cinema Family
 http://192.168.178.145:8080/hls/1057
-#EXTINF:-1 tvg-name="SKY FUN (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
-http://192.168.178.145:8080/hls/7090
-#EXTINF:-1 tvg-name="SKY CINEMA FUN HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
-http://192.168.178.145:8080/hls/7076
-#EXTINF:-1 tvg-name="SKY CINEMA FUN (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
-http://192.168.178.145:8080/hls/3630
-#EXTINF:-1 tvg-name="SKY CINEMA FUN (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
-http://192.168.178.145:8080/hls/1058
-#EXTINF:-1 tvg-name="SKY CINEMA COMEDY (6)" group-title="voo.Sky" tvg-id="SkyComedy.de",SKY CINEMA COMEDY
-http://192.168.178.145:8080/hls/3627
-#EXTINF:-1 tvg-name="SKY COMEDY (1)" group-title="voo.Sky" tvg-id="SkyComedy.de",SKY COMEDY
-http://192.168.178.145:8080/hls/7085
-#EXTINF:-1 tvg-name="SKY CINEMA HIGHLIGHT (6)" group-title="voo.Sky",SKY CINEMA HIGHLIGHT
-http://192.168.178.145:8080/hls/3631
-#EXTINF:-1 tvg-name="SKY CINEMA HITS (1)" group-title="voo.Sky" tvg-id="SkyCinemaHits.de",SKY CINEMA HITS
-http://192.168.178.145:8080/hls/7077
-#EXTINF:-1 tvg-name="SKY CINEMA HITS (6)" group-title="voo.Sky" tvg-id="SkyCinemaHits.de",SKY CINEMA HITS
-http://192.168.178.145:8080/hls/3632
-#EXTINF:-1 tvg-name="SKY CINEMA HITS (7)" group-title="voo.Sky" tvg-id="SkyCinemaHits.de",SKY CINEMA HITS
-http://192.168.178.145:8080/hls/1059
 #EXTINF:-1 tvg-name="SKY CINEMA (6)" group-title="voo.Sky",SKY CINEMA
 http://192.168.178.145:8080/hls/3621
 #EXTINF:-1 tvg-name="SKY SHOWCASE (6)" group-title="voo.Sky",SKY SHOWCASE
@@ -421,6 +399,22 @@ http://192.168.178.145:8080/hls/7123
 http://192.168.178.145:8080/hls/3654
 #EXTINF:-1 tvg-name="SKY SERIEN&SHOWS HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" tvg-id="SkyCinemaClassics.de",Sky Cinema Classics
 http://192.168.178.145:8080/hls/7124
+#EXTINF:-1 tvg-name="SKY KRIMI HD (BACKUP) (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
+http://192.168.178.145:8080/hls/7093
+#EXTINF:-1 tvg-name="SKY KRIMI HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
+http://192.168.178.145:8080/hls/7092
+#EXTINF:-1 tvg-name="SKY KRIMI HD+ (BACKUP) |D" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
+http://192.168.178.145:8080/hls/8900
+#EXTINF:-1 tvg-name="SKY KRIMI HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
+http://192.168.178.145:8080/hls/7094
+#EXTINF:-1 tvg-name="SKY KRIMI (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
+http://192.168.178.145:8080/hls/3642
+#EXTINF:-1 tvg-name="SKY KRIMI (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
+http://192.168.178.145:8080/hls/1066
+#EXTINF:-1 tvg-name="SKY REPLAY (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" tvg-id="SkyReplay.de",Sky Replay
+http://192.168.178.145:8080/hls/3645
+#EXTINF:-1 tvg-name="SKY REPLAY (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" tvg-id="SkyReplay.de",Sky Replay
+http://192.168.178.145:8080/hls/1073
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIERE (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/0b253961f1ed86531231b7ebef4856fe2393998c.png" tvg-id="SkyCinemaPlus1.de",Sky Cinema Premiere
 http://192.168.178.145:8080/hls/3634
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/0b253961f1ed86531231b7ebef4856fe2393998c.png" tvg-id="SkyCinemaPlus1.de",Sky Cinema Premiere
@@ -447,6 +441,28 @@ http://192.168.178.145:8080/hls/1062
 http://192.168.178.145:8080/hls/1063
 #EXTINF:-1 tvg-name="SKY CINEMA 24 (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" tvg-id="SkyCinemaPlus24.de",Sky Cinema+24
 http://192.168.178.145:8080/hls/3623
+#EXTINF:-1 tvg-name="SKY 24 (1)" group-title="voo.Sky",SKY 24
+http://192.168.178.145:8080/hls/7014
+#EXTINF:-1 tvg-name="SKY FUN (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
+http://192.168.178.145:8080/hls/7090
+#EXTINF:-1 tvg-name="SKY CINEMA FUN HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
+http://192.168.178.145:8080/hls/7076
+#EXTINF:-1 tvg-name="SKY CINEMA FUN (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
+http://192.168.178.145:8080/hls/3630
+#EXTINF:-1 tvg-name="SKY CINEMA FUN (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" tvg-id="SkyCinemaFun.de",Sky Cinema Fun
+http://192.168.178.145:8080/hls/1058
+#EXTINF:-1 tvg-name="SKY CINEMA COMEDY (6)" group-title="voo.Sky" tvg-id="SkyComedy.de",SKY CINEMA COMEDY
+http://192.168.178.145:8080/hls/3627
+#EXTINF:-1 tvg-name="SKY COMEDY (1)" group-title="voo.Sky" tvg-id="SkyComedy.de",SKY COMEDY
+http://192.168.178.145:8080/hls/7085
+#EXTINF:-1 tvg-name="SKY CINEMA HIGHLIGHT (6)" group-title="voo.Sky",SKY CINEMA HIGHLIGHT
+http://192.168.178.145:8080/hls/3631
+#EXTINF:-1 tvg-name="SKY CINEMA HITS (1)" group-title="voo.Sky" tvg-id="SkyCinemaHits.de",SKY CINEMA HITS
+http://192.168.178.145:8080/hls/7077
+#EXTINF:-1 tvg-name="SKY CINEMA HITS (6)" group-title="voo.Sky" tvg-id="SkyCinemaHits.de",SKY CINEMA HITS
+http://192.168.178.145:8080/hls/3632
+#EXTINF:-1 tvg-name="SKY CINEMA HITS (7)" group-title="voo.Sky" tvg-id="SkyCinemaHits.de",SKY CINEMA HITS
+http://192.168.178.145:8080/hls/1059
 #EXTINF:-1 tvg-name="SKY THRILLER HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" tvg-id="SkyCinemaThriller.de",Sky Cinema Thriller
 http://192.168.178.145:8080/hls/7137
 #EXTINF:-1 tvg-name="SKY THRILLER HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" tvg-id="SkyCinemaThriller.de",Sky Cinema Thriller
@@ -457,18 +473,6 @@ http://192.168.178.145:8080/hls/7083
 http://192.168.178.145:8080/hls/3639
 #EXTINF:-1 tvg-name="SKY CINEMA THRILLER (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" tvg-id="SkyCinemaThriller.de",Sky Cinema Thriller
 http://192.168.178.145:8080/hls/1065
-#EXTINF:-1 tvg-name="SKY KRIMI HD (BACKUP) (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
-http://192.168.178.145:8080/hls/7093
-#EXTINF:-1 tvg-name="SKY KRIMI HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
-http://192.168.178.145:8080/hls/7092
-#EXTINF:-1 tvg-name="SKY KRIMI HD+ (BACKUP) |D" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
-http://192.168.178.145:8080/hls/8900
-#EXTINF:-1 tvg-name="SKY KRIMI HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
-http://192.168.178.145:8080/hls/7094
-#EXTINF:-1 tvg-name="SKY KRIMI (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
-http://192.168.178.145:8080/hls/3642
-#EXTINF:-1 tvg-name="SKY KRIMI (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" tvg-id="SkyKrimi.de",Sky Krimi
-http://192.168.178.145:8080/hls/1066
 #EXTINF:-1 tvg-name="SKY PREMIEREN 24 HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" tvg-id="SkyCinemaPlus24.de",Sky Cinema+24
 http://192.168.178.145:8080/hls/7097
 #EXTINF:-1 tvg-name="SKY PREMIEREN 24 HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" tvg-id="SkyCinemaPlus24.de",Sky Cinema+24
@@ -479,10 +483,6 @@ http://192.168.178.145:8080/hls/7099
 http://192.168.178.145:8080/hls/7100
 #EXTINF:-1 tvg-name="SKY PREMIEREN (1)" group-title="voo.Sky",SKY PREMIEREN
 http://192.168.178.145:8080/hls/7096
-#EXTINF:-1 tvg-name="SKY REPLAY (6)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" tvg-id="SkyReplay.de",Sky Replay
-http://192.168.178.145:8080/hls/3645
-#EXTINF:-1 tvg-name="SKY REPLAY (7)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" tvg-id="SkyReplay.de",Sky Replay
-http://192.168.178.145:8080/hls/1073
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" tvg-id="SkyCinemaSpecial.de",Sky Cinema Best Of
 http://192.168.178.145:8080/hls/7069
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD+ (1)" group-title="voo.Sky" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" tvg-id="SkyCinemaSpecial.de",Sky Cinema Best Of
