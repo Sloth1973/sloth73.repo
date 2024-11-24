@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTEPG: epg-id="0ebhwmyr143" epg-name="Germany" epg-provider="EPG Share" epg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
-#EXTEPG: epg-id="tsafntkux4c" epg-name="VXparser" epg-provider="Hub" epg-url="http://192.168.178.145:24555/xmltv.php?username=noe&password=nix, http://192.168.178.145:24555/epg.xml.gz"
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:4CB4:FBE:EC:0:0:0:0" epg-source="0ebhwmyr143", Das Erste
 http://192.168.178.145:24555/live/noe/nix/819.m3u8
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:AD48:1FD2:EC:0:0:0:0" epg-source="0ebhwmyr143", Das Erste
