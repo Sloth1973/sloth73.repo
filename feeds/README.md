@@ -1,5 +1,5 @@
 # FEEDs fuer Kodi
-rss.sloth.xml
+### rss.sloth.xml
 - Datei download
 - Datei umbenennen: rss.xml
-- Datei in den installationsordner schieben / bisherige überschreiben.
+- Datei in den Installationsordner schieben / bisherige überschreiben.
