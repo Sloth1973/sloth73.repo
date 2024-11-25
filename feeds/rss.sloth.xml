@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rssfeeds>
+    <set id="1">
+        <feed updateinterval="30">https://github.com/Sloth1973/sloth73.repo/raw/main/feeds/feeds_update.xml</feed>
+<!--
+        <feed updateinterval="30">http://feeds.feedburner.com/XboxScene</feed>
+        <feed updateinterval="30">http://feeds.wired.com/wired/topheadlines</feed>
+-->
+    </set>
+<!--
+    <set id="2">
+       <feed updateinterval="30">http://www.cnet.co.uk/feeds/public/rss_news_10.htm</feed>
+    </set> -->
+</rssfeeds>

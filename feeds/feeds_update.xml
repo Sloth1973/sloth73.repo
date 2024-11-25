@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>repo.sloth73</title>
+        <description>All about Kodi, IPTV ...</description>
+        <link>http://www.sloth-73.free.nf/</link>
+        <link>https://github.com/Sloth1973/</link>
+        <language>de-de</language>
+        <item>
+            <title>Update n News</title>
+            <link>http://sloth-73.free.nf/2ndFloor/index.php?dir=00.-.IPTV_KODI_n_Co/Kodi/00.-.Kodi.-.xStream.Meldung.NERVT.-.DNS.Einstellen/</link>
+            <guid isPermaLink="true">http://sloth-73.free.nf/2ndFloor/index.php?dir=00.-.IPTV_KODI_n_Co/Kodi/00.-.Kodi.-.xStream.Meldung.NERVT.-.DNS.Einstellen/</guid>
+            <description>Gibt's was neues, wirds Euch hier angezeigt</description>
+            <pubDate>Mon, 25 Nov 2024 11:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>xStream-Support-Meldung NERVT</title>
+            <link>http://sloth-73.free.nf/2ndFloor/index.php?dir=00.-.IPTV_KODI_n_Co/Kodi/00.-.Kodi.-.xStream.Meldung.NERVT.-.DNS.Einstellen/</link>
+            <guid isPermaLink="true">http://sloth-73.free.nf/2ndFloor/index.php?dir=00.-.IPTV_KODI_n_Co/Kodi/00.-.Kodi.-.xStream.Meldung.NERVT.-.DNS.Einstellen/</guid>
+            <description>Anleitungen für unterschiedliche Boxen und Umgebungen | MEINE EMPFEHLUNG = Router '&gt;' DNS '&gt;' eintragen = Dann ist generell ruhe ;-)</description>
+            <pubDate>Mon, 25 Nov 2024 11:47:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
