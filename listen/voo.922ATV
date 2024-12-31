@@ -271,21 +271,21 @@ http://192.168.178.145:24555/live/noe/nix/820.m3u8
 http://192.168.178.145:24555/live/noe/nix/3248.m3u8
 #EXTINF:-1 tvg-id="arte.de" tvg-name="arte" tvg-logo="http://ngiss.t-online.de/cm1s/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:20AA:8408:EC:0:0:0:0" epg-source="0ebhwmyr143", arte
 http://192.168.178.145:24555/live/noe/nix/6567.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-name="WDR Essen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3AB2:CE16:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Essen
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-name="WDR Fernsehen Dortmund" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3AB2:CE16:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Fernsehen Dortmund
 http://192.168.178.145:24555/live/noe/nix/1076.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-name="WDR Essen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:E89E:AC7F:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Essen
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-name="WDR Fernsehen Dortmund" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:E89E:AC7F:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Fernsehen Dortmund
 http://192.168.178.145:24555/live/noe/nix/3538.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-name="WDR Essen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1880:152A:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Essen
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-name="WDR Fernsehen Dortmund" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1880:152A:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Fernsehen Dortmund
 http://192.168.178.145:24555/live/noe/nix/7049.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-name="WDR Essen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:DC6D:657C:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Essen
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-name="WDR Fernsehen Dortmund" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:DC6D:657C:EC:0:0:0:0" epg-source="0ebhwmyr143", WDR Fernsehen Dortmund
 http://192.168.178.145:24555/live/noe/nix/7050.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:AD48:C0F:EC:0:0:0:0" epg-source="0ebhwmyr143", BR
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name=BR Fernsehen Nord tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:AD48:C0F:EC:0:0:0:0" epg-source="0ebhwmyr143", BR Fernsehen Nord
 http://192.168.178.145:24555/live/noe/nix/832.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:CD36:3B4C:EC:0:0:0:0" epg-source="0ebhwmyr143", BR
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:CD36:3B4C:EC:0:0:0:0" epg-source="0ebhwmyr143", BR Fernsehen Nord
 http://192.168.178.145:24555/live/noe/nix/3256.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1E84:BF1:EC:0:0:0:0" epg-source="0ebhwmyr143", BR
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name=BR Fernsehen Nord tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1E84:BF1:EC:0:0:0:0" epg-source="0ebhwmyr143", BR Fernsehen Nord
 http://192.168.178.145:24555/live/noe/nix/3257.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:55B1:C1C7:EC:0:0:0:0" epg-source="0ebhwmyr143", BR
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name=BR Fernsehen Nord tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:55B1:C1C7:EC:0:0:0:0" epg-source="0ebhwmyr143", BR Fernsehen Nord
 http://192.168.178.145:24555/live/noe/nix/6605.m3u8
 #EXTINF:-1 tvg-id="hrfernsehen.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/b11ecb6905afbf9f82d9cd8624c242013a78824e.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:2B20:94FD:EC:0:0:0:0" epg-source="0ebhwmyr143", hr-fernsehen
 http://192.168.178.145:24555/live/noe/nix/870.m3u8
@@ -1027,19 +1027,19 @@ http://192.168.178.145:24555/live/noe/nix/6681.m3u8
 http://192.168.178.145:24555/live/noe/nix/8750.m3u8
 #EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" group-title="vx.TV.sport" dvb-reference="4097:0:1:8547:AA81:EC:0:0:0:0" epg-source="0ebhwmyr143", eSports1
 http://192.168.178.145:24555/live/noe/nix/861.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:6F9:460C:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:6F9:460C:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/3502.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:1E46:901B:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:1E46:901B:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/3503.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:3D20:D714:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:3D20:D714:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/1045.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:3AB4:5A39:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:3AB4:5A39:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/1046.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:6BA2:8A51:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:6BA2:8A51:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/6984.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:1A54:B9AC:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:1A54:B9AC:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/6985.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:B29:DD7:EC:0:0:0:0" epg-source="0ebhwmyr143", SPORT1
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:B29:DD7:EC:0:0:0:0" epg-source="0ebhwmyr143", Sport1
 http://192.168.178.145:24555/live/noe/nix/8767.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="http://ngiss.t-online.de/cm1s/media/18f200745e93b6c9848237acaaa008ea9f520f94.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:2065:5FD9:EC:0:0:0:0" epg-source="0ebhwmyr143", Eurosport 1
 http://192.168.178.145:24555/live/noe/nix/3293.m3u8
