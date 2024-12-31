@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg="https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/player.ee.co.uk.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:4CB4:FBE:EC:0:0:0:0" epg-source="0ebhwmyr143", Das Erste
 http://192.168.178.145:24555/live/noe/nix/819.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:AD48:1FD2:EC:0:0:0:0" epg-source="0ebhwmyr143", Das Erste
