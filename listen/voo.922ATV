@@ -156,11 +156,11 @@ http://192.168.178.145:24555/live/noe/nix/6978.m3u8
 http://192.168.178.145:24555/live/noe/nix/3251.m3u8
 #EXTINF:-1 tvg-id="SONY.AXN.de" tvg-name="AXN | Black" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:DC4D:E8DB:EC:0:0:0:0", AXN | Black
 http://192.168.178.145:24555/live/noe/nix/1040.m3u8
-#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png"  group-title="vx.TV" dvb-reference="4097:0:1:42E5:FC9F:EC:0:0:0:0", AXN | White
+#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:42E5:FC9F:EC:0:0:0:0", AXN | White
 http://192.168.178.145:24555/live/noe/nix/6979.m3u8
 #EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:EACA:11D5:EC:0:0:0:0", AXN | White
 http://192.168.178.145:24555/live/noe/nix/3499.m3u8
-#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png"  group-title="vx.TV" dvb-reference="4097:0:1:CF1D:BDB8:EC:0:0:0:0", AXN | White
+#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:CF1D:BDB8:EC:0:0:0:0", AXN | White
 http://192.168.178.145:24555/live/noe/nix/3252.m3u8
 #EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline" group-title="vx.TV" dvb-reference="4097:0:1:1177:7DF7:EC:0:0:0:0", Silverline
 http://192.168.178.145:24555/live/noe/nix/3431.m3u8
