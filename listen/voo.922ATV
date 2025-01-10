@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:4CB4:FBE:EC:0:0:0:0", Das Erste
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/f6b89769f18bd7249e620395e60b3c7f54340437.png" group-title="vx.TV" dvb-reference="4097:0:1:4CB4:FBE:EC:0:0:0:0", Das Erste
 http://192.168.178.145:24555/live/noe/nix/819.m3u8
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:AD48:1FD2:EC:0:0:0:0", Das Erste
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/f6b89769f18bd7249e620395e60b3c7f54340437.png" group-title="vx.TV" dvb-reference="4097:0:1:AD48:1FD2:EC:0:0:0:0", Das Erste
 http://192.168.178.145:24555/live/noe/nix/837.m3u8
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:CF1E:C5FA:EC:0:0:0:0", Das Erste
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/f6b89769f18bd7249e620395e60b3c7f54340437.png" group-title="vx.TV" dvb-reference="4097:0:1:CF1E:C5FA:EC:0:0:0:0", Das Erste
 http://192.168.178.145:24555/live/noe/nix/3272.m3u8
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:F37A:AF72:EC:0:0:0:0", Das Erste
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/f6b89769f18bd7249e620395e60b3c7f54340437.png" group-title="vx.TV" dvb-reference="4097:0:1:F37A:AF72:EC:0:0:0:0", Das Erste
 http://192.168.178.145:24555/live/noe/nix/6613.m3u8
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png" group-title="vx.TV" dvb-reference="4097:0:1:9A6A:5003:EC:0:0:0:0", Das Erste
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="http://ngiss.t-online.de/cm1s/media/f6b89769f18bd7249e620395e60b3c7f54340437.png" group-title="vx.TV" dvb-reference="4097:0:1:9A6A:5003:EC:0:0:0:0", Das Erste
 http://192.168.178.145:24555/live/noe/nix/6614.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://ngiss.t-online.de/cm1s/media/35d71e6d09f3551cb4053da8487b3028cf9339cd.png" group-title="vx.TV" dvb-reference="4097:0:1:DC47:BA57:EC:0:0:0:0", ZDF
 http://192.168.178.145:24555/live/noe/nix/1080.m3u8
@@ -59,13 +59,13 @@ http://192.168.178.145:24555/live/noe/nix/3532.m3u8
 http://192.168.178.145:24555/live/noe/nix/7043.m3u8
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="http://ngiss.t-online.de/cm1s/media/0e5b4d41d518a068a0bef830d64f848b84ac39d1.png" group-title="vx.TV" dvb-reference="4097:0:1:DA86:66F1:EC:0:0:0:0", VOX
 http://192.168.178.145:24555/live/noe/nix/7044.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel 1" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:2B20:8FBE:EC:0:0:0:0", Kabel 1
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:2B20:8FBE:EC:0:0:0:0", kabel eins
 http://192.168.178.145:24555/live/noe/nix/877.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel 1" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:2413:FE9F:EC:0:0:0:0", Kabel 1
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:2413:FE9F:EC:0:0:0:0", kabel eins
 http://192.168.178.145:24555/live/noe/nix/3314.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel 1" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:F90C:B19C:EC:0:0:0:0", Kabel 1
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:F90C:B19C:EC:0:0:0:0", kabel eins
 http://192.168.178.145:24555/live/noe/nix/6710.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel 1" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:2B6:C2D2:EC:0:0:0:0", Kabel 1
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="kabel eins" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png" group-title="vx.TV" dvb-reference="4097:0:1:2B6:C2D2:EC:0:0:0:0", kabel eins
 http://192.168.178.145:24555/live/noe/nix/6712.m3u8
 #EXTINF:-1 tvg-id="kabel.eins.CLASSICS.de" tvg-name="kabel eins Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/3d6c4e11c8058b35f0726c1e25ab1b391a2ada75.png" group-title="vx.TV" dvb-reference="4097:0:1:2B20:B4F5:EC:0:0:0:0", kabel eins Classics
 http://192.168.178.145:24555/live/noe/nix/878.m3u8
@@ -73,15 +73,15 @@ http://192.168.178.145:24555/live/noe/nix/878.m3u8
 http://192.168.178.145:24555/live/noe/nix/3315.m3u8
 #EXTINF:-1 tvg-id="kabel.eins.CLASSICS.de" tvg-name="kabel eins Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/3d6c4e11c8058b35f0726c1e25ab1b391a2ada75.png" group-title="vx.TV" dvb-reference="4097:0:1:D9A3:9D3E:EC:0:0:0:0", kabel eins Classics
 http://192.168.178.145:24555/live/noe/nix/6709.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:76D:CB39:EC:0:0:0:0", ProSieben Maxx ©
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:76D:CB39:EC:0:0:0:0", ProSieben Maxx
 http://192.168.178.145:24555/live/noe/nix/924.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:2410:6378:EC:0:0:0:0", ProSieben Maxx ©
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:2410:6378:EC:0:0:0:0", ProSieben Maxx
 http://192.168.178.145:24555/live/noe/nix/3384.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:D9A0:F9E5:EC:0:0:0:0", ProSieben Maxx ©
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:D9A0:F9E5:EC:0:0:0:0", ProSieben Maxx
 http://192.168.178.145:24555/live/noe/nix/6779.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:F90A:2EB3:EC:0:0:0:0", ProSieben Maxx ©
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:F90A:2EB3:EC:0:0:0:0", ProSieben Maxx
 http://192.168.178.145:24555/live/noe/nix/6780.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:47C:30E:EC:0:0:0:0", ProSieben Maxx ©
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben Maxx" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png" group-title="vx.TV" dvb-reference="4097:0:1:47C:30E:EC:0:0:0:0", ProSieben Maxx
 http://192.168.178.145:24555/live/noe/nix/6781.m3u8
 #EXTINF:-1 tvg-id="NITRO.de" tvg-name="Nitro" tvg-logo="http://ngiss.t-online.de/cm1s/media/3e55a412683a498ae7e19077ea81b564bb1b271b.png" group-title="vx.TV" dvb-reference="4097:0:1:A6D9:9A2D:EC:0:0:0:0", Nitro
 http://192.168.178.145:24555/live/noe/nix/906.m3u8
@@ -95,13 +95,13 @@ http://192.168.178.145:24555/live/noe/nix/6765.m3u8
 http://192.168.178.145:24555/live/noe/nix/6796.m3u8
 #EXTINF:-1 tvg-id="NITRO.de" tvg-name="Nitro" tvg-logo="http://ngiss.t-online.de/cm1s/media/3e55a412683a498ae7e19077ea81b564bb1b271b.png" group-title="vx.TV" dvb-reference="4097:0:1:BD7:BA91:EC:0:0:0:0", Nitro
 http://192.168.178.145:24555/live/noe/nix/6797.m3u8
-#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:24B2:65A:EC:0:0:0:0", RTL Zwei ©
+#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:24B2:65A:EC:0:0:0:0", RTL Zwei
 http://192.168.178.145:24555/live/noe/nix/947.m3u8
-#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:F09:F8DA:EC:0:0:0:0", RTL Zwei ©
+#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:F09:F8DA:EC:0:0:0:0", RTL Zwei
 http://192.168.178.145:24555/live/noe/nix/3412.m3u8
-#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:D261:E9DB:EC:0:0:0:0", RTL Zwei ©
+#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:D261:E9DB:EC:0:0:0:0", RTL Zwei
 http://192.168.178.145:24555/live/noe/nix/6788.m3u8
-#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:6FBE:B865:EC:0:0:0:0", RTL Zwei ©
+#EXTINF:-1 tvg-id="RTL.II.de" tvg-name="RTL Zwei" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png" group-title="vx.TV" dvb-reference="4097:0:1:6FBE:B865:EC:0:0:0:0", RTL Zwei
 http://192.168.178.145:24555/live/noe/nix/6801.m3u8
 #EXTINF:-1 tvg-id="Warner.TV.Comedy.de" tvg-name="Warner TV Comedy" tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png" group-title="vx.TV" dvb-reference="4097:0:1:3C9A:5082:EC:0:0:0:0", Warner TV Comedy
 http://192.168.178.145:24555/live/noe/nix/1072.m3u8
@@ -155,15 +155,15 @@ http://192.168.178.145:24555/live/noe/nix/6978.m3u8
 http://192.168.178.145:24555/live/noe/nix/3251.m3u8
 #EXTINF:-1 tvg-id="SONY.AXN.de" tvg-name="AXN | Black" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:DC4D:E8DB:EC:0:0:0:0", AXN | Black
 http://192.168.178.145:24555/live/noe/nix/1040.m3u8
-#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White ©" group-title="vx.TV" dvb-reference="4097:0:1:42E5:FC9F:EC:0:0:0:0", AXN | White ©
+#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" group-title="vx.TV" dvb-reference="4097:0:1:42E5:FC9F:EC:0:0:0:0", AXN | White
 http://192.168.178.145:24555/live/noe/nix/6979.m3u8
-#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:EACA:11D5:EC:0:0:0:0", AXN | White ©
+#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" tvg-logo="http://ngiss.t-online.de/cm1s/media/df6a8f84c2ecbe26b090e37b782db46b9d98b1bb.png" group-title="vx.TV" dvb-reference="4097:0:1:EACA:11D5:EC:0:0:0:0", AXN | White
 http://192.168.178.145:24555/live/noe/nix/3499.m3u8
-#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White ©" group-title="vx.TV" dvb-reference="4097:0:1:CF1D:BDB8:EC:0:0:0:0", AXN | White ©
+#EXTINF:-1 tvg-id="Sony.Channel.de" tvg-name="AXN | White" group-title="vx.TV" dvb-reference="4097:0:1:CF1D:BDB8:EC:0:0:0:0", AXN | White
 http://192.168.178.145:24555/live/noe/nix/3252.m3u8
-#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline ©" group-title="vx.TV" dvb-reference="4097:0:1:1177:7DF7:EC:0:0:0:0", Silverline ©
+#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline" group-title="vx.TV" dvb-reference="4097:0:1:1177:7DF7:EC:0:0:0:0", Silverline
 http://192.168.178.145:24555/live/noe/nix/3431.m3u8
-#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline ©" group-title="vx.TV" dvb-reference="4097:0:1:6B68:A9A2:EC:0:0:0:0", Silverline ©
+#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline" group-title="vx.TV" dvb-reference="4097:0:1:6B68:A9A2:EC:0:0:0:0", Silverline
 http://192.168.178.145:24555/live/noe/nix/6846.m3u8
 #EXTINF:-1 tvg-id="KinoweltTV.de" tvg-name="Kinowelt TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8f80fdd4f8fe6853800aeec106062fc2ee1d5ab4.png" group-title="vx.TV" dvb-reference="4097:0:1:D5A1:8C63:EC:0:0:0:0", Kinowelt TV
 http://192.168.178.145:24555/live/noe/nix/881.m3u8
@@ -181,17 +181,17 @@ http://192.168.178.145:24555/live/noe/nix/1052.m3u8
 http://192.168.178.145:24555/live/noe/nix/3522.m3u8
 #EXTINF:-1 tvg-id="TELE.5.de" tvg-name="Tele 5" tvg-logo="http://ngiss.t-online.de/cm1s/media/05452ad179e25678e50434da167e2f3ede2a9f60.png" group-title="vx.TV" dvb-reference="4097:0:1:1A53:1D8D:EC:0:0:0:0", Tele 5
 http://192.168.178.145:24555/live/noe/nix/6995.m3u8
-#EXTINF:-1 tvg-id="Servus.TV.de" tvg-name="Servus TV HD ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/7705473aad92b6a66fbd0d0f845ba5a884d69989.png" group-title="vx.TV" dvb-reference="4097:0:1:AEBD:D52:EC:0:0:0:0", Servus TV HD ©
+#EXTINF:-1 tvg-id="Servus.TV.de" tvg-name="Servus TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/4e803c30d35da9b5e1b325db3e348a87859814e2.png" group-title="vx.TV" dvb-reference="4097:0:1:AEBD:D52:EC:0:0:0:0", Servus TV
 http://192.168.178.145:24555/live/noe/nix/3430.m3u8
-#EXTINF:-1 tvg-id="Servus.TV.de" tvg-name="Servus TV HD ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/7705473aad92b6a66fbd0d0f845ba5a884d69989.png" group-title="vx.TV" dvb-reference="4097:0:1:B1A:B5D8:EC:0:0:0:0", Servus TV HD ©
+#EXTINF:-1 tvg-id="Servus.TV.de" tvg-name="Servus TV" tvg-logo="http://ngiss.t-online.de/cm1s/media/4e803c30d35da9b5e1b325db3e348a87859814e2.png" group-title="vx.TV" dvb-reference="4097:0:1:B1A:B5D8:EC:0:0:0:0", Servus TV
 http://192.168.178.145:24555/live/noe/nix/6844.m3u8
-#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png" group-title="vx.TV" dvb-reference="4097:0:1:76D:9E74:EC:0:0:0:0", ProSieben Fun ©
+#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun" tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png" group-title="vx.TV" dvb-reference="4097:0:1:76D:9E74:EC:0:0:0:0", ProSieben Fun
 http://192.168.178.145:24555/live/noe/nix/923.m3u8
-#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png" group-title="vx.TV" dvb-reference="4097:0:1:36DF:8B75:EC:0:0:0:0", ProSieben Fun ©
+#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun" tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png" group-title="vx.TV" dvb-reference="4097:0:1:36DF:8B75:EC:0:0:0:0", ProSieben Fun
 http://192.168.178.145:24555/live/noe/nix/3383.m3u8
-#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png" group-title="vx.TV" dvb-reference="4097:0:1:D263:658A:EC:0:0:0:0", ProSieben Fun ©
+#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun" tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png" group-title="vx.TV" dvb-reference="4097:0:1:D263:658A:EC:0:0:0:0", ProSieben Fun
 http://192.168.178.145:24555/live/noe/nix/6778.m3u8
-#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png" group-title="vx.TV" dvb-reference="4097:0:1:BDA:D25F:EC:0:0:0:0", ProSieben Fun ©
+#EXTINF:-1 tvg-id="ProSieben.Fun.de" tvg-name="ProSieben Fun" tvg-logo="http://ngiss.t-online.de/cm1s/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png" group-title="vx.TV" dvb-reference="4097:0:1:BDA:D25F:EC:0:0:0:0", ProSieben Fun
 http://192.168.178.145:24555/live/noe/nix/6777.m3u8
 #EXTINF:-1 tvg-id="RTL.Living.de" tvg-name="RTL Living" tvg-logo="http://ngiss.t-online.de/cm1s/media/df96334494725e0766bf3a22ac6ae3ea88611adf.png" group-title="vx.TV" dvb-reference="4097:0:1:24B2:F58:EC:0:0:0:0", RTL Living
 http://192.168.178.145:24555/live/noe/nix/941.m3u8
@@ -231,13 +231,13 @@ http://192.168.178.145:24555/live/noe/nix/953.m3u8
 http://192.168.178.145:24555/live/noe/nix/3427.m3u8
 #EXTINF:-1 tvg-id="SAT.1.Gold.de" tvg-name="SAT.1 Gold" tvg-logo="http://ngiss.t-online.de/cm1s/media/c4df738dfcdc4307911328c1368b717428f234d8.png" group-title="vx.TV" dvb-reference="4097:0:1:6612:97B3:EC:0:0:0:0", SAT.1 Gold
 http://192.168.178.145:24555/live/noe/nix/6843.m3u8
-#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="RTL Super" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:DC4D:64FA:EC:0:0:0:0", RTL Super
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:DC4D:64FA:EC:0:0:0:0", Super RTL
 http://192.168.178.145:24555/live/noe/nix/1050.m3u8
-#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="RTL Super" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:202D:8EA6:EC:0:0:0:0", RTL Super
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:202D:8EA6:EC:0:0:0:0", Super RTL
 http://192.168.178.145:24555/live/noe/nix/3517.m3u8
-#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="RTL Super" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:9432:5195:EC:0:0:0:0", RTL Super
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:9432:5195:EC:0:0:0:0", Super RTL
 http://192.168.178.145:24555/live/noe/nix/6988.m3u8
-#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="RTL Super" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:42E:480F:EC:0:0:0:0", RTL Super
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png" group-title="vx.TV" dvb-reference="4097:0:1:42E:480F:EC:0:0:0:0", Super RTL
 http://192.168.178.145:24555/live/noe/nix/6989.m3u8
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="http://ngiss.t-online.de/cm1s/media/7475b5f5fce6df60756901f94904c42d2675c6d9.png" group-title="vx.TV" dvb-reference="4097:0:1:DC4C:5CB8:EC:0:0:0:0", VOXup
 http://192.168.178.145:24555/live/noe/nix/1070.m3u8
@@ -245,11 +245,11 @@ http://192.168.178.145:24555/live/noe/nix/1070.m3u8
 http://192.168.178.145:24555/live/noe/nix/3533.m3u8
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="http://ngiss.t-online.de/cm1s/media/7475b5f5fce6df60756901f94904c42d2675c6d9.png" group-title="vx.TV" dvb-reference="4097:0:1:3D40:D796:EC:0:0:0:0", VOXup
 http://192.168.178.145:24555/live/noe/nix/7045.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF neo ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3F02:2AFC:EC:0:0:0:0", ZDF neo ©
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF neo" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3F02:2AFC:EC:0:0:0:0", ZDF neo
 http://192.168.178.145:24555/live/noe/nix/1081.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF neo ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:717D:F2A8:EC:0:0:0:0", ZDF neo ©
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF neo" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:717D:F2A8:EC:0:0:0:0", ZDF neo
 http://192.168.178.145:24555/live/noe/nix/3546.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF neo ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:357F:510E:EC:0:0:0:0", ZDF neo ©
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF neo" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:357F:510E:EC:0:0:0:0", ZDF neo
 http://192.168.178.145:24555/live/noe/nix/7063.m3u8
 #EXTINF:-1 tvg-id="ONE.de" tvg-name="One" tvg-logo="http://ngiss.t-online.de/cm1s/media/70b3ed315768d8799f8577aad1003e4b2758b197.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:4CB2:806A:EC:0:0:0:0", One
 http://192.168.178.145:24555/live/noe/nix/914.m3u8
@@ -271,27 +271,27 @@ http://192.168.178.145:24555/live/noe/nix/820.m3u8
 http://192.168.178.145:24555/live/noe/nix/3248.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="arte" tvg-logo="http://ngiss.t-online.de/cm1s/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:20AA:8408:EC:0:0:0:0", arte
 http://192.168.178.145:24555/live/noe/nix/6567.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3AB2:CE16:EC:0:0:0:0", WDR Fernsehen
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d69f059f727a9e12a35e12a0c4b34c421f8b1ef3.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3AB2:CE16:EC:0:0:0:0", WDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/1076.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:E89E:AC7F:EC:0:0:0:0", WDR Fernsehen
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d69f059f727a9e12a35e12a0c4b34c421f8b1ef3.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:E89E:AC7F:EC:0:0:0:0", WDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3538.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1880:152A:EC:0:0:0:0", WDR Fernsehen
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d69f059f727a9e12a35e12a0c4b34c421f8b1ef3.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1880:152A:EC:0:0:0:0", WDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/7049.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:DC6D:657C:EC:0:0:0:0", WDR Fernsehen
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d69f059f727a9e12a35e12a0c4b34c421f8b1ef3.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:DC6D:657C:EC:0:0:0:0", WDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/7050.m3u8
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:AD48:C0F:EC:0:0:0:0", BR Fernsehen
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/28419d026885b43d088d9c5e1df970a1d893b5b7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:AD48:C0F:EC:0:0:0:0", BR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/832.m3u8
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:CD36:3B4C:EC:0:0:0:0", BR Fernsehen
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/28419d026885b43d088d9c5e1df970a1d893b5b7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:CD36:3B4C:EC:0:0:0:0", BR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3256.m3u8
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1E84:BF1:EC:0:0:0:0", BR Fernsehen
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/28419d026885b43d088d9c5e1df970a1d893b5b7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:1E84:BF1:EC:0:0:0:0", BR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3257.m3u8
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:55B1:C1C7:EC:0:0:0:0", BR Fernsehen
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/28419d026885b43d088d9c5e1df970a1d893b5b7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:55B1:C1C7:EC:0:0:0:0", BR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/6605.m3u8
-#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/b11ecb6905afbf9f82d9cd8624c242013a78824e.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:2B20:94FD:EC:0:0:0:0", hr-fernsehen
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/f4e44c36aa449ab64e9343ab3a1c344f90a883e7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:2B20:94FD:EC:0:0:0:0", hr-fernsehen
 http://192.168.178.145:24555/live/noe/nix/870.m3u8
-#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/b11ecb6905afbf9f82d9cd8624c242013a78824e.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:34FC:2811:EC:0:0:0:0", hr-fernsehen
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/f4e44c36aa449ab64e9343ab3a1c344f90a883e7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:34FC:2811:EC:0:0:0:0", hr-fernsehen
 http://192.168.178.145:24555/live/noe/nix/3307.m3u8
-#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/b11ecb6905afbf9f82d9cd8624c242013a78824e.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:FAF5:D027:EC:0:0:0:0", hr-fernsehen
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/f4e44c36aa449ab64e9343ab3a1c344f90a883e7.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:FAF5:D027:EC:0:0:0:0", hr-fernsehen
 http://192.168.178.145:24555/live/noe/nix/6704.m3u8
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:7B7A:619C:EC:0:0:0:0", MDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/893.m3u8
@@ -299,21 +299,21 @@ http://192.168.178.145:24555/live/noe/nix/893.m3u8
 http://192.168.178.145:24555/live/noe/nix/3339.m3u8
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:D9A3:961:EC:0:0:0:0", MDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/6739.m3u8
-#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:A6D9:A32B:EC:0:0:0:0", NDR Fernsehen
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9f63bb9f231c580e2232f03d6cc2ca5cb08799c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:A6D9:A32B:EC:0:0:0:0", NDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/900.m3u8
-#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:25FD:9087:EC:0:0:0:0", NDR Fernsehen
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9f63bb9f231c580e2232f03d6cc2ca5cb08799c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:25FD:9087:EC:0:0:0:0", NDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3350.m3u8
-#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:D99F:F1A3:EC:0:0:0:0", NDR Fernsehen
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9f63bb9f231c580e2232f03d6cc2ca5cb08799c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:D99F:F1A3:EC:0:0:0:0", NDR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/6759.m3u8
-#EXTINF:-1 tvg-id="RBB.de" tvg-name="rbb Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/3c5a2a45fa454d43b49eb1a696cafd0a4eeb1c86.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:AD46:84B1:EC:0:0:0:0", rbb Fernsehen
+#EXTINF:-1 tvg-id="RBB.de" tvg-name="rbb Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/ea87e5a30befee8790d16f224698e3657992b8ab.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:AD46:84B1:EC:0:0:0:0", rbb Fernsehen
 http://192.168.178.145:24555/live/noe/nix/931.m3u8
-#EXTINF:-1 tvg-id="RBB.de" tvg-name="rbb Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/3c5a2a45fa454d43b49eb1a696cafd0a4eeb1c86.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:36DF:794:EC:0:0:0:0", rbb Fernsehen
+#EXTINF:-1 tvg-id="RBB.de" tvg-name="rbb Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/ea87e5a30befee8790d16f224698e3657992b8ab.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:36DF:794:EC:0:0:0:0", rbb Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3393.m3u8
-#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/784cfb3e89c660ecf9f02bae301f40f875996af9.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:B5A5:A403:EC:0:0:0:0", SWR Fernsehen
+#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:B5A5:A403:EC:0:0:0:0", SWR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/1048.m3u8
-#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/784cfb3e89c660ecf9f02bae301f40f875996af9.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:BFE0:1EBD:EC:0:0:0:0", SWR Fernsehen
+#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:BFE0:1EBD:EC:0:0:0:0", SWR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3505.m3u8
-#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/784cfb3e89c660ecf9f02bae301f40f875996af9.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:CBF0:7E1B:EC:0:0:0:0", SWR Fernsehen
+#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:CBF0:7E1B:EC:0:0:0:0", SWR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/6986.m3u8
 #EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png" group-title="vx.TV.regional" dvb-reference="4097:0:1:3F07:D59F:EC:0:0:0:0", SWR Fernsehen
 http://192.168.178.145:24555/live/noe/nix/1051.m3u8
@@ -351,43 +351,43 @@ http://192.168.178.145:24555/live/noe/nix/6858.m3u8
 http://192.168.178.145:24555/live/noe/nix/6859.m3u8
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="Sky Atlantic" tvg-logo="http://ngiss.t-online.de/cm1s/media/e9fd1abc76e3b402cf5ae4f65bf6798741cd214e.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D03:4086:EC:0:0:0:0", Sky Atlantic
 http://192.168.178.145:24555/live/noe/nix/6860.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A58:44D7:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A58:44D7:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6935.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" group-title="vx.TV.cine" dvb-reference="4097:0:1:943:5DCC:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:943:5DCC:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6938.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" group-title="vx.TV.cine" dvb-reference="4097:0:1:42E8:C1B:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:42E8:C1B:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6939.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/0b253961f1ed86531231b7ebef4856fe2393998c.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:405:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:405:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/986.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/0b253961f1ed86531231b7ebef4856fe2393998c.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:10F3:8AC2:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:10F3:8AC2:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/3456.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/0b253961f1ed86531231b7ebef4856fe2393998c.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9434:D47E:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9434:D47E:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6918.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" group-title="vx.TV.cine" dvb-reference="4097:0:1:6610:FB94:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6610:FB94:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6853.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CBF4:946:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CBF4:946:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6936.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7AA6:38A1:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7AA6:38A1:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6937.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CBF3:104:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CBF3:104:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6916.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premieren ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7AA5:305F:EC:0:0:0:0", Sky Cinema Premieren ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="Sky Cinema Premiere" tvg-logo="http://ngiss.t-online.de/cm1s/media/f8cce57b1346e70a50ba565675a380392e48f598.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7AA5:305F:EC:0:0:0:0", Sky Cinema Premiere
 http://192.168.178.145:24555/live/noe/nix/6917.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CA8A:FC8B:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CA8A:FC8B:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/959.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:B19:19B9:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:B19:19B9:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/6854.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6DD3:8A5E:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6DD3:8A5E:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/6855.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6B67:D83:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6B67:D83:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/6856.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:2B1F:4A1:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:2B1F:4A1:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/975.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:8816:5395:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:8816:5395:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/3448.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7AA6:CC7E:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7AA6:CC7E:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/6907.m3u8
-#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9436:709D:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.de" tvg-name="Sky Cinema Action" tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9436:709D:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/live/noe/nix/6908.m3u8
 #EXTINF:-1 tvg-id="Sky.Family.de" tvg-name="Sky Cinema Family" tvg-logo="http://ngiss.t-online.de/cm1s/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A59:E0F6:EC:0:0:0:0", Sky Cinema Family
 http://192.168.178.145:24555/live/noe/nix/6925.m3u8
@@ -417,9 +417,9 @@ http://192.168.178.145:24555/live/noe/nix/6698.m3u8
 http://192.168.178.145:24555/live/noe/nix/998.m3u8
 #EXTINF:-1 tvg-id="Sky.Replay.de" tvg-name="Sky Replay" tvg-logo="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:10F5:16E5:EC:0:0:0:0", Sky Replay
 http://192.168.178.145:24555/live/noe/nix/3466.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D59F:F042:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D59F:F042:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/983.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" group-title="vx.TV.cine" dvb-reference="4097:0:1:AEBF:A0AF:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png"  group-title="vx.TV.cine" dvb-reference="4097:0:1:AEBF:A0AF:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/3460.m3u8
 #EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7B78:BD7D:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/993.m3u8
@@ -445,37 +445,37 @@ http://192.168.178.145:24555/live/noe/nix/3455.m3u8
 http://192.168.178.145:24555/live/noe/nix/6911.m3u8
 #EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:CDD:A837:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/6912.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6FBD:B12B:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6FBD:B12B:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/6861.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6D5:1345:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6D5:1345:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/6862.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6613:9FF5:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6613:9FF5:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/6863.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:2B1E:EF5E:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:2B1E:EF5E:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/976.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:EAD0:C43A:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:EAD0:C43A:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/3449.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:42E8:9FF8:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:42E8:9FF8:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/6909.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6D8C:8FA6:EC:0:0:0:0", Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="http://ngiss.t-online.de/cm1s/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6D8C:8FA6:EC:0:0:0:0", Sky Cinema Classics
 http://192.168.178.145:24555/live/noe/nix/6910.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6BA5:A21F:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6BA5:A21F:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/6964.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A57:D17A:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A57:D17A:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/6965.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:293C:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:293C:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/989.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:42E7:3D9:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:42E7:3D9:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/6919.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6D8F:3407:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6D8F:3407:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/6920.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:46:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:46:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/987.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:2CFB:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:2CFB:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/988.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9B6:7A48:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9B6:7A48:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/3447.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9B5:F667:EC:0:0:0:0", Sky Cinema Highlights ©
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Highlights" tvg-logo="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:9B5:F667:EC:0:0:0:0", Sky Cinema Highlights
 http://192.168.178.145:24555/live/noe/nix/3457.m3u8
 #EXTINF:-1 tvg-id="Sky.Krimi.de" tvg-name="Sky Krimi HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7B78:D67F:EC:0:0:0:0", Sky Krimi HD
 http://192.168.178.145:24555/live/noe/nix/991.m3u8
@@ -489,19 +489,19 @@ http://192.168.178.145:24555/live/noe/nix/6931.m3u8
 http://192.168.178.145:24555/live/noe/nix/6932.m3u8
 #EXTINF:-1 tvg-id="Sky.Krimi.de" tvg-name="Sky Krimi HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/2092514be53beb3a7d0b25a95db91ed27c707c8b.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7C8D:BB0D:EC:0:0:0:0", Sky Krimi HD
 http://192.168.178.145:24555/live/noe/nix/6933.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6BA:406:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:6BA:406:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/6974.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A56:355B:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1A56:355B:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/6975.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:944:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:D5A0:944:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/981.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7B78:DA3E:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7B78:DA3E:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/990.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:EAD0:4059:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:EAD0:4059:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/3459.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7C8C:B2CB:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:7C8C:B2CB:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/6913.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema Thriller ©" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1C41:6362:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-name="Sky Cinema Thriller" tvg-logo="http://ngiss.t-online.de/cm1s/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png" group-title="vx.TV.cine" dvb-reference="4097:0:1:1C41:6362:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/live/noe/nix/6921.m3u8
 #EXTINF:-1 tvg-id="DE:.Actionfilme.-.Rakuten.TV.de" tvg-name="RAKUTEN ACTION MOVIES" group-title="vx.TV.cine.2" dvb-reference="4097:0:1:76D:D76E:EC:0:0:0:0", RAKUTEN ACTION MOVIES
 http://192.168.178.145:24555/live/noe/nix/929.m3u8
@@ -887,8 +887,6 @@ http://192.168.178.145:24555/live/noe/nix/836.m3u8
 http://192.168.178.145:24555/live/noe/nix/3270.m3u8
 #EXTINF:-1 tvg-id="Crime.+.Investigation.de" tvg-name="Crime + Investigation" tvg-logo="http://ngiss.t-online.de/cm1s/media/98c3430141aaf756c564aedafebb36d0258f34c1.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:A22C:DECD:EC:0:0:0:0", Crime + Investigation
 http://192.168.178.145:24555/live/noe/nix/6612.m3u8
-#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY" group-title="vx.TV.doku" dvb-reference="4097:0:1:49F:E15D:EC:0:0:0:0", ID INVESTIGATION DISCOVERY
-http://192.168.178.145:24555/live/noe/nix/6706.m3u8
 #EXTINF:-1 tvg-id="Sky.Crime.de" tvg-name="Sky Crime" tvg-logo="http://ngiss.t-online.de/cm1s/media/55f7af6e6da0e5fe88c98d17969ec3567cde00c6.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:117A:1154:EC:0:0:0:0", Sky Crime
 http://192.168.178.145:24555/live/noe/nix/3461.m3u8
 #EXTINF:-1 tvg-id="Sky.Crime.de" tvg-name="Sky Crime" tvg-logo="http://ngiss.t-online.de/cm1s/media/55f7af6e6da0e5fe88c98d17969ec3567cde00c6.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:2B1F:1495:EC:0:0:0:0", Sky Crime
@@ -903,13 +901,13 @@ http://192.168.178.145:24555/live/noe/nix/6789.m3u8
 http://192.168.178.145:24555/live/noe/nix/6790.m3u8
 #EXTINF:-1 tvg-id="RTL.Crime.de" tvg-name="RTL Crime" tvg-logo="http://ngiss.t-online.de/cm1s/media/fda6a6827c4ba695a264061adc0a8813eb83afa7.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:462:6EF:EC:0:0:0:0", RTL Crime
 http://192.168.178.145:24555/live/noe/nix/6791.m3u8
-#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" group-title="vx.TV.doku" dvb-reference="4097:0:1:D5A0:D03:EC:0:0:0:0", Sky Documentaries
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:D5A0:D03:EC:0:0:0:0", Sky Documentaries
 http://192.168.178.145:24555/live/noe/nix/980.m3u8
 #EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:F0D:9479:EC:0:0:0:0", Sky Documentaries
 http://192.168.178.145:24555/live/noe/nix/3462.m3u8
 #EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:6BA7:B19B:EC:0:0:0:0", Sky Documentaries
 http://192.168.178.145:24555/live/noe/nix/6924.m3u8
-#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="DOKUMENTATION" group-title="vx.TV.doku" dvb-reference="4097:0:1:D8F1:D38:EC:0:0:0:0", DOKUMENTATION
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:D8F1:D38:EC:0:0:0:0", DSky Documentaries
 http://192.168.178.145:24555/live/noe/nix/8749.m3u8
 #EXTINF:-1 tvg-id="SPIEGEL.Geschichte.de" tvg-name="Spiegel Geschichte HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/cb6141ae4226647544a9af4b6d69e41d557fe894.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:3C9B:DCA5:EC:0:0:0:0", Spiegel Geschichte HD
 http://192.168.178.145:24555/live/noe/nix/1042.m3u8
@@ -961,23 +959,21 @@ http://192.168.178.145:24555/live/noe/nix/3347.m3u8
 http://192.168.178.145:24555/live/noe/nix/6752.m3u8
 #EXTINF:-1 tvg-id="N24.Doku.de" tvg-name="N24 Doku" tvg-logo="http://ngiss.t-online.de/cm1s/media/bf4ce870d460dcdb3b1e573d58a14137a7d002ea.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:9F2:47B1:EC:0:0:0:0", N24 Doku
 http://192.168.178.145:24555/live/noe/nix/6753.m3u8
-#EXTINF:-1 tvg-name="NACHRICHTEN" group-title="vx.TV.doku" dvb-reference="4097:0:1:204:32CC:EC:0:0:0:0", NACHRICHTEN
-http://192.168.178.145:24555/live/noe/nix/8752.m3u8
 #EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-logo="http://ngiss.t-online.de/cm1s/media/4f1286373cd3362649d2e4ae1692ab8a360bf773.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:4CB4:2CFF:EC:0:0:0:0", ARD-alpha
 http://192.168.178.145:24555/live/noe/nix/818.m3u8
 #EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-logo="http://ngiss.t-online.de/cm1s/media/4f1286373cd3362649d2e4ae1692ab8a360bf773.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:CD36:BF2D:EC:0:0:0:0", ARD-alpha
 http://192.168.178.145:24555/live/noe/nix/3246.m3u8
 #EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-logo="http://ngiss.t-online.de/cm1s/media/4f1286373cd3362649d2e4ae1692ab8a360bf773.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:71F8:54AD:EC:0:0:0:0", ARD-alpha
 http://192.168.178.145:24555/live/noe/nix/6566.m3u8
-#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:4CB2:8C9F:EC:0:0:0:0", PHOENIX
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/fa100453c168d165e7ac472273caab7486f948f3.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:4CB2:8C9F:EC:0:0:0:0", PHOENIX
 http://192.168.178.145:24555/live/noe/nix/919.m3u8
-#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:693:E84C:EC:0:0:0:0", PHOENIX
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/fa100453c168d165e7ac472273caab7486f948f3.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:693:E84C:EC:0:0:0:0", PHOENIX
 http://192.168.178.145:24555/live/noe/nix/3379.m3u8
-#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:2B5:BB98:EC:0:0:0:0", PHOENIX
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/fa100453c168d165e7ac472273caab7486f948f3.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:2B5:BB98:EC:0:0:0:0", PHOENIX
 http://192.168.178.145:24555/live/noe/nix/6772.m3u8
-#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:9F3:4FF3:EC:0:0:0:0", PHOENIX
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/fa100453c168d165e7ac472273caab7486f948f3.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:9F3:4FF3:EC:0:0:0:0", PHOENIX
 http://192.168.178.145:24555/live/noe/nix/6773.m3u8
-#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:FAF3:2CCE:EC:0:0:0:0", PHOENIX
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" tvg-logo="http://ngiss.t-online.de/cm1s/media/fa100453c168d165e7ac472273caab7486f948f3.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:FAF3:2CCE:EC:0:0:0:0", PHOENIX
 http://192.168.178.145:24555/live/noe/nix/6774.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfokanal" tvg-logo="http://ngiss.t-online.de/cm1s/media/60641d1e04421f17dd4369382a389b0d7599b736.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:3CBC:E569:EC:0:0:0:0", ZDFinfokanal
 http://192.168.178.145:24555/live/noe/nix/7062.m3u8
@@ -1013,33 +1009,37 @@ http://192.168.178.145:24555/live/noe/nix/6755.m3u8
 http://192.168.178.145:24555/live/noe/nix/6756.m3u8
 #EXTINF:-1 tvg-id="Sky.Nature.de" tvg-name="Sky Nature" tvg-logo="http://ngiss.t-online.de/cm1s/media/6ed382f8ee9fb14dd678d78dbe4d4d8c2f9ff0c5.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:7B78:C13C:EC:0:0:0:0", Sky Nature
 http://192.168.178.145:24555/live/noe/nix/992.m3u8
+#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY" group-title="vx.TV.doku" dvb-reference="4097:0:1:49F:E15D:EC:0:0:0:0", ID INVESTIGATION DISCOVERY
+http://192.168.178.145:24555/live/noe/nix/6706.m3u8
+#EXTINF:-1 tvg-name="NACHRICHTEN" group-title="vx.TV.doku" dvb-reference="4097:0:1:204:32CC:EC:0:0:0:0", NACHRICHTEN
+http://192.168.178.145:24555/live/noe/nix/8752.m3u8
 #EXTINF:-1 tvg-name="DW" group-title="vx.TV.doku" dvb-reference="4097:0:1:A413:59FF:EC:0:0:0:0", DW
 http://192.168.178.145:24555/live/noe/nix/6676.m3u8
 #EXTINF:-1 tvg-name="DW TV" group-title="vx.TV.doku" dvb-reference="4097:0:1:CA8C:7CF3:EC:0:0:0:0", DW TV
 http://192.168.178.145:24555/live/noe/nix/850.m3u8
 #EXTINF:-1 tvg-name="GENIUS PLUS TV" group-title="vx.TV.doku" dvb-reference="4097:0:1:2D39:9947:EC:0:0:0:0", GENIUS PLUS TV
 http://192.168.178.145:24555/live/noe/nix/3301.m3u8
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" group-title="vx.TV.sport" dvb-reference="4097:0:1:80B3:53A3:EC:0:0:0:0", eSports1
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" tvg-logo="http://ngiss.t-online.de/cm1s/media/db482843563c10f6527e4bd3bc9f3ed68c1603f7.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:80B3:53A3:EC:0:0:0:0", eSports1
 http://192.168.178.145:24555/live/noe/nix/3291.m3u8
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" group-title="vx.TV.sport" dvb-reference="4097:0:1:53C6:2053:EC:0:0:0:0", eSports1
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" tvg-logo="http://ngiss.t-online.de/cm1s/media/db482843563c10f6527e4bd3bc9f3ed68c1603f7.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:53C6:2053:EC:0:0:0:0", eSports1
 http://192.168.178.145:24555/live/noe/nix/6681.m3u8
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" group-title="vx.TV.sport" dvb-reference="4097:0:1:F85A:2196:EC:0:0:0:0", eSports1
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" tvg-logo="http://ngiss.t-online.de/cm1s/media/db482843563c10f6527e4bd3bc9f3ed68c1603f7.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:F85A:2196:EC:0:0:0:0", eSports1
 http://192.168.178.145:24555/live/noe/nix/8750.m3u8
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" group-title="vx.TV.sport" dvb-reference="4097:0:1:8547:AA81:EC:0:0:0:0", eSports1
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1" tvg-logo="http://ngiss.t-online.de/cm1s/media/db482843563c10f6527e4bd3bc9f3ed68c1603f7.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:8547:AA81:EC:0:0:0:0", eSports1
 http://192.168.178.145:24555/live/noe/nix/861.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:6F9:460C:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:6F9:460C:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/3502.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:1E46:901B:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:1E46:901B:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/3503.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:3D20:D714:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:3D20:D714:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/1045.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:3AB4:5A39:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:3AB4:5A39:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/1046.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:6BA2:8A51:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:6BA2:8A51:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/6984.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:1A54:B9AC:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:1A54:B9AC:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/6985.m3u8
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" group-title="vx.TV.sport" dvb-reference="4097:0:1:B29:DD7:EC:0:0:0:0", Sport1
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="Sport1" tvg-logo="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:B29:DD7:EC:0:0:0:0", Sport1
 http://192.168.178.145:24555/live/noe/nix/8767.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="Eurosport 1" tvg-logo="http://ngiss.t-online.de/cm1s/media/18f200745e93b6c9848237acaaa008ea9f520f94.png" group-title="vx.TV.sport" dvb-reference="4097:0:1:2065:5FD9:EC:0:0:0:0", Eurosport 1
 http://192.168.178.145:24555/live/noe/nix/3293.m3u8
@@ -1465,7 +1465,7 @@ http://192.168.178.145:24555/live/noe/nix/3333.m3u8
 http://192.168.178.145:24555/live/noe/nix/887.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 4" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2415:6E1:EC:0:0:0:0", MAGENTA SPORT 4
 http://192.168.178.145:24555/live/noe/nix/3334.m3u8
-#EXTINF:-1 tvg-name="MAGENTA SPORT 5" tvg-logo="https://vavoo.to/live2/logo/958030709.png" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2B52:9B3C:EC:0:0:0:0", MAGENTA SPORT 5
+#EXTINF:-1 tvg-name="MAGENTA SPORT 5"group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2B52:9B3C:EC:0:0:0:0", MAGENTA SPORT 5
 http://192.168.178.145:24555/live/noe/nix/3335.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 5" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:D5A1:C99C:EC:0:0:0:0", MAGENTA SPORT 5
 http://192.168.178.145:24555/live/noe/nix/888.m3u8
@@ -1485,15 +1485,15 @@ http://192.168.178.145:24555/live/noe/nix/3323.m3u8
 http://192.168.178.145:24555/live/noe/nix/3324.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 12" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:D5A1:A0A6:EC:0:0:0:0", MAGENTA SPORT 12
 http://192.168.178.145:24555/live/noe/nix/886.m3u8
-#EXTINF:-1 tvg-name="MAGENTA SPORT 13" tvg-logo="https://vavoo.to/live2/logo/308408190.png" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2B53:1F1D:EC:0:0:0:0", MAGENTA SPORT 13
+#EXTINF:-1 tvg-name="MAGENTA SPORT 13" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2B53:1F1D:EC:0:0:0:0", MAGENTA SPORT 13
 http://192.168.178.145:24555/live/noe/nix/3325.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 14" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2DBF:9BF8:EC:0:0:0:0", MAGENTA SPORT 14
 http://192.168.178.145:24555/live/noe/nix/3326.m3u8
-#EXTINF:-1 tvg-name="MAGENTA SPORT 15" tvg-logo="https://vavoo.to/live2/logo/2636192478.png" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:34FD:3053:EC:0:0:0:0", MAGENTA SPORT 15
+#EXTINF:-1 tvg-name="MAGENTA SPORT 15" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:34FD:3053:EC:0:0:0:0", MAGENTA SPORT 15
 http://192.168.178.145:24555/live/noe/nix/3327.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 17" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:692:5CB1:EC:0:0:0:0", MAGENTA SPORT 17
 http://192.168.178.145:24555/live/noe/nix/3329.m3u8
-#EXTINF:-1 tvg-name="MAGENTA SPORT 19" tvg-logo="https://vavoo.to/live2/logo/1490155487.png" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:25FC:894D:EC:0:0:0:0", MAGENTA SPORT 19
+#EXTINF:-1 tvg-name="MAGENTA SPORT 19" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:25FC:894D:EC:0:0:0:0", MAGENTA SPORT 19
 http://192.168.178.145:24555/live/noe/nix/3330.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 20" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2FA6:9A83:EC:0:0:0:0", MAGENTA SPORT 20
 http://192.168.178.145:24555/live/noe/nix/3332.m3u8
@@ -1539,9 +1539,9 @@ http://192.168.178.145:24555/live/noe/nix/841.m3u8
 http://192.168.178.145:24555/live/noe/nix/6659.m3u8
 #EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="http://ngiss.t-online.de/cm1s/media/d31840e010d6da58d1aeb2009b04f5a9924481c1.png" group-title="vx.TV.music" dvb-reference="4097:0:1:CD37:438E:EC:0:0:0:0", Deluxe Music
 http://192.168.178.145:24555/live/noe/nix/3276.m3u8
-#EXTINF:-1 tvg-id="Deutsches.Musik.Ferns..de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/febc89b3d6ee8a59fce7915cc9ccc7b4448cfd3e.png" group-title="vx.TV.music" dvb-reference="4097:0:1:24B3:96B6:EC:0:0:0:0", Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-id="Deutsches.Musik.Ferns..de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/267c582e6326119aeb712dd92e122fcadaf34e1e.png" group-title="vx.TV.music" dvb-reference="4097:0:1:24B3:96B6:EC:0:0:0:0", Deutsches Musik Fernsehen
 http://192.168.178.145:24555/live/noe/nix/842.m3u8
-#EXTINF:-1 tvg-id="Deutsches.Musik.Ferns..de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/febc89b3d6ee8a59fce7915cc9ccc7b4448cfd3e.png" group-title="vx.TV.music" dvb-reference="4097:0:1:9ECC:6FEC:EC:0:0:0:0", Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-id="Deutsches.Musik.Ferns..de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="http://ngiss.t-online.de/cm1s/media/267c582e6326119aeb712dd92e122fcadaf34e1e.png" group-title="vx.TV.music" dvb-reference="4097:0:1:9ECC:6FEC:EC:0:0:0:0", Deutsches Musik Fernsehen
 http://192.168.178.145:24555/live/noe/nix/3278.m3u8
 #EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-logo="http://ngiss.t-online.de/cm1s/media/9735a7ac5cfcf3c56acd644069751c8c5b72bbe8.png" group-title="vx.TV.music" dvb-reference="4097:0:1:2B2:87C:EC:0:0:0:0", Jukebox
 http://192.168.178.145:24555/live/noe/nix/875.m3u8
@@ -1557,13 +1557,13 @@ http://192.168.178.145:24555/live/noe/nix/895.m3u8
 http://192.168.178.145:24555/live/noe/nix/3343.m3u8
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV Germany" tvg-logo="http://ngiss.t-online.de/cm1s/media/95d8d4289c6a6056f67cac44eded24ad7b8cce8a.png" group-title="vx.TV.music" dvb-reference="4097:0:1:49D:D1E1:EC:0:0:0:0", MTV Germany
 http://192.168.178.145:24555/live/noe/nix/6746.m3u8
-#EXTINF:-1 tvg-id="MTV.Hits.de" tvg-name="MTV HITS" group-title="vx.TV.music" dvb-reference="4097:0:1:BDB:663C:EC:0:0:0:0", MTV HITS
+#EXTINF:-1 tvg-id="MTV.Hits.de" tvg-name="MTV HITS" tvg-logo="http://ngiss.t-online.de/cm1s/media/95d8d4289c6a6056f67cac44eded24ad7b8cce8a.png" group-title="vx.TV.music" dvb-reference="4097:0:1:BDB:663C:EC:0:0:0:0", MTV HITS
 http://192.168.178.145:24555/live/noe/nix/6747.m3u8
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="vx.TV.music" dvb-reference="4097:0:1:185E:8885:EC:0:0:0:0", XITE
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://vavoo.to/live2/logo/835915068.png" group-title="vx.TV.music" dvb-reference="4097:0:1:185E:8885:EC:0:0:0:0", XITE
 http://192.168.178.145:24555/live/noe/nix/1079.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://vavoo.to/live2/logo/835915068.png" group-title="vx.TV.music" dvb-reference="4097:0:1:1E48:9F97:EC:0:0:0:0", XITE
 http://192.168.178.145:24555/live/noe/nix/3543.m3u8
-#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="vx.TV.music" dvb-reference="4097:0:1:B5C5:20A4:EC:0:0:0:0", XITE
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" tvg-logo="https://vavoo.to/live2/logo/835915068.png" group-title="vx.TV.music" dvb-reference="4097:0:1:B5C5:20A4:EC:0:0:0:0", XITE
 http://192.168.178.145:24555/live/noe/nix/7058.m3u8
 #EXTINF:-1 tvg-name="MUSIK" group-title="vx.TV.music" dvb-reference="4097:0:1:D9A1:8DC2:EC:0:0:0:0", MUSIK
 http://192.168.178.145:24555/live/noe/nix/6749.m3u8
@@ -3351,11 +3351,11 @@ http://192.168.178.145:24555/hls/2132
 http://192.168.178.145:24555/hls/8609
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="SKYLANTIC" group-title="vx.TV.UK" dvb-reference="4097:0:1:212:7058:EC:0:0:0:0", SKYLANTIC
 http://192.168.178.145:24555/hls/2133
-#EXTINF:-1 tvg-id="Sky.Adventure.uk" tvg-name="Sky Cinema Action © & ADVENTURE" group-title="vx.TV.UK" dvb-reference="4097:0:1:E53:ED0C:EC:0:0:0:0", Sky Cinema Action © & ADVENTURE
+#EXTINF:-1 tvg-id="Sky.Adventure.uk" tvg-name="Sky Cinema Action & ADVENTURE" group-title="vx.TV.UK" dvb-reference="4097:0:1:E53:ED0C:EC:0:0:0:0", Sky Cinema Action & ADVENTURE
 http://192.168.178.145:24555/hls/8610
-#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action ©" group-title="vx.TV.UK" dvb-reference="4097:0:1:E10E:A45B:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action" group-title="vx.TV.UK" dvb-reference="4097:0:1:E10E:A45B:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/hls/8965
-#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action ©" group-title="vx.TV.UK" dvb-reference="4097:0:1:2127:581:EC:0:0:0:0", Sky Cinema Action ©
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action" group-title="vx.TV.UK" dvb-reference="4097:0:1:2127:581:EC:0:0:0:0", Sky Cinema Action
 http://192.168.178.145:24555/hls/2134
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-name="SKY CINEMA ANIMATION" group-title="vx.TV.UK" dvb-reference="4097:0:1:2127:582:EC:0:0:0:0", SKY CINEMA ANIMATION
 http://192.168.178.145:24555/hls/2135
@@ -3393,9 +3393,9 @@ http://192.168.178.145:24555/hls/2143
 http://192.168.178.145:24555/hls/8618
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="SKY CINEMA SELECT" group-title="vx.TV.UK" dvb-reference="4097:0:1:F3E1:BE7A:EC:0:0:0:0", SKY CINEMA SELECT
 http://192.168.178.145:24555/hls/2144
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller ©" group-title="vx.TV.UK" dvb-reference="4097:0:1:E53:ED03:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller" group-title="vx.TV.UK" dvb-reference="4097:0:1:E53:ED03:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/hls/8619
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller ©" group-title="vx.TV.UK" dvb-reference="4097:0:1:F3E1:BE7B:EC:0:0:0:0", Sky Cinema Thriller ©
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Cinema Thriller" group-title="vx.TV.UK" dvb-reference="4097:0:1:F3E1:BE7B:EC:0:0:0:0", Sky Cinema Thriller
 http://192.168.178.145:24555/hls/2145
 #EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-name="SKY CRIME" group-title="vx.TV.UK" dvb-reference="4097:0:1:F3E1:BE7C:EC:0:0:0:0", SKY CRIME
 http://192.168.178.145:24555/hls/2146
