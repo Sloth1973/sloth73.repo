@@ -907,7 +907,7 @@ http://192.168.178.145:24555/live/noe/nix/980.m3u8
 http://192.168.178.145:24555/live/noe/nix/3462.m3u8
 #EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:6BA7:B19B:EC:0:0:0:0", Sky Documentaries
 http://192.168.178.145:24555/live/noe/nix/6924.m3u8
-#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:D8F1:D38:EC:0:0:0:0", DSky Documentaries
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="http://ngiss.t-online.de/cm1s/media/d678db56c8ea3648fe89d02a8b017a8b9a7d9f06.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:D8F1:D38:EC:0:0:0:0", Sky Documentaries
 http://192.168.178.145:24555/live/noe/nix/8749.m3u8
 #EXTINF:-1 tvg-id="SPIEGEL.Geschichte.de" tvg-name="Spiegel Geschichte HD" tvg-logo="http://ngiss.t-online.de/cm1s/media/cb6141ae4226647544a9af4b6d69e41d557fe894.png" group-title="vx.TV.doku" dvb-reference="4097:0:1:3C9B:DCA5:EC:0:0:0:0", Spiegel Geschichte HD
 http://192.168.178.145:24555/live/noe/nix/1042.m3u8
@@ -1465,7 +1465,7 @@ http://192.168.178.145:24555/live/noe/nix/3333.m3u8
 http://192.168.178.145:24555/live/noe/nix/887.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 4" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2415:6E1:EC:0:0:0:0", MAGENTA SPORT 4
 http://192.168.178.145:24555/live/noe/nix/3334.m3u8
-#EXTINF:-1 tvg-name="MAGENTA SPORT 5"group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2B52:9B3C:EC:0:0:0:0", MAGENTA SPORT 5
+#EXTINF:-1 tvg-name="MAGENTA SPORT 5" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:2B52:9B3C:EC:0:0:0:0", MAGENTA SPORT 5
 http://192.168.178.145:24555/live/noe/nix/3335.m3u8
 #EXTINF:-1 tvg-name="MAGENTA SPORT 5" group-title="vx.TV.sport.2" dvb-reference="4097:0:1:D5A1:C99C:EC:0:0:0:0", MAGENTA SPORT 5
 http://192.168.178.145:24555/live/noe/nix/888.m3u8
